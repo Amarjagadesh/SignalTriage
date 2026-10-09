@@ -1,7 +1,7 @@
 // The only file in the app that knows the backend's URL and endpoint shape.
 // If the backend moves or changes, this is the one place to update.
 
-const API_BASE_URL = "http://localhost:8000";
+const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:8000";
 
 export async function fetchAnalysis(drug, { live = true, limit = 100 } = {}) {
   const params = new URLSearchParams({ drug, live, limit });
