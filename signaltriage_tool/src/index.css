@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/*
+  Design tokens for SignalTriage.
+  Signature idea: the tool finds a "signal spike above the normal
+  background noise" -- PRR, visually. Colors and type below all serve
+  that idea rather than being arbitrary picks.
+*/
+:root {
+  /* --- Option 2: Deep Teal & Warm Amber Bio-Pharma Palette --- */
+  --color-bg: #16282E;        /* Muted deep sage/teal mid-tone canvas */
+  --color-surface: #1F363E;   /* Oceanic slate teal surface */
+  --color-surface-elevated: #28444E; /* Elevated popovers / inputs */
+  --color-ink: #ECFDF5;       /* Mint cream primary text */
+  --color-ink-soft: #A7C1C8;  /* Soft seafoam-gray secondary text */
+  --color-border: #31515C;    /* Seafoam frost border */
+
+  /* --- Multi-Color Pharmacovigilance Accents --- */
+  --color-primary: #F59E0B;   /* Warm Amber Gold */
+  --color-review: #F43F5E;    /* Crimson Coral -- "Review priority" */
+  --color-monitor: #A78BFA;   /* Soft Lavender -- "Monitor" / "Unstable ratio" */
+  --color-background-level: #10B981; /* Mint Aqua -- "Background level" */
+  --color-muted: #64748B;     /* Slate gray -- "Insufficient / Unavailable" */
+
+  /* --- Neon chart accents ---
+     Kept separate from the triage colours above, which carry meaning and must
+     never be reassigned for looks. These are purely decorative series colours
+     for charts that encode a quantity rather than a status. */
+  --chart-1: #22D3EE;   /* cyan */
+  --chart-2: #818CF8;   /* indigo */
+  --chart-3: #E879F9;   /* fuchsia */
+  --chart-4: #F59E0B;   /* amber, ties back to the brand */
+  --chart-5: #34D399;   /* emerald */
+  --chart-6: #60A5FA;   /* blue */
+
+  --chart-panel: linear-gradient(158deg, #14262F 0%, #0C1A21 100%);
+  --chart-grid: rgba(125, 176, 205, 0.13);
+  --chart-grid-strong: rgba(125, 176, 205, 0.26);
+  --chart-axis-text: rgba(167, 193, 200, 0.72);
+  --chart-tooltip-bg: rgba(8, 19, 25, 0.95);
+
+  /* --- Type: three roles, each doing a distinct job --- */
+  --font-display: 'Fraunces', Georgia, serif;      /* headers -- editorial character */
+  --font-body: 'Inter', system-ui, sans-serif;      /* body copy -- quiet, plain */
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace; /* data/numbers -- instrument-readout feel */
+
+  /* --- Spacing scale --- */
+  --space-xs: 6px;
+  --space-sm: 12px;
+  --space-md: 20px;
+  --space-lg: 32px;
+  --space-xl: 48px;
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+
+  --shadow-card: 0 4px 20px rgba(0, 0, 0, 0.25), 0 0 0 1px rgba(49, 81, 92, 0.6);
+  --shadow-card-hover: 0 8px 30px rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(245, 158, 11, 0.4);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-bg);
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(245, 158, 11, 0.12) 0px, transparent 45%),
+    radial-gradient(at 100% 0%, rgba(16, 185, 129, 0.12) 0px, transparent 45%),
+    radial-gradient(at 50% 100%, rgba(167, 139, 250, 0.08) 0px, transparent 55%);
+  background-attachment: fixed;
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  width: 100%;
+  min-height: 100svh;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  color: var(--color-ink);
+  margin: 0;
+}
+
+h1 { font-size: 34px; letter-spacing: -0.3px; }
+h2 { font-size: 22px; }
+h3 { font-size: 17px; }
+
+p { margin: 0; }
+
+/* Reserved for the "instrument readout" feel on PRR values and tables */
+.mono {
+  font-family: var(--font-mono);
+}
+
+/* Respect reduced-motion preferences (required quality floor, not optional) */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

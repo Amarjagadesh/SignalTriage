@@ -1,0 +1,1001 @@
+report_id,drug_name,reaction_term,serious,sex,age,age_group,report_year,source_mode
+IBUPROFEN-00001,ibuprofen,Nausea,No,Male,79,76-90,2025,cached_demo
+IBUPROFEN-00002,ibuprofen,Nausea,No,Female,39,31-45,2023,cached_demo
+IBUPROFEN-00003,ibuprofen,Nausea,Yes,Female,24,18-30,2023,cached_demo
+IBUPROFEN-00004,ibuprofen,Nausea,Yes,Unknown,42,31-45,2026,cached_demo
+IBUPROFEN-00005,ibuprofen,Nausea,Yes,Unknown,87,76-90,2024,cached_demo
+IBUPROFEN-00006,ibuprofen,Nausea,Yes,Male,56,46-60,2022,cached_demo
+IBUPROFEN-00007,ibuprofen,Nausea,No,Unknown,68,61-75,2025,cached_demo
+IBUPROFEN-00008,ibuprofen,Nausea,Yes,Female,37,31-45,2022,cached_demo
+IBUPROFEN-00009,ibuprofen,Nausea,Yes,Female,72,61-75,2026,cached_demo
+IBUPROFEN-00010,ibuprofen,Nausea,Yes,Male,79,76-90,2022,cached_demo
+IBUPROFEN-00011,ibuprofen,Nausea,Yes,Unknown,44,31-45,2024,cached_demo
+IBUPROFEN-00012,ibuprofen,Nausea,Yes,Male,28,18-30,2024,cached_demo
+IBUPROFEN-00013,ibuprofen,Nausea,Yes,Female,68,61-75,2024,cached_demo
+IBUPROFEN-00014,ibuprofen,Nausea,No,Unknown,29,18-30,2025,cached_demo
+IBUPROFEN-00015,ibuprofen,Nausea,Yes,Female,41,31-45,2024,cached_demo
+IBUPROFEN-00016,ibuprofen,Nausea,Yes,Male,41,31-45,2024,cached_demo
+IBUPROFEN-00017,ibuprofen,Nausea,Yes,Female,74,61-75,2023,cached_demo
+IBUPROFEN-00018,ibuprofen,Nausea,No,Male,52,46-60,2023,cached_demo
+IBUPROFEN-00019,ibuprofen,Nausea,Yes,Unknown,30,18-30,2024,cached_demo
+IBUPROFEN-00020,ibuprofen,Nausea,Yes,Unknown,87,76-90,2023,cached_demo
+IBUPROFEN-00021,ibuprofen,Nausea,Yes,Female,88,76-90,2026,cached_demo
+IBUPROFEN-00022,ibuprofen,Nausea,No,Unknown,71,61-75,2025,cached_demo
+IBUPROFEN-00023,ibuprofen,Nausea,Yes,Female,48,46-60,2022,cached_demo
+IBUPROFEN-00024,ibuprofen,Nausea,No,Male,68,61-75,2026,cached_demo
+IBUPROFEN-00025,ibuprofen,Nausea,No,Unknown,84,76-90,2026,cached_demo
+IBUPROFEN-00026,ibuprofen,Nausea,Yes,Female,36,31-45,2023,cached_demo
+IBUPROFEN-00027,ibuprofen,Nausea,Yes,Male,39,31-45,2023,cached_demo
+IBUPROFEN-00028,ibuprofen,Nausea,Yes,Male,23,18-30,2025,cached_demo
+IBUPROFEN-00029,ibuprofen,Nausea,No,Male,43,31-45,2026,cached_demo
+IBUPROFEN-00030,ibuprofen,Nausea,Yes,Unknown,51,46-60,2022,cached_demo
+IBUPROFEN-00031,ibuprofen,Nausea,Yes,Unknown,29,18-30,2025,cached_demo
+IBUPROFEN-00032,ibuprofen,Nausea,Yes,Female,88,76-90,2026,cached_demo
+IBUPROFEN-00033,ibuprofen,Nausea,Yes,Unknown,76,76-90,2026,cached_demo
+IBUPROFEN-00034,ibuprofen,Nausea,Yes,Male,84,76-90,2025,cached_demo
+IBUPROFEN-00035,ibuprofen,Nausea,Yes,Unknown,37,31-45,2026,cached_demo
+IBUPROFEN-00036,ibuprofen,Nausea,Yes,Unknown,30,18-30,2022,cached_demo
+IBUPROFEN-00037,ibuprofen,Nausea,No,Female,54,46-60,2025,cached_demo
+IBUPROFEN-00038,ibuprofen,Nausea,Yes,Unknown,51,46-60,2025,cached_demo
+IBUPROFEN-00039,ibuprofen,Nausea,Yes,Male,78,76-90,2024,cached_demo
+IBUPROFEN-00040,ibuprofen,Nausea,Yes,Unknown,69,61-75,2026,cached_demo
+IBUPROFEN-00041,ibuprofen,Nausea,Yes,Female,69,61-75,2024,cached_demo
+IBUPROFEN-00042,ibuprofen,Nausea,Yes,Unknown,48,46-60,2025,cached_demo
+IBUPROFEN-00043,ibuprofen,Nausea,Yes,Male,52,46-60,2024,cached_demo
+IBUPROFEN-00044,ibuprofen,Nausea,Yes,Female,56,46-60,2025,cached_demo
+IBUPROFEN-00045,ibuprofen,Nausea,Yes,Male,30,18-30,2024,cached_demo
+IBUPROFEN-00046,ibuprofen,Nausea,Yes,Female,74,61-75,2025,cached_demo
+IBUPROFEN-00047,ibuprofen,Nausea,Yes,Female,29,18-30,2023,cached_demo
+IBUPROFEN-00048,ibuprofen,Nausea,No,Female,70,61-75,2026,cached_demo
+IBUPROFEN-00049,ibuprofen,Nausea,Yes,Unknown,65,61-75,2023,cached_demo
+IBUPROFEN-00050,ibuprofen,Nausea,Yes,Unknown,26,18-30,2026,cached_demo
+IBUPROFEN-00051,ibuprofen,Nausea,Yes,Unknown,69,61-75,2026,cached_demo
+IBUPROFEN-00052,ibuprofen,Nausea,Yes,Male,21,18-30,2023,cached_demo
+IBUPROFEN-00053,ibuprofen,Nausea,Yes,Male,25,18-30,2025,cached_demo
+IBUPROFEN-00054,ibuprofen,Nausea,Yes,Unknown,24,18-30,2023,cached_demo
+IBUPROFEN-00055,ibuprofen,Nausea,Yes,Female,53,46-60,2026,cached_demo
+IBUPROFEN-00056,ibuprofen,Nausea,No,Male,68,61-75,2022,cached_demo
+IBUPROFEN-00057,ibuprofen,Nausea,Yes,Female,48,46-60,2026,cached_demo
+IBUPROFEN-00058,ibuprofen,Nausea,Yes,Female,75,61-75,2026,cached_demo
+IBUPROFEN-00059,ibuprofen,Nausea,Yes,Female,88,76-90,2023,cached_demo
+IBUPROFEN-00060,ibuprofen,Nausea,No,Unknown,51,46-60,2022,cached_demo
+IBUPROFEN-00061,ibuprofen,Nausea,Yes,Female,54,46-60,2022,cached_demo
+IBUPROFEN-00062,ibuprofen,Nausea,No,Male,38,31-45,2023,cached_demo
+IBUPROFEN-00063,ibuprofen,Nausea,No,Male,46,46-60,2024,cached_demo
+IBUPROFEN-00064,ibuprofen,Nausea,No,Male,70,61-75,2022,cached_demo
+IBUPROFEN-00065,ibuprofen,Nausea,Yes,Unknown,78,76-90,2023,cached_demo
+IBUPROFEN-00066,ibuprofen,Nausea,Yes,Female,19,18-30,2026,cached_demo
+IBUPROFEN-00067,ibuprofen,Nausea,No,Unknown,57,46-60,2024,cached_demo
+IBUPROFEN-00068,ibuprofen,Nausea,Yes,Female,72,61-75,2025,cached_demo
+IBUPROFEN-00069,ibuprofen,Nausea,Yes,Female,50,46-60,2024,cached_demo
+IBUPROFEN-00070,ibuprofen,Nausea,No,Female,84,76-90,2026,cached_demo
+IBUPROFEN-00071,ibuprofen,Nausea,Yes,Unknown,31,31-45,2024,cached_demo
+IBUPROFEN-00072,ibuprofen,Nausea,No,Unknown,89,76-90,2026,cached_demo
+IBUPROFEN-00073,ibuprofen,Nausea,Yes,Unknown,54,46-60,2022,cached_demo
+IBUPROFEN-00074,ibuprofen,Nausea,Yes,Female,79,76-90,2024,cached_demo
+IBUPROFEN-00075,ibuprofen,Nausea,Yes,Female,59,46-60,2024,cached_demo
+IBUPROFEN-00076,ibuprofen,Nausea,Yes,Unknown,42,31-45,2023,cached_demo
+IBUPROFEN-00077,ibuprofen,Nausea,No,Female,25,18-30,2024,cached_demo
+IBUPROFEN-00078,ibuprofen,Nausea,No,Male,35,31-45,2025,cached_demo
+IBUPROFEN-00079,ibuprofen,Nausea,Yes,Female,55,46-60,2025,cached_demo
+IBUPROFEN-00080,ibuprofen,Nausea,No,Male,67,61-75,2026,cached_demo
+IBUPROFEN-00081,ibuprofen,Nausea,Yes,Unknown,42,31-45,2023,cached_demo
+IBUPROFEN-00082,ibuprofen,Nausea,No,Female,86,76-90,2024,cached_demo
+IBUPROFEN-00083,ibuprofen,Nausea,Yes,Male,82,76-90,2026,cached_demo
+IBUPROFEN-00084,ibuprofen,Nausea,Yes,Male,41,31-45,2025,cached_demo
+IBUPROFEN-00085,ibuprofen,Nausea,No,Female,34,31-45,2026,cached_demo
+IBUPROFEN-00086,ibuprofen,Nausea,No,Female,41,31-45,2022,cached_demo
+IBUPROFEN-00087,ibuprofen,Nausea,Yes,Male,46,46-60,2024,cached_demo
+IBUPROFEN-00088,ibuprofen,Nausea,Yes,Female,71,61-75,2024,cached_demo
+IBUPROFEN-00089,ibuprofen,Nausea,Yes,Male,55,46-60,2025,cached_demo
+IBUPROFEN-00090,ibuprofen,Nausea,No,Unknown,24,18-30,2026,cached_demo
+IBUPROFEN-00091,ibuprofen,Nausea,Yes,Male,27,18-30,2026,cached_demo
+IBUPROFEN-00092,ibuprofen,Nausea,No,Female,33,31-45,2026,cached_demo
+IBUPROFEN-00093,ibuprofen,Nausea,Yes,Male,56,46-60,2023,cached_demo
+IBUPROFEN-00094,ibuprofen,Nausea,Yes,Female,35,31-45,2025,cached_demo
+IBUPROFEN-00095,ibuprofen,Nausea,Yes,Male,90,76-90,2024,cached_demo
+IBUPROFEN-00096,ibuprofen,Nausea,Yes,Female,41,31-45,2024,cached_demo
+IBUPROFEN-00097,ibuprofen,Nausea,Yes,Unknown,40,31-45,2022,cached_demo
+IBUPROFEN-00098,ibuprofen,Nausea,Yes,Female,18,18-30,2023,cached_demo
+IBUPROFEN-00099,ibuprofen,Nausea,No,Male,39,31-45,2025,cached_demo
+IBUPROFEN-00100,ibuprofen,Nausea,Yes,Unknown,29,18-30,2025,cached_demo
+IBUPROFEN-00101,ibuprofen,Nausea,Yes,Female,72,61-75,2025,cached_demo
+IBUPROFEN-00102,ibuprofen,Nausea,Yes,Male,67,61-75,2026,cached_demo
+IBUPROFEN-00103,ibuprofen,Nausea,No,Female,43,31-45,2022,cached_demo
+IBUPROFEN-00104,ibuprofen,Nausea,No,Male,59,46-60,2022,cached_demo
+IBUPROFEN-00105,ibuprofen,Nausea,No,Unknown,18,18-30,2023,cached_demo
+IBUPROFEN-00106,ibuprofen,Nausea,No,Female,46,46-60,2024,cached_demo
+IBUPROFEN-00107,ibuprofen,Nausea,Yes,Female,34,31-45,2026,cached_demo
+IBUPROFEN-00108,ibuprofen,Nausea,Yes,Male,57,46-60,2022,cached_demo
+IBUPROFEN-00109,ibuprofen,Nausea,Yes,Female,56,46-60,2026,cached_demo
+IBUPROFEN-00110,ibuprofen,Nausea,Yes,Female,85,76-90,2023,cached_demo
+IBUPROFEN-00111,ibuprofen,Nausea,Yes,Female,61,61-75,2023,cached_demo
+IBUPROFEN-00112,ibuprofen,Nausea,Yes,Male,39,31-45,2023,cached_demo
+IBUPROFEN-00113,ibuprofen,Nausea,No,Male,46,46-60,2023,cached_demo
+IBUPROFEN-00114,ibuprofen,Nausea,No,Unknown,20,18-30,2023,cached_demo
+IBUPROFEN-00115,ibuprofen,Nausea,Yes,Unknown,33,31-45,2022,cached_demo
+IBUPROFEN-00116,ibuprofen,Nausea,No,Female,66,61-75,2026,cached_demo
+IBUPROFEN-00117,ibuprofen,Nausea,No,Male,24,18-30,2022,cached_demo
+IBUPROFEN-00118,ibuprofen,Nausea,Yes,Unknown,20,18-30,2022,cached_demo
+IBUPROFEN-00119,ibuprofen,Nausea,Yes,Female,71,61-75,2022,cached_demo
+IBUPROFEN-00120,ibuprofen,Nausea,Yes,Female,88,76-90,2023,cached_demo
+IBUPROFEN-00121,ibuprofen,Nausea,No,Unknown,44,31-45,2022,cached_demo
+IBUPROFEN-00122,ibuprofen,Nausea,Yes,Unknown,56,46-60,2022,cached_demo
+IBUPROFEN-00123,ibuprofen,Nausea,Yes,Unknown,84,76-90,2026,cached_demo
+IBUPROFEN-00124,ibuprofen,Nausea,Yes,Male,35,31-45,2026,cached_demo
+IBUPROFEN-00125,ibuprofen,Nausea,Yes,Male,33,31-45,2022,cached_demo
+IBUPROFEN-00126,ibuprofen,Nausea,Yes,Unknown,81,76-90,2023,cached_demo
+IBUPROFEN-00127,ibuprofen,Nausea,No,Male,51,46-60,2024,cached_demo
+IBUPROFEN-00128,ibuprofen,Nausea,Yes,Male,70,61-75,2022,cached_demo
+IBUPROFEN-00129,ibuprofen,Nausea,Yes,Male,88,76-90,2025,cached_demo
+IBUPROFEN-00130,ibuprofen,Nausea,Yes,Male,60,46-60,2022,cached_demo
+IBUPROFEN-00131,ibuprofen,Nausea,Yes,Unknown,29,18-30,2025,cached_demo
+IBUPROFEN-00132,ibuprofen,Nausea,Yes,Unknown,37,31-45,2022,cached_demo
+IBUPROFEN-00133,ibuprofen,Nausea,Yes,Unknown,30,18-30,2023,cached_demo
+IBUPROFEN-00134,ibuprofen,Nausea,Yes,Female,76,76-90,2025,cached_demo
+IBUPROFEN-00135,ibuprofen,Nausea,Yes,Male,24,18-30,2022,cached_demo
+IBUPROFEN-00136,ibuprofen,Nausea,Yes,Unknown,55,46-60,2024,cached_demo
+IBUPROFEN-00137,ibuprofen,Nausea,No,Male,72,61-75,2022,cached_demo
+IBUPROFEN-00138,ibuprofen,Nausea,Yes,Male,23,18-30,2023,cached_demo
+IBUPROFEN-00139,ibuprofen,Nausea,Yes,Female,60,46-60,2026,cached_demo
+IBUPROFEN-00140,ibuprofen,Nausea,No,Male,52,46-60,2024,cached_demo
+IBUPROFEN-00141,ibuprofen,Abdominal pain,Yes,Male,61,61-75,2025,cached_demo
+IBUPROFEN-00142,ibuprofen,Abdominal pain,Yes,Female,69,61-75,2025,cached_demo
+IBUPROFEN-00143,ibuprofen,Abdominal pain,Yes,Unknown,79,76-90,2023,cached_demo
+IBUPROFEN-00144,ibuprofen,Abdominal pain,Yes,Unknown,32,31-45,2022,cached_demo
+IBUPROFEN-00145,ibuprofen,Abdominal pain,Yes,Female,38,31-45,2026,cached_demo
+IBUPROFEN-00146,ibuprofen,Abdominal pain,No,Unknown,79,76-90,2025,cached_demo
+IBUPROFEN-00147,ibuprofen,Abdominal pain,No,Female,41,31-45,2024,cached_demo
+IBUPROFEN-00148,ibuprofen,Abdominal pain,No,Unknown,21,18-30,2023,cached_demo
+IBUPROFEN-00149,ibuprofen,Abdominal pain,Yes,Male,79,76-90,2025,cached_demo
+IBUPROFEN-00150,ibuprofen,Abdominal pain,Yes,Male,74,61-75,2024,cached_demo
+IBUPROFEN-00151,ibuprofen,Abdominal pain,Yes,Unknown,58,46-60,2026,cached_demo
+IBUPROFEN-00152,ibuprofen,Abdominal pain,Yes,Unknown,90,76-90,2024,cached_demo
+IBUPROFEN-00153,ibuprofen,Abdominal pain,No,Unknown,84,76-90,2026,cached_demo
+IBUPROFEN-00154,ibuprofen,Abdominal pain,Yes,Unknown,30,18-30,2023,cached_demo
+IBUPROFEN-00155,ibuprofen,Abdominal pain,Yes,Unknown,79,76-90,2025,cached_demo
+IBUPROFEN-00156,ibuprofen,Abdominal pain,No,Unknown,37,31-45,2022,cached_demo
+IBUPROFEN-00157,ibuprofen,Abdominal pain,No,Male,19,18-30,2026,cached_demo
+IBUPROFEN-00158,ibuprofen,Abdominal pain,Yes,Male,78,76-90,2022,cached_demo
+IBUPROFEN-00159,ibuprofen,Abdominal pain,Yes,Male,80,76-90,2024,cached_demo
+IBUPROFEN-00160,ibuprofen,Abdominal pain,Yes,Unknown,53,46-60,2023,cached_demo
+IBUPROFEN-00161,ibuprofen,Abdominal pain,No,Female,88,76-90,2025,cached_demo
+IBUPROFEN-00162,ibuprofen,Abdominal pain,Yes,Female,48,46-60,2025,cached_demo
+IBUPROFEN-00163,ibuprofen,Abdominal pain,Yes,Female,75,61-75,2025,cached_demo
+IBUPROFEN-00164,ibuprofen,Abdominal pain,Yes,Female,58,46-60,2022,cached_demo
+IBUPROFEN-00165,ibuprofen,Abdominal pain,Yes,Female,31,31-45,2022,cached_demo
+IBUPROFEN-00166,ibuprofen,Abdominal pain,No,Male,89,76-90,2022,cached_demo
+IBUPROFEN-00167,ibuprofen,Abdominal pain,No,Unknown,56,46-60,2023,cached_demo
+IBUPROFEN-00168,ibuprofen,Abdominal pain,Yes,Female,76,76-90,2022,cached_demo
+IBUPROFEN-00169,ibuprofen,Abdominal pain,Yes,Female,46,46-60,2026,cached_demo
+IBUPROFEN-00170,ibuprofen,Abdominal pain,No,Unknown,78,76-90,2024,cached_demo
+IBUPROFEN-00171,ibuprofen,Abdominal pain,Yes,Male,75,61-75,2023,cached_demo
+IBUPROFEN-00172,ibuprofen,Abdominal pain,Yes,Female,18,18-30,2024,cached_demo
+IBUPROFEN-00173,ibuprofen,Abdominal pain,No,Female,88,76-90,2022,cached_demo
+IBUPROFEN-00174,ibuprofen,Abdominal pain,Yes,Female,23,18-30,2023,cached_demo
+IBUPROFEN-00175,ibuprofen,Abdominal pain,Yes,Female,70,61-75,2026,cached_demo
+IBUPROFEN-00176,ibuprofen,Abdominal pain,Yes,Male,43,31-45,2025,cached_demo
+IBUPROFEN-00177,ibuprofen,Abdominal pain,Yes,Male,45,31-45,2024,cached_demo
+IBUPROFEN-00178,ibuprofen,Abdominal pain,Yes,Male,31,31-45,2026,cached_demo
+IBUPROFEN-00179,ibuprofen,Abdominal pain,Yes,Female,33,31-45,2026,cached_demo
+IBUPROFEN-00180,ibuprofen,Abdominal pain,Yes,Female,82,76-90,2022,cached_demo
+IBUPROFEN-00181,ibuprofen,Abdominal pain,No,Male,85,76-90,2026,cached_demo
+IBUPROFEN-00182,ibuprofen,Abdominal pain,No,Female,73,61-75,2026,cached_demo
+IBUPROFEN-00183,ibuprofen,Abdominal pain,No,Unknown,40,31-45,2023,cached_demo
+IBUPROFEN-00184,ibuprofen,Abdominal pain,Yes,Female,34,31-45,2026,cached_demo
+IBUPROFEN-00185,ibuprofen,Abdominal pain,No,Female,59,46-60,2025,cached_demo
+IBUPROFEN-00186,ibuprofen,Abdominal pain,Yes,Female,49,46-60,2024,cached_demo
+IBUPROFEN-00187,ibuprofen,Abdominal pain,Yes,Male,55,46-60,2023,cached_demo
+IBUPROFEN-00188,ibuprofen,Abdominal pain,No,Unknown,70,61-75,2026,cached_demo
+IBUPROFEN-00189,ibuprofen,Abdominal pain,No,Unknown,56,46-60,2024,cached_demo
+IBUPROFEN-00190,ibuprofen,Abdominal pain,No,Male,88,76-90,2023,cached_demo
+IBUPROFEN-00191,ibuprofen,Abdominal pain,No,Unknown,44,31-45,2024,cached_demo
+IBUPROFEN-00192,ibuprofen,Abdominal pain,No,Male,62,61-75,2023,cached_demo
+IBUPROFEN-00193,ibuprofen,Abdominal pain,No,Unknown,82,76-90,2024,cached_demo
+IBUPROFEN-00194,ibuprofen,Abdominal pain,Yes,Unknown,32,31-45,2025,cached_demo
+IBUPROFEN-00195,ibuprofen,Abdominal pain,No,Unknown,71,61-75,2026,cached_demo
+IBUPROFEN-00196,ibuprofen,Abdominal pain,Yes,Male,54,46-60,2026,cached_demo
+IBUPROFEN-00197,ibuprofen,Abdominal pain,Yes,Female,31,31-45,2023,cached_demo
+IBUPROFEN-00198,ibuprofen,Abdominal pain,No,Male,24,18-30,2023,cached_demo
+IBUPROFEN-00199,ibuprofen,Abdominal pain,Yes,Female,52,46-60,2024,cached_demo
+IBUPROFEN-00200,ibuprofen,Abdominal pain,Yes,Unknown,36,31-45,2024,cached_demo
+IBUPROFEN-00201,ibuprofen,Abdominal pain,No,Male,44,31-45,2024,cached_demo
+IBUPROFEN-00202,ibuprofen,Abdominal pain,Yes,Unknown,75,61-75,2026,cached_demo
+IBUPROFEN-00203,ibuprofen,Abdominal pain,No,Unknown,46,46-60,2026,cached_demo
+IBUPROFEN-00204,ibuprofen,Abdominal pain,Yes,Unknown,67,61-75,2024,cached_demo
+IBUPROFEN-00205,ibuprofen,Abdominal pain,Yes,Female,24,18-30,2025,cached_demo
+IBUPROFEN-00206,ibuprofen,Abdominal pain,No,Male,58,46-60,2022,cached_demo
+IBUPROFEN-00207,ibuprofen,Abdominal pain,Yes,Unknown,50,46-60,2025,cached_demo
+IBUPROFEN-00208,ibuprofen,Abdominal pain,No,Unknown,46,46-60,2024,cached_demo
+IBUPROFEN-00209,ibuprofen,Abdominal pain,No,Unknown,87,76-90,2023,cached_demo
+IBUPROFEN-00210,ibuprofen,Abdominal pain,Yes,Female,42,31-45,2023,cached_demo
+IBUPROFEN-00211,ibuprofen,Abdominal pain,Yes,Male,27,18-30,2026,cached_demo
+IBUPROFEN-00212,ibuprofen,Abdominal pain,Yes,Male,33,31-45,2025,cached_demo
+IBUPROFEN-00213,ibuprofen,Abdominal pain,No,Female,53,46-60,2023,cached_demo
+IBUPROFEN-00214,ibuprofen,Abdominal pain,No,Female,38,31-45,2022,cached_demo
+IBUPROFEN-00215,ibuprofen,Abdominal pain,Yes,Unknown,60,46-60,2023,cached_demo
+IBUPROFEN-00216,ibuprofen,Abdominal pain,Yes,Female,23,18-30,2026,cached_demo
+IBUPROFEN-00217,ibuprofen,Abdominal pain,No,Unknown,24,18-30,2024,cached_demo
+IBUPROFEN-00218,ibuprofen,Abdominal pain,No,Unknown,80,76-90,2024,cached_demo
+IBUPROFEN-00219,ibuprofen,Abdominal pain,No,Female,27,18-30,2026,cached_demo
+IBUPROFEN-00220,ibuprofen,Abdominal pain,Yes,Unknown,46,46-60,2022,cached_demo
+IBUPROFEN-00221,ibuprofen,Abdominal pain,Yes,Female,82,76-90,2026,cached_demo
+IBUPROFEN-00222,ibuprofen,Abdominal pain,Yes,Male,86,76-90,2024,cached_demo
+IBUPROFEN-00223,ibuprofen,Abdominal pain,Yes,Unknown,46,46-60,2024,cached_demo
+IBUPROFEN-00224,ibuprofen,Abdominal pain,Yes,Female,60,46-60,2023,cached_demo
+IBUPROFEN-00225,ibuprofen,Abdominal pain,Yes,Unknown,85,76-90,2022,cached_demo
+IBUPROFEN-00226,ibuprofen,Abdominal pain,No,Female,32,31-45,2025,cached_demo
+IBUPROFEN-00227,ibuprofen,Abdominal pain,No,Unknown,48,46-60,2026,cached_demo
+IBUPROFEN-00228,ibuprofen,Abdominal pain,Yes,Unknown,49,46-60,2024,cached_demo
+IBUPROFEN-00229,ibuprofen,Abdominal pain,Yes,Female,66,61-75,2024,cached_demo
+IBUPROFEN-00230,ibuprofen,Abdominal pain,No,Female,87,76-90,2022,cached_demo
+IBUPROFEN-00231,ibuprofen,Abdominal pain,Yes,Unknown,84,76-90,2026,cached_demo
+IBUPROFEN-00232,ibuprofen,Abdominal pain,Yes,Male,75,61-75,2024,cached_demo
+IBUPROFEN-00233,ibuprofen,Abdominal pain,Yes,Unknown,42,31-45,2022,cached_demo
+IBUPROFEN-00234,ibuprofen,Abdominal pain,Yes,Unknown,30,18-30,2026,cached_demo
+IBUPROFEN-00235,ibuprofen,Abdominal pain,No,Male,18,18-30,2023,cached_demo
+IBUPROFEN-00236,ibuprofen,Abdominal pain,No,Female,45,31-45,2022,cached_demo
+IBUPROFEN-00237,ibuprofen,Abdominal pain,No,Unknown,44,31-45,2025,cached_demo
+IBUPROFEN-00238,ibuprofen,Abdominal pain,No,Unknown,27,18-30,2023,cached_demo
+IBUPROFEN-00239,ibuprofen,Abdominal pain,Yes,Unknown,21,18-30,2024,cached_demo
+IBUPROFEN-00240,ibuprofen,Abdominal pain,Yes,Male,22,18-30,2022,cached_demo
+IBUPROFEN-00241,ibuprofen,Abdominal pain,Yes,Unknown,40,31-45,2022,cached_demo
+IBUPROFEN-00242,ibuprofen,Abdominal pain,Yes,Female,47,46-60,2025,cached_demo
+IBUPROFEN-00243,ibuprofen,Abdominal pain,No,Female,75,61-75,2025,cached_demo
+IBUPROFEN-00244,ibuprofen,Abdominal pain,Yes,Female,58,46-60,2022,cached_demo
+IBUPROFEN-00245,ibuprofen,Abdominal pain,Yes,Unknown,86,76-90,2026,cached_demo
+IBUPROFEN-00246,ibuprofen,Abdominal pain,No,Unknown,26,18-30,2022,cached_demo
+IBUPROFEN-00247,ibuprofen,Abdominal pain,Yes,Unknown,27,18-30,2022,cached_demo
+IBUPROFEN-00248,ibuprofen,Abdominal pain,No,Female,55,46-60,2026,cached_demo
+IBUPROFEN-00249,ibuprofen,Abdominal pain,Yes,Female,29,18-30,2025,cached_demo
+IBUPROFEN-00250,ibuprofen,Abdominal pain,No,Male,68,61-75,2025,cached_demo
+IBUPROFEN-00251,ibuprofen,Abdominal pain,No,Male,38,31-45,2023,cached_demo
+IBUPROFEN-00252,ibuprofen,Abdominal pain,No,Female,68,61-75,2023,cached_demo
+IBUPROFEN-00253,ibuprofen,Abdominal pain,No,Unknown,56,46-60,2024,cached_demo
+IBUPROFEN-00254,ibuprofen,Abdominal pain,No,Unknown,19,18-30,2023,cached_demo
+IBUPROFEN-00255,ibuprofen,Abdominal pain,Yes,Male,33,31-45,2026,cached_demo
+IBUPROFEN-00256,ibuprofen,Abdominal pain,No,Unknown,68,61-75,2022,cached_demo
+IBUPROFEN-00257,ibuprofen,Abdominal pain,Yes,Unknown,57,46-60,2024,cached_demo
+IBUPROFEN-00258,ibuprofen,Abdominal pain,Yes,Unknown,45,31-45,2026,cached_demo
+IBUPROFEN-00259,ibuprofen,Abdominal pain,Yes,Male,36,31-45,2023,cached_demo
+IBUPROFEN-00260,ibuprofen,Abdominal pain,Yes,Male,50,46-60,2023,cached_demo
+IBUPROFEN-00261,ibuprofen,Abdominal pain,Yes,Unknown,90,76-90,2025,cached_demo
+IBUPROFEN-00262,ibuprofen,Abdominal pain,Yes,Female,88,76-90,2022,cached_demo
+IBUPROFEN-00263,ibuprofen,Abdominal pain,Yes,Male,50,46-60,2026,cached_demo
+IBUPROFEN-00264,ibuprofen,Abdominal pain,Yes,Female,80,76-90,2023,cached_demo
+IBUPROFEN-00265,ibuprofen,Abdominal pain,Yes,Female,48,46-60,2026,cached_demo
+IBUPROFEN-00266,ibuprofen,Abdominal pain,Yes,Female,26,18-30,2025,cached_demo
+IBUPROFEN-00267,ibuprofen,Abdominal pain,Yes,Unknown,75,61-75,2024,cached_demo
+IBUPROFEN-00268,ibuprofen,Abdominal pain,No,Unknown,37,31-45,2024,cached_demo
+IBUPROFEN-00269,ibuprofen,Abdominal pain,Yes,Male,58,46-60,2022,cached_demo
+IBUPROFEN-00270,ibuprofen,Abdominal pain,Yes,Male,58,46-60,2025,cached_demo
+IBUPROFEN-00271,ibuprofen,Dyspepsia,Yes,Male,53,46-60,2024,cached_demo
+IBUPROFEN-00272,ibuprofen,Dyspepsia,Yes,Female,79,76-90,2024,cached_demo
+IBUPROFEN-00273,ibuprofen,Dyspepsia,Yes,Unknown,57,46-60,2022,cached_demo
+IBUPROFEN-00274,ibuprofen,Dyspepsia,No,Unknown,40,31-45,2022,cached_demo
+IBUPROFEN-00275,ibuprofen,Dyspepsia,Yes,Unknown,53,46-60,2023,cached_demo
+IBUPROFEN-00276,ibuprofen,Dyspepsia,No,Unknown,51,46-60,2022,cached_demo
+IBUPROFEN-00277,ibuprofen,Dyspepsia,Yes,Unknown,27,18-30,2022,cached_demo
+IBUPROFEN-00278,ibuprofen,Dyspepsia,No,Male,69,61-75,2022,cached_demo
+IBUPROFEN-00279,ibuprofen,Dyspepsia,Yes,Unknown,88,76-90,2026,cached_demo
+IBUPROFEN-00280,ibuprofen,Dyspepsia,No,Male,78,76-90,2024,cached_demo
+IBUPROFEN-00281,ibuprofen,Dyspepsia,Yes,Unknown,68,61-75,2024,cached_demo
+IBUPROFEN-00282,ibuprofen,Dyspepsia,Yes,Unknown,35,31-45,2026,cached_demo
+IBUPROFEN-00283,ibuprofen,Dyspepsia,Yes,Female,29,18-30,2026,cached_demo
+IBUPROFEN-00284,ibuprofen,Dyspepsia,No,Male,19,18-30,2026,cached_demo
+IBUPROFEN-00285,ibuprofen,Dyspepsia,No,Male,39,31-45,2025,cached_demo
+IBUPROFEN-00286,ibuprofen,Dyspepsia,Yes,Unknown,38,31-45,2026,cached_demo
+IBUPROFEN-00287,ibuprofen,Dyspepsia,No,Unknown,36,31-45,2025,cached_demo
+IBUPROFEN-00288,ibuprofen,Dyspepsia,Yes,Male,63,61-75,2025,cached_demo
+IBUPROFEN-00289,ibuprofen,Dyspepsia,Yes,Female,47,46-60,2024,cached_demo
+IBUPROFEN-00290,ibuprofen,Dyspepsia,Yes,Unknown,47,46-60,2023,cached_demo
+IBUPROFEN-00291,ibuprofen,Dyspepsia,Yes,Female,84,76-90,2025,cached_demo
+IBUPROFEN-00292,ibuprofen,Dyspepsia,Yes,Male,76,76-90,2024,cached_demo
+IBUPROFEN-00293,ibuprofen,Dyspepsia,No,Unknown,31,31-45,2024,cached_demo
+IBUPROFEN-00294,ibuprofen,Dyspepsia,No,Unknown,51,46-60,2026,cached_demo
+IBUPROFEN-00295,ibuprofen,Dyspepsia,Yes,Unknown,40,31-45,2025,cached_demo
+IBUPROFEN-00296,ibuprofen,Dyspepsia,No,Unknown,64,61-75,2022,cached_demo
+IBUPROFEN-00297,ibuprofen,Dyspepsia,Yes,Female,84,76-90,2023,cached_demo
+IBUPROFEN-00298,ibuprofen,Dyspepsia,Yes,Female,84,76-90,2024,cached_demo
+IBUPROFEN-00299,ibuprofen,Dyspepsia,Yes,Unknown,80,76-90,2022,cached_demo
+IBUPROFEN-00300,ibuprofen,Dyspepsia,Yes,Female,82,76-90,2023,cached_demo
+IBUPROFEN-00301,ibuprofen,Dyspepsia,Yes,Unknown,47,46-60,2024,cached_demo
+IBUPROFEN-00302,ibuprofen,Dyspepsia,Yes,Male,45,31-45,2023,cached_demo
+IBUPROFEN-00303,ibuprofen,Dyspepsia,No,Unknown,64,61-75,2022,cached_demo
+IBUPROFEN-00304,ibuprofen,Dyspepsia,Yes,Female,47,46-60,2022,cached_demo
+IBUPROFEN-00305,ibuprofen,Dyspepsia,No,Female,79,76-90,2025,cached_demo
+IBUPROFEN-00306,ibuprofen,Dyspepsia,No,Male,44,31-45,2025,cached_demo
+IBUPROFEN-00307,ibuprofen,Dyspepsia,Yes,Male,20,18-30,2023,cached_demo
+IBUPROFEN-00308,ibuprofen,Dyspepsia,Yes,Unknown,38,31-45,2026,cached_demo
+IBUPROFEN-00309,ibuprofen,Dyspepsia,No,Male,23,18-30,2022,cached_demo
+IBUPROFEN-00310,ibuprofen,Dyspepsia,Yes,Male,39,31-45,2026,cached_demo
+IBUPROFEN-00311,ibuprofen,Dyspepsia,No,Unknown,69,61-75,2022,cached_demo
+IBUPROFEN-00312,ibuprofen,Dyspepsia,Yes,Male,54,46-60,2025,cached_demo
+IBUPROFEN-00313,ibuprofen,Dyspepsia,Yes,Male,78,76-90,2023,cached_demo
+IBUPROFEN-00314,ibuprofen,Dyspepsia,No,Male,70,61-75,2026,cached_demo
+IBUPROFEN-00315,ibuprofen,Dyspepsia,No,Unknown,41,31-45,2026,cached_demo
+IBUPROFEN-00316,ibuprofen,Dyspepsia,Yes,Unknown,51,46-60,2024,cached_demo
+IBUPROFEN-00317,ibuprofen,Dyspepsia,No,Unknown,76,76-90,2022,cached_demo
+IBUPROFEN-00318,ibuprofen,Dyspepsia,Yes,Female,47,46-60,2023,cached_demo
+IBUPROFEN-00319,ibuprofen,Dyspepsia,Yes,Male,31,31-45,2026,cached_demo
+IBUPROFEN-00320,ibuprofen,Dyspepsia,No,Female,82,76-90,2023,cached_demo
+IBUPROFEN-00321,ibuprofen,Dyspepsia,Yes,Female,30,18-30,2026,cached_demo
+IBUPROFEN-00322,ibuprofen,Dyspepsia,No,Unknown,22,18-30,2022,cached_demo
+IBUPROFEN-00323,ibuprofen,Dyspepsia,Yes,Unknown,29,18-30,2023,cached_demo
+IBUPROFEN-00324,ibuprofen,Dyspepsia,Yes,Unknown,87,76-90,2025,cached_demo
+IBUPROFEN-00325,ibuprofen,Dyspepsia,Yes,Female,84,76-90,2022,cached_demo
+IBUPROFEN-00326,ibuprofen,Dyspepsia,Yes,Male,85,76-90,2025,cached_demo
+IBUPROFEN-00327,ibuprofen,Dyspepsia,Yes,Unknown,66,61-75,2026,cached_demo
+IBUPROFEN-00328,ibuprofen,Dyspepsia,Yes,Male,30,18-30,2024,cached_demo
+IBUPROFEN-00329,ibuprofen,Dyspepsia,Yes,Male,79,76-90,2024,cached_demo
+IBUPROFEN-00330,ibuprofen,Dyspepsia,Yes,Female,87,76-90,2023,cached_demo
+IBUPROFEN-00331,ibuprofen,Dyspepsia,No,Unknown,18,18-30,2022,cached_demo
+IBUPROFEN-00332,ibuprofen,Dyspepsia,Yes,Unknown,84,76-90,2022,cached_demo
+IBUPROFEN-00333,ibuprofen,Dyspepsia,No,Male,66,61-75,2024,cached_demo
+IBUPROFEN-00334,ibuprofen,Dyspepsia,Yes,Male,70,61-75,2023,cached_demo
+IBUPROFEN-00335,ibuprofen,Dyspepsia,No,Unknown,72,61-75,2024,cached_demo
+IBUPROFEN-00336,ibuprofen,Dyspepsia,No,Female,51,46-60,2026,cached_demo
+IBUPROFEN-00337,ibuprofen,Dyspepsia,No,Female,64,61-75,2025,cached_demo
+IBUPROFEN-00338,ibuprofen,Dyspepsia,Yes,Unknown,44,31-45,2026,cached_demo
+IBUPROFEN-00339,ibuprofen,Dyspepsia,Yes,Female,79,76-90,2026,cached_demo
+IBUPROFEN-00340,ibuprofen,Dyspepsia,Yes,Female,89,76-90,2024,cached_demo
+IBUPROFEN-00341,ibuprofen,Dyspepsia,No,Female,62,61-75,2023,cached_demo
+IBUPROFEN-00342,ibuprofen,Dyspepsia,No,Male,33,31-45,2025,cached_demo
+IBUPROFEN-00343,ibuprofen,Dyspepsia,Yes,Male,38,31-45,2026,cached_demo
+IBUPROFEN-00344,ibuprofen,Dyspepsia,Yes,Unknown,69,61-75,2026,cached_demo
+IBUPROFEN-00345,ibuprofen,Dyspepsia,Yes,Female,24,18-30,2022,cached_demo
+IBUPROFEN-00346,ibuprofen,Dyspepsia,Yes,Female,29,18-30,2026,cached_demo
+IBUPROFEN-00347,ibuprofen,Dyspepsia,Yes,Male,73,61-75,2024,cached_demo
+IBUPROFEN-00348,ibuprofen,Dyspepsia,Yes,Male,46,46-60,2026,cached_demo
+IBUPROFEN-00349,ibuprofen,Dyspepsia,No,Female,22,18-30,2025,cached_demo
+IBUPROFEN-00350,ibuprofen,Dyspepsia,Yes,Unknown,84,76-90,2026,cached_demo
+IBUPROFEN-00351,ibuprofen,Dyspepsia,Yes,Unknown,25,18-30,2025,cached_demo
+IBUPROFEN-00352,ibuprofen,Dyspepsia,Yes,Male,74,61-75,2026,cached_demo
+IBUPROFEN-00353,ibuprofen,Dyspepsia,Yes,Male,54,46-60,2026,cached_demo
+IBUPROFEN-00354,ibuprofen,Dyspepsia,No,Unknown,83,76-90,2023,cached_demo
+IBUPROFEN-00355,ibuprofen,Dyspepsia,No,Male,39,31-45,2024,cached_demo
+IBUPROFEN-00356,ibuprofen,Dyspepsia,No,Male,48,46-60,2023,cached_demo
+IBUPROFEN-00357,ibuprofen,Dyspepsia,Yes,Female,29,18-30,2024,cached_demo
+IBUPROFEN-00358,ibuprofen,Dyspepsia,Yes,Unknown,68,61-75,2023,cached_demo
+IBUPROFEN-00359,ibuprofen,Dyspepsia,Yes,Unknown,84,76-90,2022,cached_demo
+IBUPROFEN-00360,ibuprofen,Dyspepsia,No,Female,29,18-30,2026,cached_demo
+IBUPROFEN-00361,ibuprofen,Headache,Yes,Female,62,61-75,2023,cached_demo
+IBUPROFEN-00362,ibuprofen,Headache,Yes,Female,42,31-45,2026,cached_demo
+IBUPROFEN-00363,ibuprofen,Headache,Yes,Male,18,18-30,2025,cached_demo
+IBUPROFEN-00364,ibuprofen,Headache,Yes,Unknown,82,76-90,2022,cached_demo
+IBUPROFEN-00365,ibuprofen,Headache,Yes,Female,82,76-90,2022,cached_demo
+IBUPROFEN-00366,ibuprofen,Headache,Yes,Unknown,83,76-90,2026,cached_demo
+IBUPROFEN-00367,ibuprofen,Headache,No,Female,50,46-60,2025,cached_demo
+IBUPROFEN-00368,ibuprofen,Headache,Yes,Male,90,76-90,2024,cached_demo
+IBUPROFEN-00369,ibuprofen,Headache,No,Female,76,76-90,2026,cached_demo
+IBUPROFEN-00370,ibuprofen,Headache,Yes,Male,21,18-30,2024,cached_demo
+IBUPROFEN-00371,ibuprofen,Headache,Yes,Unknown,26,18-30,2023,cached_demo
+IBUPROFEN-00372,ibuprofen,Headache,Yes,Female,47,46-60,2024,cached_demo
+IBUPROFEN-00373,ibuprofen,Headache,No,Male,84,76-90,2024,cached_demo
+IBUPROFEN-00374,ibuprofen,Headache,Yes,Male,49,46-60,2025,cached_demo
+IBUPROFEN-00375,ibuprofen,Headache,Yes,Unknown,61,61-75,2023,cached_demo
+IBUPROFEN-00376,ibuprofen,Headache,Yes,Female,78,76-90,2023,cached_demo
+IBUPROFEN-00377,ibuprofen,Headache,Yes,Unknown,52,46-60,2023,cached_demo
+IBUPROFEN-00378,ibuprofen,Headache,No,Male,81,76-90,2023,cached_demo
+IBUPROFEN-00379,ibuprofen,Headache,Yes,Male,48,46-60,2023,cached_demo
+IBUPROFEN-00380,ibuprofen,Headache,Yes,Unknown,43,31-45,2024,cached_demo
+IBUPROFEN-00381,ibuprofen,Headache,Yes,Male,37,31-45,2022,cached_demo
+IBUPROFEN-00382,ibuprofen,Headache,No,Male,81,76-90,2026,cached_demo
+IBUPROFEN-00383,ibuprofen,Headache,Yes,Female,23,18-30,2026,cached_demo
+IBUPROFEN-00384,ibuprofen,Headache,Yes,Unknown,58,46-60,2024,cached_demo
+IBUPROFEN-00385,ibuprofen,Headache,Yes,Unknown,80,76-90,2024,cached_demo
+IBUPROFEN-00386,ibuprofen,Headache,Yes,Unknown,68,61-75,2023,cached_demo
+IBUPROFEN-00387,ibuprofen,Headache,No,Female,24,18-30,2025,cached_demo
+IBUPROFEN-00388,ibuprofen,Headache,Yes,Unknown,87,76-90,2024,cached_demo
+IBUPROFEN-00389,ibuprofen,Headache,No,Male,68,61-75,2025,cached_demo
+IBUPROFEN-00390,ibuprofen,Headache,No,Unknown,33,31-45,2025,cached_demo
+IBUPROFEN-00391,ibuprofen,Headache,No,Male,58,46-60,2022,cached_demo
+IBUPROFEN-00392,ibuprofen,Headache,Yes,Unknown,44,31-45,2022,cached_demo
+IBUPROFEN-00393,ibuprofen,Headache,Yes,Unknown,59,46-60,2024,cached_demo
+IBUPROFEN-00394,ibuprofen,Headache,No,Female,41,31-45,2023,cached_demo
+IBUPROFEN-00395,ibuprofen,Headache,Yes,Unknown,52,46-60,2024,cached_demo
+IBUPROFEN-00396,ibuprofen,Headache,Yes,Female,64,61-75,2025,cached_demo
+IBUPROFEN-00397,ibuprofen,Headache,Yes,Unknown,44,31-45,2024,cached_demo
+IBUPROFEN-00398,ibuprofen,Headache,Yes,Female,64,61-75,2025,cached_demo
+IBUPROFEN-00399,ibuprofen,Headache,No,Male,41,31-45,2026,cached_demo
+IBUPROFEN-00400,ibuprofen,Headache,Yes,Unknown,47,46-60,2024,cached_demo
+IBUPROFEN-00401,ibuprofen,Headache,No,Female,48,46-60,2025,cached_demo
+IBUPROFEN-00402,ibuprofen,Headache,Yes,Unknown,43,31-45,2023,cached_demo
+IBUPROFEN-00403,ibuprofen,Headache,Yes,Male,78,76-90,2025,cached_demo
+IBUPROFEN-00404,ibuprofen,Headache,Yes,Unknown,81,76-90,2026,cached_demo
+IBUPROFEN-00405,ibuprofen,Headache,No,Female,86,76-90,2025,cached_demo
+IBUPROFEN-00406,ibuprofen,Headache,Yes,Unknown,56,46-60,2026,cached_demo
+IBUPROFEN-00407,ibuprofen,Headache,Yes,Male,24,18-30,2023,cached_demo
+IBUPROFEN-00408,ibuprofen,Headache,Yes,Female,25,18-30,2025,cached_demo
+IBUPROFEN-00409,ibuprofen,Headache,Yes,Unknown,30,18-30,2024,cached_demo
+IBUPROFEN-00410,ibuprofen,Headache,Yes,Female,51,46-60,2026,cached_demo
+IBUPROFEN-00411,ibuprofen,Headache,Yes,Female,89,76-90,2022,cached_demo
+IBUPROFEN-00412,ibuprofen,Headache,Yes,Female,70,61-75,2026,cached_demo
+IBUPROFEN-00413,ibuprofen,Headache,No,Unknown,43,31-45,2026,cached_demo
+IBUPROFEN-00414,ibuprofen,Headache,Yes,Female,40,31-45,2024,cached_demo
+IBUPROFEN-00415,ibuprofen,Headache,Yes,Unknown,83,76-90,2025,cached_demo
+IBUPROFEN-00416,ibuprofen,Dizziness,Yes,Unknown,28,18-30,2024,cached_demo
+IBUPROFEN-00417,ibuprofen,Dizziness,No,Male,77,76-90,2023,cached_demo
+IBUPROFEN-00418,ibuprofen,Dizziness,Yes,Unknown,61,61-75,2026,cached_demo
+IBUPROFEN-00419,ibuprofen,Dizziness,Yes,Male,69,61-75,2023,cached_demo
+IBUPROFEN-00420,ibuprofen,Dizziness,Yes,Female,61,61-75,2024,cached_demo
+IBUPROFEN-00421,ibuprofen,Dizziness,No,Female,55,46-60,2026,cached_demo
+IBUPROFEN-00422,ibuprofen,Dizziness,Yes,Female,68,61-75,2024,cached_demo
+IBUPROFEN-00423,ibuprofen,Dizziness,Yes,Female,84,76-90,2023,cached_demo
+IBUPROFEN-00424,ibuprofen,Dizziness,Yes,Male,41,31-45,2023,cached_demo
+IBUPROFEN-00425,ibuprofen,Dizziness,No,Unknown,50,46-60,2022,cached_demo
+IBUPROFEN-00426,ibuprofen,Dizziness,Yes,Female,44,31-45,2022,cached_demo
+IBUPROFEN-00427,ibuprofen,Dizziness,Yes,Female,30,18-30,2026,cached_demo
+IBUPROFEN-00428,ibuprofen,Dizziness,Yes,Female,24,18-30,2026,cached_demo
+IBUPROFEN-00429,ibuprofen,Dizziness,Yes,Female,28,18-30,2026,cached_demo
+IBUPROFEN-00430,ibuprofen,Dizziness,Yes,Unknown,37,31-45,2025,cached_demo
+IBUPROFEN-00431,ibuprofen,Dizziness,Yes,Male,57,46-60,2024,cached_demo
+IBUPROFEN-00432,ibuprofen,Dizziness,No,Male,74,61-75,2023,cached_demo
+IBUPROFEN-00433,ibuprofen,Dizziness,Yes,Male,85,76-90,2022,cached_demo
+IBUPROFEN-00434,ibuprofen,Dizziness,Yes,Female,63,61-75,2025,cached_demo
+IBUPROFEN-00435,ibuprofen,Dizziness,Yes,Unknown,87,76-90,2025,cached_demo
+IBUPROFEN-00436,ibuprofen,Dizziness,No,Unknown,35,31-45,2023,cached_demo
+IBUPROFEN-00437,ibuprofen,Dizziness,No,Unknown,76,76-90,2026,cached_demo
+IBUPROFEN-00438,ibuprofen,Dizziness,No,Unknown,73,61-75,2026,cached_demo
+IBUPROFEN-00439,ibuprofen,Dizziness,Yes,Female,57,46-60,2026,cached_demo
+IBUPROFEN-00440,ibuprofen,Dizziness,Yes,Female,47,46-60,2024,cached_demo
+IBUPROFEN-00441,ibuprofen,Dizziness,Yes,Female,64,61-75,2023,cached_demo
+IBUPROFEN-00442,ibuprofen,Dizziness,Yes,Male,56,46-60,2026,cached_demo
+IBUPROFEN-00443,ibuprofen,Dizziness,Yes,Female,35,31-45,2025,cached_demo
+IBUPROFEN-00444,ibuprofen,Dizziness,Yes,Unknown,86,76-90,2025,cached_demo
+IBUPROFEN-00445,ibuprofen,Dizziness,Yes,Male,79,76-90,2025,cached_demo
+IBUPROFEN-00446,ibuprofen,Dizziness,No,Male,55,46-60,2022,cached_demo
+IBUPROFEN-00447,ibuprofen,Dizziness,Yes,Male,88,76-90,2025,cached_demo
+IBUPROFEN-00448,ibuprofen,Dizziness,Yes,Female,89,76-90,2023,cached_demo
+IBUPROFEN-00449,ibuprofen,Dizziness,No,Unknown,38,31-45,2025,cached_demo
+IBUPROFEN-00450,ibuprofen,Dizziness,Yes,Female,66,61-75,2022,cached_demo
+IBUPROFEN-00451,ibuprofen,Rash,No,Male,72,61-75,2026,cached_demo
+IBUPROFEN-00452,ibuprofen,Rash,Yes,Unknown,52,46-60,2026,cached_demo
+IBUPROFEN-00453,ibuprofen,Rash,Yes,Male,52,46-60,2022,cached_demo
+IBUPROFEN-00454,ibuprofen,Rash,Yes,Female,41,31-45,2022,cached_demo
+IBUPROFEN-00455,ibuprofen,Rash,No,Female,76,76-90,2024,cached_demo
+IBUPROFEN-00456,ibuprofen,Rash,Yes,Female,80,76-90,2022,cached_demo
+IBUPROFEN-00457,ibuprofen,Rash,Yes,Unknown,37,31-45,2022,cached_demo
+IBUPROFEN-00458,ibuprofen,Rash,Yes,Female,41,31-45,2024,cached_demo
+IBUPROFEN-00459,ibuprofen,Rash,No,Female,34,31-45,2022,cached_demo
+IBUPROFEN-00460,ibuprofen,Rash,Yes,Male,47,46-60,2022,cached_demo
+IBUPROFEN-00461,ibuprofen,Rash,Yes,Female,81,76-90,2025,cached_demo
+IBUPROFEN-00462,ibuprofen,Rash,Yes,Female,57,46-60,2025,cached_demo
+IBUPROFEN-00463,ibuprofen,Rash,Yes,Male,22,18-30,2023,cached_demo
+IBUPROFEN-00464,ibuprofen,Rash,Yes,Female,25,18-30,2022,cached_demo
+IBUPROFEN-00465,ibuprofen,Rash,Yes,Male,87,76-90,2023,cached_demo
+IBUPROFEN-00466,ibuprofen,Rash,Yes,Male,50,46-60,2022,cached_demo
+IBUPROFEN-00467,ibuprofen,Rash,Yes,Female,49,46-60,2023,cached_demo
+IBUPROFEN-00468,ibuprofen,Rash,Yes,Female,22,18-30,2022,cached_demo
+IBUPROFEN-00469,ibuprofen,Rash,No,Male,84,76-90,2025,cached_demo
+IBUPROFEN-00470,ibuprofen,Rash,No,Female,67,61-75,2024,cached_demo
+IBUPROFEN-00471,ibuprofen,Rash,No,Unknown,38,31-45,2022,cached_demo
+IBUPROFEN-00472,ibuprofen,Rash,No,Male,88,76-90,2024,cached_demo
+IBUPROFEN-00473,ibuprofen,Rash,No,Female,79,76-90,2023,cached_demo
+IBUPROFEN-00474,ibuprofen,Rash,Yes,Unknown,64,61-75,2023,cached_demo
+IBUPROFEN-00475,ibuprofen,Rash,Yes,Unknown,32,31-45,2025,cached_demo
+IBUPROFEN-00476,ibuprofen,Rash,Yes,Male,59,46-60,2024,cached_demo
+IBUPROFEN-00477,ibuprofen,Rash,Yes,Male,33,31-45,2022,cached_demo
+IBUPROFEN-00478,ibuprofen,Rash,No,Unknown,23,18-30,2025,cached_demo
+IBUPROFEN-00479,ibuprofen,Rash,Yes,Male,37,31-45,2023,cached_demo
+IBUPROFEN-00480,ibuprofen,Rash,Yes,Male,38,31-45,2026,cached_demo
+IBUPROFEN-00481,ibuprofen,Rash,No,Male,61,61-75,2022,cached_demo
+IBUPROFEN-00482,ibuprofen,Rash,No,Male,63,61-75,2026,cached_demo
+IBUPROFEN-00483,ibuprofen,Rash,Yes,Female,31,31-45,2023,cached_demo
+IBUPROFEN-00484,ibuprofen,Rash,No,Unknown,58,46-60,2024,cached_demo
+IBUPROFEN-00485,ibuprofen,Rash,No,Male,74,61-75,2022,cached_demo
+IBUPROFEN-00486,ibuprofen,Rash,Yes,Unknown,66,61-75,2023,cached_demo
+IBUPROFEN-00487,ibuprofen,Rash,Yes,Female,50,46-60,2025,cached_demo
+IBUPROFEN-00488,ibuprofen,Rash,Yes,Unknown,89,76-90,2025,cached_demo
+IBUPROFEN-00489,ibuprofen,Rash,No,Male,42,31-45,2026,cached_demo
+IBUPROFEN-00490,ibuprofen,Rash,Yes,Unknown,62,61-75,2025,cached_demo
+IBUPROFEN-00491,ibuprofen,Rash,No,Unknown,53,46-60,2023,cached_demo
+IBUPROFEN-00492,ibuprofen,Rash,No,Male,26,18-30,2025,cached_demo
+IBUPROFEN-00493,ibuprofen,Rash,Yes,Unknown,55,46-60,2024,cached_demo
+IBUPROFEN-00494,ibuprofen,Rash,Yes,Unknown,76,76-90,2026,cached_demo
+IBUPROFEN-00495,ibuprofen,Rash,No,Male,66,61-75,2022,cached_demo
+IBUPROFEN-00496,ibuprofen,Gastrointestinal haemorrhage,No,Male,64,61-75,2024,cached_demo
+IBUPROFEN-00497,ibuprofen,Gastrointestinal haemorrhage,No,Unknown,26,18-30,2025,cached_demo
+IBUPROFEN-00498,ibuprofen,Gastrointestinal haemorrhage,No,Unknown,42,31-45,2025,cached_demo
+IBUPROFEN-00499,ibuprofen,Gastrointestinal haemorrhage,Yes,Unknown,88,76-90,2024,cached_demo
+IBUPROFEN-00500,ibuprofen,Gastrointestinal haemorrhage,Yes,Unknown,59,46-60,2024,cached_demo
+IBUPROFEN-00501,ibuprofen,Gastrointestinal haemorrhage,Yes,Unknown,32,31-45,2022,cached_demo
+IBUPROFEN-00502,ibuprofen,Gastrointestinal haemorrhage,Yes,Male,23,18-30,2022,cached_demo
+IBUPROFEN-00503,ibuprofen,Gastrointestinal haemorrhage,Yes,Female,43,31-45,2023,cached_demo
+IBUPROFEN-00504,ibuprofen,Gastrointestinal haemorrhage,Yes,Unknown,30,18-30,2025,cached_demo
+IBUPROFEN-00505,ibuprofen,Gastrointestinal haemorrhage,No,Unknown,80,76-90,2026,cached_demo
+IBUPROFEN-00506,ibuprofen,Gastrointestinal haemorrhage,Yes,Female,50,46-60,2023,cached_demo
+IBUPROFEN-00507,ibuprofen,Gastrointestinal haemorrhage,Yes,Male,27,18-30,2025,cached_demo
+IBUPROFEN-00508,ibuprofen,Gastrointestinal haemorrhage,Yes,Unknown,28,18-30,2022,cached_demo
+IBUPROFEN-00509,ibuprofen,Gastrointestinal haemorrhage,No,Unknown,64,61-75,2025,cached_demo
+IBUPROFEN-00510,ibuprofen,Gastrointestinal haemorrhage,No,Male,65,61-75,2026,cached_demo
+IBUPROFEN-00511,ibuprofen,Gastrointestinal haemorrhage,No,Male,52,46-60,2022,cached_demo
+IBUPROFEN-00512,ibuprofen,Gastrointestinal haemorrhage,Yes,Male,56,46-60,2026,cached_demo
+IBUPROFEN-00513,ibuprofen,Gastrointestinal haemorrhage,Yes,Unknown,30,18-30,2023,cached_demo
+IBUPROFEN-00514,ibuprofen,Gastrointestinal haemorrhage,Yes,Male,86,76-90,2023,cached_demo
+IBUPROFEN-00515,ibuprofen,Gastrointestinal haemorrhage,No,Male,85,76-90,2026,cached_demo
+IBUPROFEN-00516,ibuprofen,Gastrointestinal haemorrhage,No,Unknown,40,31-45,2026,cached_demo
+IBUPROFEN-00517,ibuprofen,Gastrointestinal haemorrhage,No,Male,71,61-75,2026,cached_demo
+IBUPROFEN-00518,ibuprofen,Gastrointestinal haemorrhage,No,Female,63,61-75,2025,cached_demo
+IBUPROFEN-00519,ibuprofen,Gastrointestinal haemorrhage,Yes,Male,31,31-45,2026,cached_demo
+IBUPROFEN-00520,ibuprofen,Gastrointestinal haemorrhage,No,Female,69,61-75,2023,cached_demo
+IBUPROFEN-00521,ibuprofen,Renal impairment,No,Female,86,76-90,2024,cached_demo
+IBUPROFEN-00522,ibuprofen,Renal impairment,No,Female,58,46-60,2024,cached_demo
+IBUPROFEN-00523,ibuprofen,Renal impairment,No,Female,70,61-75,2024,cached_demo
+IBUPROFEN-00524,ibuprofen,Renal impairment,No,Unknown,48,46-60,2023,cached_demo
+IBUPROFEN-00525,ibuprofen,Renal impairment,No,Unknown,66,61-75,2024,cached_demo
+IBUPROFEN-00526,ibuprofen,Renal impairment,Yes,Female,64,61-75,2025,cached_demo
+IBUPROFEN-00527,ibuprofen,Renal impairment,No,Male,18,18-30,2024,cached_demo
+IBUPROFEN-00528,ibuprofen,Renal impairment,No,Male,20,18-30,2024,cached_demo
+IBUPROFEN-00529,ibuprofen,Renal impairment,Yes,Male,18,18-30,2023,cached_demo
+IBUPROFEN-00530,ibuprofen,Renal impairment,Yes,Unknown,58,46-60,2024,cached_demo
+IBUPROFEN-00531,ibuprofen,Stevens-Johnson syndrome,No,Unknown,88,76-90,2026,cached_demo
+IBUPROFEN-00532,ibuprofen,Stevens-Johnson syndrome,Yes,Male,37,31-45,2025,cached_demo
+IBUPROFEN-00533,ibuprofen,Stevens-Johnson syndrome,Yes,Male,63,61-75,2024,cached_demo
+IBUPROFEN-00534,ibuprofen,Stevens-Johnson syndrome,No,Male,64,61-75,2023,cached_demo
+IBUPROFEN-00535,ibuprofen,Other/unspecified,No,Male,50,46-60,2026,cached_demo
+IBUPROFEN-00536,ibuprofen,Other/unspecified,No,Male,69,61-75,2022,cached_demo
+IBUPROFEN-00537,ibuprofen,Other/unspecified,No,Male,59,46-60,2025,cached_demo
+IBUPROFEN-00538,ibuprofen,Other/unspecified,No,Unknown,30,18-30,2024,cached_demo
+IBUPROFEN-00539,ibuprofen,Other/unspecified,No,Unknown,22,18-30,2025,cached_demo
+IBUPROFEN-00540,ibuprofen,Other/unspecified,Yes,Female,28,18-30,2024,cached_demo
+IBUPROFEN-00541,ibuprofen,Other/unspecified,No,Male,73,61-75,2023,cached_demo
+IBUPROFEN-00542,ibuprofen,Other/unspecified,No,Unknown,19,18-30,2025,cached_demo
+IBUPROFEN-00543,ibuprofen,Other/unspecified,No,Unknown,24,18-30,2022,cached_demo
+IBUPROFEN-00544,ibuprofen,Other/unspecified,No,Unknown,58,46-60,2023,cached_demo
+IBUPROFEN-00545,ibuprofen,Other/unspecified,No,Unknown,59,46-60,2023,cached_demo
+IBUPROFEN-00546,ibuprofen,Other/unspecified,Yes,Unknown,37,31-45,2025,cached_demo
+IBUPROFEN-00547,ibuprofen,Other/unspecified,No,Unknown,75,61-75,2026,cached_demo
+IBUPROFEN-00548,ibuprofen,Other/unspecified,Yes,Female,29,18-30,2024,cached_demo
+IBUPROFEN-00549,ibuprofen,Other/unspecified,Yes,Male,68,61-75,2024,cached_demo
+IBUPROFEN-00550,ibuprofen,Other/unspecified,No,Unknown,28,18-30,2022,cached_demo
+IBUPROFEN-00551,ibuprofen,Other/unspecified,No,Female,88,76-90,2022,cached_demo
+IBUPROFEN-00552,ibuprofen,Other/unspecified,No,Female,69,61-75,2023,cached_demo
+IBUPROFEN-00553,ibuprofen,Other/unspecified,No,Unknown,35,31-45,2023,cached_demo
+IBUPROFEN-00554,ibuprofen,Other/unspecified,No,Unknown,80,76-90,2026,cached_demo
+IBUPROFEN-00555,ibuprofen,Other/unspecified,No,Unknown,43,31-45,2026,cached_demo
+IBUPROFEN-00556,ibuprofen,Other/unspecified,Yes,Male,49,46-60,2024,cached_demo
+IBUPROFEN-00557,ibuprofen,Other/unspecified,No,Unknown,73,61-75,2026,cached_demo
+IBUPROFEN-00558,ibuprofen,Other/unspecified,Yes,Unknown,29,18-30,2025,cached_demo
+IBUPROFEN-00559,ibuprofen,Other/unspecified,No,Female,72,61-75,2023,cached_demo
+IBUPROFEN-00560,ibuprofen,Other/unspecified,No,Unknown,59,46-60,2022,cached_demo
+IBUPROFEN-00561,ibuprofen,Other/unspecified,Yes,Female,57,46-60,2026,cached_demo
+IBUPROFEN-00562,ibuprofen,Other/unspecified,No,Male,74,61-75,2025,cached_demo
+IBUPROFEN-00563,ibuprofen,Other/unspecified,Yes,Male,23,18-30,2024,cached_demo
+IBUPROFEN-00564,ibuprofen,Other/unspecified,No,Male,37,31-45,2022,cached_demo
+IBUPROFEN-00565,ibuprofen,Other/unspecified,Yes,Unknown,24,18-30,2023,cached_demo
+IBUPROFEN-00566,ibuprofen,Other/unspecified,Yes,Female,54,46-60,2022,cached_demo
+IBUPROFEN-00567,ibuprofen,Other/unspecified,No,Female,57,46-60,2022,cached_demo
+IBUPROFEN-00568,ibuprofen,Other/unspecified,Yes,Unknown,60,46-60,2026,cached_demo
+IBUPROFEN-00569,ibuprofen,Other/unspecified,Yes,Unknown,45,31-45,2026,cached_demo
+IBUPROFEN-00570,ibuprofen,Other/unspecified,No,Female,51,46-60,2026,cached_demo
+IBUPROFEN-00571,ibuprofen,Other/unspecified,No,Unknown,36,31-45,2022,cached_demo
+IBUPROFEN-00572,ibuprofen,Other/unspecified,No,Unknown,66,61-75,2026,cached_demo
+IBUPROFEN-00573,ibuprofen,Other/unspecified,No,Male,23,18-30,2022,cached_demo
+IBUPROFEN-00574,ibuprofen,Other/unspecified,Yes,Unknown,54,46-60,2026,cached_demo
+IBUPROFEN-00575,ibuprofen,Other/unspecified,Yes,Female,52,46-60,2022,cached_demo
+IBUPROFEN-00576,ibuprofen,Other/unspecified,No,Unknown,26,18-30,2024,cached_demo
+IBUPROFEN-00577,ibuprofen,Other/unspecified,Yes,Male,64,61-75,2024,cached_demo
+IBUPROFEN-00578,ibuprofen,Other/unspecified,Yes,Female,67,61-75,2026,cached_demo
+IBUPROFEN-00579,ibuprofen,Other/unspecified,No,Female,30,18-30,2026,cached_demo
+IBUPROFEN-00580,ibuprofen,Other/unspecified,Yes,Male,86,76-90,2023,cached_demo
+IBUPROFEN-00581,ibuprofen,Other/unspecified,No,Unknown,82,76-90,2022,cached_demo
+IBUPROFEN-00582,ibuprofen,Other/unspecified,Yes,Unknown,23,18-30,2024,cached_demo
+IBUPROFEN-00583,ibuprofen,Other/unspecified,No,Female,60,46-60,2023,cached_demo
+IBUPROFEN-00584,ibuprofen,Other/unspecified,No,Unknown,20,18-30,2024,cached_demo
+IBUPROFEN-00585,ibuprofen,Other/unspecified,No,Female,63,61-75,2023,cached_demo
+IBUPROFEN-00586,ibuprofen,Other/unspecified,No,Male,82,76-90,2024,cached_demo
+IBUPROFEN-00587,ibuprofen,Other/unspecified,Yes,Unknown,67,61-75,2024,cached_demo
+IBUPROFEN-00588,ibuprofen,Other/unspecified,Yes,Female,46,46-60,2025,cached_demo
+IBUPROFEN-00589,ibuprofen,Other/unspecified,Yes,Unknown,35,31-45,2025,cached_demo
+IBUPROFEN-00590,ibuprofen,Other/unspecified,No,Unknown,84,76-90,2023,cached_demo
+IBUPROFEN-00591,ibuprofen,Other/unspecified,Yes,Unknown,71,61-75,2023,cached_demo
+IBUPROFEN-00592,ibuprofen,Other/unspecified,No,Unknown,72,61-75,2024,cached_demo
+IBUPROFEN-00593,ibuprofen,Other/unspecified,No,Male,75,61-75,2023,cached_demo
+IBUPROFEN-00594,ibuprofen,Other/unspecified,No,Unknown,35,31-45,2023,cached_demo
+IBUPROFEN-00595,ibuprofen,Other/unspecified,No,Unknown,35,31-45,2026,cached_demo
+IBUPROFEN-00596,ibuprofen,Other/unspecified,No,Male,35,31-45,2026,cached_demo
+IBUPROFEN-00597,ibuprofen,Other/unspecified,No,Male,38,31-45,2026,cached_demo
+IBUPROFEN-00598,ibuprofen,Other/unspecified,No,Male,86,76-90,2023,cached_demo
+IBUPROFEN-00599,ibuprofen,Other/unspecified,Yes,Unknown,58,46-60,2022,cached_demo
+IBUPROFEN-00600,ibuprofen,Other/unspecified,No,Female,58,46-60,2024,cached_demo
+IBUPROFEN-00601,ibuprofen,Other/unspecified,No,Unknown,74,61-75,2024,cached_demo
+IBUPROFEN-00602,ibuprofen,Other/unspecified,Yes,Male,37,31-45,2023,cached_demo
+IBUPROFEN-00603,ibuprofen,Other/unspecified,Yes,Unknown,41,31-45,2026,cached_demo
+IBUPROFEN-00604,ibuprofen,Other/unspecified,No,Unknown,52,46-60,2026,cached_demo
+IBUPROFEN-00605,ibuprofen,Other/unspecified,No,Male,47,46-60,2023,cached_demo
+IBUPROFEN-00606,ibuprofen,Other/unspecified,No,Male,21,18-30,2025,cached_demo
+IBUPROFEN-00607,ibuprofen,Other/unspecified,No,Unknown,35,31-45,2025,cached_demo
+IBUPROFEN-00608,ibuprofen,Other/unspecified,Yes,Female,65,61-75,2025,cached_demo
+IBUPROFEN-00609,ibuprofen,Other/unspecified,Yes,Male,78,76-90,2023,cached_demo
+IBUPROFEN-00610,ibuprofen,Other/unspecified,Yes,Female,46,46-60,2022,cached_demo
+IBUPROFEN-00611,ibuprofen,Other/unspecified,No,Male,52,46-60,2023,cached_demo
+IBUPROFEN-00612,ibuprofen,Other/unspecified,Yes,Male,44,31-45,2025,cached_demo
+IBUPROFEN-00613,ibuprofen,Other/unspecified,No,Female,80,76-90,2025,cached_demo
+IBUPROFEN-00614,ibuprofen,Other/unspecified,No,Female,49,46-60,2022,cached_demo
+IBUPROFEN-00615,ibuprofen,Other/unspecified,No,Female,66,61-75,2025,cached_demo
+IBUPROFEN-00616,ibuprofen,Other/unspecified,No,Unknown,86,76-90,2022,cached_demo
+IBUPROFEN-00617,ibuprofen,Other/unspecified,Yes,Female,84,76-90,2025,cached_demo
+IBUPROFEN-00618,ibuprofen,Other/unspecified,Yes,Unknown,23,18-30,2026,cached_demo
+IBUPROFEN-00619,ibuprofen,Other/unspecified,No,Male,68,61-75,2026,cached_demo
+IBUPROFEN-00620,ibuprofen,Other/unspecified,No,Unknown,67,61-75,2022,cached_demo
+IBUPROFEN-00621,ibuprofen,Other/unspecified,No,Female,42,31-45,2025,cached_demo
+IBUPROFEN-00622,ibuprofen,Other/unspecified,No,Female,56,46-60,2023,cached_demo
+IBUPROFEN-00623,ibuprofen,Other/unspecified,No,Unknown,72,61-75,2022,cached_demo
+IBUPROFEN-00624,ibuprofen,Other/unspecified,Yes,Female,84,76-90,2025,cached_demo
+IBUPROFEN-00625,ibuprofen,Other/unspecified,No,Unknown,29,18-30,2022,cached_demo
+IBUPROFEN-00626,ibuprofen,Other/unspecified,No,Unknown,41,31-45,2026,cached_demo
+IBUPROFEN-00627,ibuprofen,Other/unspecified,No,Female,35,31-45,2024,cached_demo
+IBUPROFEN-00628,ibuprofen,Other/unspecified,Yes,Male,75,61-75,2025,cached_demo
+IBUPROFEN-00629,ibuprofen,Other/unspecified,No,Male,43,31-45,2024,cached_demo
+IBUPROFEN-00630,ibuprofen,Other/unspecified,No,Unknown,59,46-60,2023,cached_demo
+IBUPROFEN-00631,ibuprofen,Other/unspecified,Yes,Male,33,31-45,2025,cached_demo
+IBUPROFEN-00632,ibuprofen,Other/unspecified,Yes,Unknown,64,61-75,2025,cached_demo
+IBUPROFEN-00633,ibuprofen,Other/unspecified,No,Male,83,76-90,2025,cached_demo
+IBUPROFEN-00634,ibuprofen,Other/unspecified,No,Male,88,76-90,2023,cached_demo
+IBUPROFEN-00635,ibuprofen,Other/unspecified,No,Unknown,60,46-60,2023,cached_demo
+IBUPROFEN-00636,ibuprofen,Other/unspecified,Yes,Male,38,31-45,2022,cached_demo
+IBUPROFEN-00637,ibuprofen,Other/unspecified,No,Female,71,61-75,2025,cached_demo
+IBUPROFEN-00638,ibuprofen,Other/unspecified,No,Male,54,46-60,2022,cached_demo
+IBUPROFEN-00639,ibuprofen,Other/unspecified,Yes,Male,34,31-45,2026,cached_demo
+IBUPROFEN-00640,ibuprofen,Other/unspecified,Yes,Female,50,46-60,2025,cached_demo
+IBUPROFEN-00641,ibuprofen,Other/unspecified,No,Male,81,76-90,2026,cached_demo
+IBUPROFEN-00642,ibuprofen,Other/unspecified,Yes,Male,81,76-90,2026,cached_demo
+IBUPROFEN-00643,ibuprofen,Other/unspecified,No,Female,78,76-90,2025,cached_demo
+IBUPROFEN-00644,ibuprofen,Other/unspecified,No,Unknown,28,18-30,2022,cached_demo
+IBUPROFEN-00645,ibuprofen,Other/unspecified,No,Female,49,46-60,2026,cached_demo
+IBUPROFEN-00646,ibuprofen,Other/unspecified,Yes,Male,89,76-90,2023,cached_demo
+IBUPROFEN-00647,ibuprofen,Other/unspecified,Yes,Unknown,36,31-45,2024,cached_demo
+IBUPROFEN-00648,ibuprofen,Other/unspecified,Yes,Male,22,18-30,2026,cached_demo
+IBUPROFEN-00649,ibuprofen,Other/unspecified,No,Male,56,46-60,2022,cached_demo
+IBUPROFEN-00650,ibuprofen,Other/unspecified,No,Male,31,31-45,2023,cached_demo
+IBUPROFEN-00651,ibuprofen,Other/unspecified,No,Unknown,54,46-60,2026,cached_demo
+IBUPROFEN-00652,ibuprofen,Other/unspecified,Yes,Female,89,76-90,2026,cached_demo
+IBUPROFEN-00653,ibuprofen,Other/unspecified,Yes,Male,64,61-75,2024,cached_demo
+IBUPROFEN-00654,ibuprofen,Other/unspecified,No,Female,59,46-60,2022,cached_demo
+IBUPROFEN-00655,ibuprofen,Other/unspecified,No,Male,72,61-75,2024,cached_demo
+IBUPROFEN-00656,ibuprofen,Other/unspecified,Yes,Male,78,76-90,2024,cached_demo
+IBUPROFEN-00657,ibuprofen,Other/unspecified,No,Female,60,46-60,2026,cached_demo
+IBUPROFEN-00658,ibuprofen,Other/unspecified,No,Male,44,31-45,2026,cached_demo
+IBUPROFEN-00659,ibuprofen,Other/unspecified,Yes,Unknown,25,18-30,2026,cached_demo
+IBUPROFEN-00660,ibuprofen,Other/unspecified,No,Unknown,29,18-30,2026,cached_demo
+IBUPROFEN-00661,ibuprofen,Other/unspecified,No,Unknown,54,46-60,2024,cached_demo
+IBUPROFEN-00662,ibuprofen,Other/unspecified,No,Unknown,51,46-60,2026,cached_demo
+IBUPROFEN-00663,ibuprofen,Other/unspecified,Yes,Unknown,63,61-75,2026,cached_demo
+IBUPROFEN-00664,ibuprofen,Other/unspecified,No,Unknown,81,76-90,2025,cached_demo
+IBUPROFEN-00665,ibuprofen,Other/unspecified,Yes,Unknown,81,76-90,2023,cached_demo
+IBUPROFEN-00666,ibuprofen,Other/unspecified,Yes,Male,55,46-60,2022,cached_demo
+IBUPROFEN-00667,ibuprofen,Other/unspecified,No,Unknown,21,18-30,2022,cached_demo
+IBUPROFEN-00668,ibuprofen,Other/unspecified,No,Female,44,31-45,2025,cached_demo
+IBUPROFEN-00669,ibuprofen,Other/unspecified,No,Female,23,18-30,2026,cached_demo
+IBUPROFEN-00670,ibuprofen,Other/unspecified,Yes,Unknown,45,31-45,2023,cached_demo
+IBUPROFEN-00671,ibuprofen,Other/unspecified,No,Male,54,46-60,2024,cached_demo
+IBUPROFEN-00672,ibuprofen,Other/unspecified,No,Unknown,56,46-60,2024,cached_demo
+IBUPROFEN-00673,ibuprofen,Other/unspecified,Yes,Unknown,18,18-30,2024,cached_demo
+IBUPROFEN-00674,ibuprofen,Other/unspecified,No,Unknown,61,61-75,2026,cached_demo
+IBUPROFEN-00675,ibuprofen,Other/unspecified,Yes,Male,21,18-30,2024,cached_demo
+IBUPROFEN-00676,ibuprofen,Other/unspecified,No,Female,61,61-75,2025,cached_demo
+IBUPROFEN-00677,ibuprofen,Other/unspecified,No,Male,22,18-30,2025,cached_demo
+IBUPROFEN-00678,ibuprofen,Other/unspecified,No,Female,37,31-45,2026,cached_demo
+IBUPROFEN-00679,ibuprofen,Other/unspecified,No,Female,60,46-60,2022,cached_demo
+IBUPROFEN-00680,ibuprofen,Other/unspecified,No,Unknown,84,76-90,2024,cached_demo
+IBUPROFEN-00681,ibuprofen,Other/unspecified,No,Male,89,76-90,2023,cached_demo
+IBUPROFEN-00682,ibuprofen,Other/unspecified,No,Male,60,46-60,2023,cached_demo
+IBUPROFEN-00683,ibuprofen,Other/unspecified,Yes,Female,53,46-60,2025,cached_demo
+IBUPROFEN-00684,ibuprofen,Other/unspecified,Yes,Unknown,86,76-90,2026,cached_demo
+IBUPROFEN-00685,ibuprofen,Other/unspecified,Yes,Unknown,67,61-75,2022,cached_demo
+IBUPROFEN-00686,ibuprofen,Other/unspecified,No,Female,57,46-60,2022,cached_demo
+IBUPROFEN-00687,ibuprofen,Other/unspecified,No,Male,52,46-60,2025,cached_demo
+IBUPROFEN-00688,ibuprofen,Other/unspecified,No,Female,48,46-60,2024,cached_demo
+IBUPROFEN-00689,ibuprofen,Other/unspecified,No,Female,45,31-45,2023,cached_demo
+IBUPROFEN-00690,ibuprofen,Other/unspecified,No,Male,32,31-45,2023,cached_demo
+IBUPROFEN-00691,ibuprofen,Other/unspecified,No,Unknown,29,18-30,2022,cached_demo
+IBUPROFEN-00692,ibuprofen,Other/unspecified,No,Male,79,76-90,2023,cached_demo
+IBUPROFEN-00693,ibuprofen,Other/unspecified,No,Unknown,61,61-75,2026,cached_demo
+IBUPROFEN-00694,ibuprofen,Other/unspecified,No,Male,57,46-60,2022,cached_demo
+IBUPROFEN-00695,ibuprofen,Other/unspecified,No,Male,84,76-90,2023,cached_demo
+IBUPROFEN-00696,ibuprofen,Other/unspecified,No,Female,22,18-30,2026,cached_demo
+IBUPROFEN-00697,ibuprofen,Other/unspecified,Yes,Female,32,31-45,2022,cached_demo
+IBUPROFEN-00698,ibuprofen,Other/unspecified,No,Female,29,18-30,2022,cached_demo
+IBUPROFEN-00699,ibuprofen,Other/unspecified,No,Unknown,31,31-45,2024,cached_demo
+IBUPROFEN-00700,ibuprofen,Other/unspecified,No,Female,20,18-30,2023,cached_demo
+IBUPROFEN-00701,ibuprofen,Other/unspecified,Yes,Male,59,46-60,2024,cached_demo
+IBUPROFEN-00702,ibuprofen,Other/unspecified,No,Female,53,46-60,2025,cached_demo
+IBUPROFEN-00703,ibuprofen,Other/unspecified,No,Male,33,31-45,2023,cached_demo
+IBUPROFEN-00704,ibuprofen,Other/unspecified,Yes,Male,53,46-60,2026,cached_demo
+IBUPROFEN-00705,ibuprofen,Other/unspecified,No,Male,89,76-90,2023,cached_demo
+IBUPROFEN-00706,ibuprofen,Other/unspecified,No,Unknown,87,76-90,2024,cached_demo
+IBUPROFEN-00707,ibuprofen,Other/unspecified,Yes,Unknown,52,46-60,2024,cached_demo
+IBUPROFEN-00708,ibuprofen,Other/unspecified,Yes,Male,49,46-60,2024,cached_demo
+IBUPROFEN-00709,ibuprofen,Other/unspecified,No,Female,61,61-75,2022,cached_demo
+IBUPROFEN-00710,ibuprofen,Other/unspecified,Yes,Female,34,31-45,2022,cached_demo
+IBUPROFEN-00711,ibuprofen,Other/unspecified,No,Male,31,31-45,2022,cached_demo
+IBUPROFEN-00712,ibuprofen,Other/unspecified,No,Male,72,61-75,2026,cached_demo
+IBUPROFEN-00713,ibuprofen,Other/unspecified,No,Female,75,61-75,2024,cached_demo
+IBUPROFEN-00714,ibuprofen,Other/unspecified,Yes,Unknown,60,46-60,2026,cached_demo
+IBUPROFEN-00715,ibuprofen,Other/unspecified,No,Unknown,28,18-30,2023,cached_demo
+IBUPROFEN-00716,ibuprofen,Other/unspecified,No,Female,29,18-30,2022,cached_demo
+IBUPROFEN-00717,ibuprofen,Other/unspecified,No,Unknown,76,76-90,2025,cached_demo
+IBUPROFEN-00718,ibuprofen,Other/unspecified,Yes,Male,78,76-90,2023,cached_demo
+IBUPROFEN-00719,ibuprofen,Other/unspecified,No,Female,51,46-60,2023,cached_demo
+IBUPROFEN-00720,ibuprofen,Other/unspecified,No,Female,60,46-60,2025,cached_demo
+IBUPROFEN-00721,ibuprofen,Other/unspecified,Yes,Female,21,18-30,2022,cached_demo
+IBUPROFEN-00722,ibuprofen,Other/unspecified,No,Female,62,61-75,2023,cached_demo
+IBUPROFEN-00723,ibuprofen,Other/unspecified,No,Unknown,54,46-60,2026,cached_demo
+IBUPROFEN-00724,ibuprofen,Other/unspecified,No,Male,34,31-45,2025,cached_demo
+IBUPROFEN-00725,ibuprofen,Other/unspecified,No,Unknown,31,31-45,2022,cached_demo
+IBUPROFEN-00726,ibuprofen,Other/unspecified,No,Female,56,46-60,2025,cached_demo
+IBUPROFEN-00727,ibuprofen,Other/unspecified,Yes,Unknown,70,61-75,2023,cached_demo
+IBUPROFEN-00728,ibuprofen,Other/unspecified,Yes,Female,88,76-90,2025,cached_demo
+IBUPROFEN-00729,ibuprofen,Other/unspecified,No,Male,26,18-30,2026,cached_demo
+IBUPROFEN-00730,ibuprofen,Other/unspecified,No,Unknown,73,61-75,2024,cached_demo
+IBUPROFEN-00731,ibuprofen,Other/unspecified,No,Male,87,76-90,2023,cached_demo
+IBUPROFEN-00732,ibuprofen,Other/unspecified,No,Unknown,27,18-30,2026,cached_demo
+IBUPROFEN-00733,ibuprofen,Other/unspecified,Yes,Unknown,80,76-90,2026,cached_demo
+IBUPROFEN-00734,ibuprofen,Other/unspecified,No,Unknown,77,76-90,2022,cached_demo
+IBUPROFEN-00735,ibuprofen,Other/unspecified,Yes,Female,74,61-75,2025,cached_demo
+IBUPROFEN-00736,ibuprofen,Other/unspecified,No,Male,26,18-30,2026,cached_demo
+IBUPROFEN-00737,ibuprofen,Other/unspecified,No,Female,66,61-75,2022,cached_demo
+IBUPROFEN-00738,ibuprofen,Other/unspecified,Yes,Male,29,18-30,2026,cached_demo
+IBUPROFEN-00739,ibuprofen,Other/unspecified,Yes,Unknown,18,18-30,2023,cached_demo
+IBUPROFEN-00740,ibuprofen,Other/unspecified,No,Female,75,61-75,2025,cached_demo
+IBUPROFEN-00741,ibuprofen,Other/unspecified,Yes,Male,75,61-75,2024,cached_demo
+IBUPROFEN-00742,ibuprofen,Other/unspecified,No,Unknown,56,46-60,2024,cached_demo
+IBUPROFEN-00743,ibuprofen,Other/unspecified,No,Female,73,61-75,2022,cached_demo
+IBUPROFEN-00744,ibuprofen,Other/unspecified,No,Unknown,19,18-30,2025,cached_demo
+IBUPROFEN-00745,ibuprofen,Other/unspecified,No,Male,34,31-45,2024,cached_demo
+IBUPROFEN-00746,ibuprofen,Other/unspecified,Yes,Male,88,76-90,2026,cached_demo
+IBUPROFEN-00747,ibuprofen,Other/unspecified,Yes,Female,63,61-75,2022,cached_demo
+IBUPROFEN-00748,ibuprofen,Other/unspecified,No,Unknown,48,46-60,2026,cached_demo
+IBUPROFEN-00749,ibuprofen,Other/unspecified,No,Female,68,61-75,2025,cached_demo
+IBUPROFEN-00750,ibuprofen,Other/unspecified,No,Female,69,61-75,2026,cached_demo
+IBUPROFEN-00751,ibuprofen,Other/unspecified,No,Male,45,31-45,2025,cached_demo
+IBUPROFEN-00752,ibuprofen,Other/unspecified,Yes,Unknown,35,31-45,2025,cached_demo
+IBUPROFEN-00753,ibuprofen,Other/unspecified,No,Male,64,61-75,2024,cached_demo
+IBUPROFEN-00754,ibuprofen,Other/unspecified,Yes,Male,34,31-45,2022,cached_demo
+IBUPROFEN-00755,ibuprofen,Other/unspecified,Yes,Unknown,20,18-30,2025,cached_demo
+IBUPROFEN-00756,ibuprofen,Other/unspecified,Yes,Male,73,61-75,2023,cached_demo
+IBUPROFEN-00757,ibuprofen,Other/unspecified,No,Unknown,71,61-75,2026,cached_demo
+IBUPROFEN-00758,ibuprofen,Other/unspecified,No,Male,72,61-75,2025,cached_demo
+IBUPROFEN-00759,ibuprofen,Other/unspecified,No,Unknown,83,76-90,2025,cached_demo
+IBUPROFEN-00760,ibuprofen,Other/unspecified,No,Male,67,61-75,2023,cached_demo
+IBUPROFEN-00761,ibuprofen,Other/unspecified,No,Male,72,61-75,2026,cached_demo
+IBUPROFEN-00762,ibuprofen,Other/unspecified,No,Male,81,76-90,2026,cached_demo
+IBUPROFEN-00763,ibuprofen,Other/unspecified,No,Unknown,52,46-60,2026,cached_demo
+IBUPROFEN-00764,ibuprofen,Other/unspecified,Yes,Male,64,61-75,2026,cached_demo
+IBUPROFEN-00765,ibuprofen,Other/unspecified,No,Female,79,76-90,2022,cached_demo
+IBUPROFEN-00766,ibuprofen,Other/unspecified,No,Male,79,76-90,2023,cached_demo
+IBUPROFEN-00767,ibuprofen,Other/unspecified,No,Female,85,76-90,2026,cached_demo
+IBUPROFEN-00768,ibuprofen,Other/unspecified,No,Unknown,28,18-30,2022,cached_demo
+IBUPROFEN-00769,ibuprofen,Other/unspecified,No,Unknown,49,46-60,2022,cached_demo
+IBUPROFEN-00770,ibuprofen,Other/unspecified,No,Female,87,76-90,2026,cached_demo
+IBUPROFEN-00771,ibuprofen,Other/unspecified,No,Unknown,24,18-30,2022,cached_demo
+IBUPROFEN-00772,ibuprofen,Other/unspecified,No,Unknown,78,76-90,2025,cached_demo
+IBUPROFEN-00773,ibuprofen,Other/unspecified,No,Female,60,46-60,2024,cached_demo
+IBUPROFEN-00774,ibuprofen,Other/unspecified,Yes,Male,55,46-60,2026,cached_demo
+IBUPROFEN-00775,ibuprofen,Other/unspecified,No,Unknown,56,46-60,2024,cached_demo
+IBUPROFEN-00776,ibuprofen,Other/unspecified,No,Female,25,18-30,2026,cached_demo
+IBUPROFEN-00777,ibuprofen,Other/unspecified,No,Male,39,31-45,2024,cached_demo
+IBUPROFEN-00778,ibuprofen,Other/unspecified,No,Female,21,18-30,2022,cached_demo
+IBUPROFEN-00779,ibuprofen,Other/unspecified,No,Male,34,31-45,2024,cached_demo
+IBUPROFEN-00780,ibuprofen,Other/unspecified,Yes,Unknown,50,46-60,2024,cached_demo
+IBUPROFEN-00781,ibuprofen,Other/unspecified,No,Male,53,46-60,2022,cached_demo
+IBUPROFEN-00782,ibuprofen,Other/unspecified,No,Unknown,40,31-45,2023,cached_demo
+IBUPROFEN-00783,ibuprofen,Other/unspecified,No,Male,75,61-75,2024,cached_demo
+IBUPROFEN-00784,ibuprofen,Other/unspecified,No,Male,48,46-60,2026,cached_demo
+IBUPROFEN-00785,ibuprofen,Other/unspecified,No,Male,22,18-30,2023,cached_demo
+IBUPROFEN-00786,ibuprofen,Other/unspecified,No,Female,37,31-45,2025,cached_demo
+IBUPROFEN-00787,ibuprofen,Other/unspecified,No,Female,48,46-60,2023,cached_demo
+IBUPROFEN-00788,ibuprofen,Other/unspecified,No,Unknown,44,31-45,2024,cached_demo
+IBUPROFEN-00789,ibuprofen,Other/unspecified,No,Female,24,18-30,2022,cached_demo
+IBUPROFEN-00790,ibuprofen,Other/unspecified,Yes,Female,24,18-30,2025,cached_demo
+IBUPROFEN-00791,ibuprofen,Other/unspecified,No,Female,78,76-90,2026,cached_demo
+IBUPROFEN-00792,ibuprofen,Other/unspecified,No,Unknown,47,46-60,2025,cached_demo
+IBUPROFEN-00793,ibuprofen,Other/unspecified,No,Male,78,76-90,2026,cached_demo
+IBUPROFEN-00794,ibuprofen,Other/unspecified,Yes,Female,73,61-75,2025,cached_demo
+IBUPROFEN-00795,ibuprofen,Other/unspecified,No,Female,66,61-75,2026,cached_demo
+IBUPROFEN-00796,ibuprofen,Other/unspecified,Yes,Unknown,23,18-30,2024,cached_demo
+IBUPROFEN-00797,ibuprofen,Other/unspecified,No,Unknown,73,61-75,2024,cached_demo
+IBUPROFEN-00798,ibuprofen,Other/unspecified,No,Female,60,46-60,2022,cached_demo
+IBUPROFEN-00799,ibuprofen,Other/unspecified,No,Unknown,50,46-60,2025,cached_demo
+IBUPROFEN-00800,ibuprofen,Other/unspecified,No,Unknown,77,76-90,2023,cached_demo
+IBUPROFEN-00801,ibuprofen,Other/unspecified,No,Female,42,31-45,2023,cached_demo
+IBUPROFEN-00802,ibuprofen,Other/unspecified,No,Male,58,46-60,2022,cached_demo
+IBUPROFEN-00803,ibuprofen,Other/unspecified,Yes,Female,26,18-30,2022,cached_demo
+IBUPROFEN-00804,ibuprofen,Other/unspecified,Yes,Unknown,85,76-90,2025,cached_demo
+IBUPROFEN-00805,ibuprofen,Other/unspecified,Yes,Unknown,62,61-75,2024,cached_demo
+IBUPROFEN-00806,ibuprofen,Other/unspecified,Yes,Male,50,46-60,2022,cached_demo
+IBUPROFEN-00807,ibuprofen,Other/unspecified,Yes,Unknown,29,18-30,2023,cached_demo
+IBUPROFEN-00808,ibuprofen,Other/unspecified,No,Male,33,31-45,2022,cached_demo
+IBUPROFEN-00809,ibuprofen,Other/unspecified,No,Unknown,34,31-45,2026,cached_demo
+IBUPROFEN-00810,ibuprofen,Other/unspecified,Yes,Unknown,41,31-45,2023,cached_demo
+IBUPROFEN-00811,ibuprofen,Other/unspecified,No,Female,50,46-60,2022,cached_demo
+IBUPROFEN-00812,ibuprofen,Other/unspecified,No,Female,76,76-90,2024,cached_demo
+IBUPROFEN-00813,ibuprofen,Other/unspecified,Yes,Male,50,46-60,2024,cached_demo
+IBUPROFEN-00814,ibuprofen,Other/unspecified,No,Female,25,18-30,2024,cached_demo
+IBUPROFEN-00815,ibuprofen,Other/unspecified,No,Female,25,18-30,2023,cached_demo
+IBUPROFEN-00816,ibuprofen,Other/unspecified,Yes,Female,74,61-75,2023,cached_demo
+IBUPROFEN-00817,ibuprofen,Other/unspecified,Yes,Unknown,68,61-75,2025,cached_demo
+IBUPROFEN-00818,ibuprofen,Other/unspecified,Yes,Unknown,31,31-45,2025,cached_demo
+IBUPROFEN-00819,ibuprofen,Other/unspecified,No,Unknown,45,31-45,2022,cached_demo
+IBUPROFEN-00820,ibuprofen,Other/unspecified,No,Female,74,61-75,2022,cached_demo
+IBUPROFEN-00821,ibuprofen,Other/unspecified,Yes,Male,22,18-30,2026,cached_demo
+IBUPROFEN-00822,ibuprofen,Other/unspecified,No,Male,50,46-60,2025,cached_demo
+IBUPROFEN-00823,ibuprofen,Other/unspecified,No,Unknown,37,31-45,2022,cached_demo
+IBUPROFEN-00824,ibuprofen,Other/unspecified,No,Female,22,18-30,2024,cached_demo
+IBUPROFEN-00825,ibuprofen,Other/unspecified,No,Female,37,31-45,2025,cached_demo
+IBUPROFEN-00826,ibuprofen,Other/unspecified,No,Unknown,18,18-30,2025,cached_demo
+IBUPROFEN-00827,ibuprofen,Other/unspecified,No,Female,79,76-90,2022,cached_demo
+IBUPROFEN-00828,ibuprofen,Other/unspecified,Yes,Male,87,76-90,2025,cached_demo
+IBUPROFEN-00829,ibuprofen,Other/unspecified,Yes,Unknown,79,76-90,2026,cached_demo
+IBUPROFEN-00830,ibuprofen,Other/unspecified,No,Unknown,63,61-75,2024,cached_demo
+IBUPROFEN-00831,ibuprofen,Other/unspecified,Yes,Unknown,69,61-75,2022,cached_demo
+IBUPROFEN-00832,ibuprofen,Other/unspecified,No,Female,64,61-75,2022,cached_demo
+IBUPROFEN-00833,ibuprofen,Other/unspecified,No,Unknown,76,76-90,2023,cached_demo
+IBUPROFEN-00834,ibuprofen,Other/unspecified,No,Male,40,31-45,2025,cached_demo
+IBUPROFEN-00835,ibuprofen,Other/unspecified,No,Unknown,42,31-45,2025,cached_demo
+IBUPROFEN-00836,ibuprofen,Other/unspecified,No,Unknown,31,31-45,2024,cached_demo
+IBUPROFEN-00837,ibuprofen,Other/unspecified,Yes,Unknown,80,76-90,2025,cached_demo
+IBUPROFEN-00838,ibuprofen,Other/unspecified,Yes,Male,42,31-45,2023,cached_demo
+IBUPROFEN-00839,ibuprofen,Other/unspecified,No,Unknown,21,18-30,2023,cached_demo
+IBUPROFEN-00840,ibuprofen,Other/unspecified,No,Male,80,76-90,2026,cached_demo
+IBUPROFEN-00841,ibuprofen,Other/unspecified,No,Unknown,57,46-60,2025,cached_demo
+IBUPROFEN-00842,ibuprofen,Other/unspecified,Yes,Female,20,18-30,2022,cached_demo
+IBUPROFEN-00843,ibuprofen,Other/unspecified,No,Male,61,61-75,2025,cached_demo
+IBUPROFEN-00844,ibuprofen,Other/unspecified,Yes,Unknown,33,31-45,2026,cached_demo
+IBUPROFEN-00845,ibuprofen,Other/unspecified,No,Unknown,76,76-90,2023,cached_demo
+IBUPROFEN-00846,ibuprofen,Other/unspecified,Yes,Male,47,46-60,2023,cached_demo
+IBUPROFEN-00847,ibuprofen,Other/unspecified,No,Male,80,76-90,2025,cached_demo
+IBUPROFEN-00848,ibuprofen,Other/unspecified,Yes,Unknown,23,18-30,2023,cached_demo
+IBUPROFEN-00849,ibuprofen,Other/unspecified,Yes,Unknown,19,18-30,2022,cached_demo
+IBUPROFEN-00850,ibuprofen,Other/unspecified,Yes,Female,57,46-60,2026,cached_demo
+IBUPROFEN-00851,ibuprofen,Other/unspecified,No,Male,39,31-45,2022,cached_demo
+IBUPROFEN-00852,ibuprofen,Other/unspecified,No,Unknown,32,31-45,2026,cached_demo
+IBUPROFEN-00853,ibuprofen,Other/unspecified,Yes,Male,46,46-60,2025,cached_demo
+IBUPROFEN-00854,ibuprofen,Other/unspecified,No,Unknown,61,61-75,2025,cached_demo
+IBUPROFEN-00855,ibuprofen,Other/unspecified,Yes,Unknown,59,46-60,2026,cached_demo
+IBUPROFEN-00856,ibuprofen,Other/unspecified,Yes,Female,87,76-90,2023,cached_demo
+IBUPROFEN-00857,ibuprofen,Other/unspecified,No,Male,23,18-30,2024,cached_demo
+IBUPROFEN-00858,ibuprofen,Other/unspecified,Yes,Female,26,18-30,2023,cached_demo
+IBUPROFEN-00859,ibuprofen,Other/unspecified,Yes,Unknown,71,61-75,2024,cached_demo
+IBUPROFEN-00860,ibuprofen,Other/unspecified,Yes,Female,88,76-90,2023,cached_demo
+IBUPROFEN-00861,ibuprofen,Other/unspecified,Yes,Male,23,18-30,2026,cached_demo
+IBUPROFEN-00862,ibuprofen,Other/unspecified,Yes,Male,66,61-75,2025,cached_demo
+IBUPROFEN-00863,ibuprofen,Other/unspecified,Yes,Male,28,18-30,2023,cached_demo
+IBUPROFEN-00864,ibuprofen,Other/unspecified,No,Unknown,29,18-30,2026,cached_demo
+IBUPROFEN-00865,ibuprofen,Other/unspecified,No,Unknown,54,46-60,2025,cached_demo
+IBUPROFEN-00866,ibuprofen,Other/unspecified,Yes,Male,34,31-45,2024,cached_demo
+IBUPROFEN-00867,ibuprofen,Other/unspecified,No,Female,84,76-90,2023,cached_demo
+IBUPROFEN-00868,ibuprofen,Other/unspecified,No,Unknown,40,31-45,2022,cached_demo
+IBUPROFEN-00869,ibuprofen,Other/unspecified,No,Female,41,31-45,2026,cached_demo
+IBUPROFEN-00870,ibuprofen,Other/unspecified,No,Female,29,18-30,2024,cached_demo
+IBUPROFEN-00871,ibuprofen,Other/unspecified,Yes,Unknown,71,61-75,2023,cached_demo
+IBUPROFEN-00872,ibuprofen,Other/unspecified,Yes,Unknown,42,31-45,2022,cached_demo
+IBUPROFEN-00873,ibuprofen,Other/unspecified,No,Unknown,64,61-75,2023,cached_demo
+IBUPROFEN-00874,ibuprofen,Other/unspecified,No,Unknown,77,76-90,2023,cached_demo
+IBUPROFEN-00875,ibuprofen,Other/unspecified,Yes,Male,53,46-60,2022,cached_demo
+IBUPROFEN-00876,ibuprofen,Other/unspecified,No,Female,37,31-45,2025,cached_demo
+IBUPROFEN-00877,ibuprofen,Other/unspecified,Yes,Unknown,40,31-45,2022,cached_demo
+IBUPROFEN-00878,ibuprofen,Other/unspecified,No,Female,24,18-30,2024,cached_demo
+IBUPROFEN-00879,ibuprofen,Other/unspecified,No,Female,44,31-45,2024,cached_demo
+IBUPROFEN-00880,ibuprofen,Other/unspecified,Yes,Male,76,76-90,2022,cached_demo
+IBUPROFEN-00881,ibuprofen,Other/unspecified,Yes,Male,86,76-90,2022,cached_demo
+IBUPROFEN-00882,ibuprofen,Other/unspecified,No,Male,80,76-90,2022,cached_demo
+IBUPROFEN-00883,ibuprofen,Other/unspecified,No,Female,48,46-60,2026,cached_demo
+IBUPROFEN-00884,ibuprofen,Other/unspecified,No,Male,59,46-60,2024,cached_demo
+IBUPROFEN-00885,ibuprofen,Other/unspecified,Yes,Female,47,46-60,2023,cached_demo
+IBUPROFEN-00886,ibuprofen,Other/unspecified,Yes,Unknown,30,18-30,2025,cached_demo
+IBUPROFEN-00887,ibuprofen,Other/unspecified,No,Male,43,31-45,2022,cached_demo
+IBUPROFEN-00888,ibuprofen,Other/unspecified,No,Female,78,76-90,2022,cached_demo
+IBUPROFEN-00889,ibuprofen,Other/unspecified,Yes,Male,73,61-75,2026,cached_demo
+IBUPROFEN-00890,ibuprofen,Other/unspecified,Yes,Female,76,76-90,2024,cached_demo
+IBUPROFEN-00891,ibuprofen,Other/unspecified,No,Unknown,35,31-45,2023,cached_demo
+IBUPROFEN-00892,ibuprofen,Other/unspecified,No,Male,63,61-75,2024,cached_demo
+IBUPROFEN-00893,ibuprofen,Other/unspecified,Yes,Unknown,34,31-45,2026,cached_demo
+IBUPROFEN-00894,ibuprofen,Other/unspecified,No,Male,25,18-30,2022,cached_demo
+IBUPROFEN-00895,ibuprofen,Other/unspecified,No,Female,77,76-90,2023,cached_demo
+IBUPROFEN-00896,ibuprofen,Other/unspecified,Yes,Female,61,61-75,2026,cached_demo
+IBUPROFEN-00897,ibuprofen,Other/unspecified,No,Unknown,38,31-45,2023,cached_demo
+IBUPROFEN-00898,ibuprofen,Other/unspecified,Yes,Male,88,76-90,2025,cached_demo
+IBUPROFEN-00899,ibuprofen,Other/unspecified,No,Male,84,76-90,2026,cached_demo
+IBUPROFEN-00900,ibuprofen,Other/unspecified,No,Female,78,76-90,2022,cached_demo
+IBUPROFEN-00901,ibuprofen,Other/unspecified,No,Male,72,61-75,2023,cached_demo
+IBUPROFEN-00902,ibuprofen,Other/unspecified,No,Unknown,59,46-60,2023,cached_demo
+IBUPROFEN-00903,ibuprofen,Other/unspecified,No,Male,37,31-45,2025,cached_demo
+IBUPROFEN-00904,ibuprofen,Other/unspecified,Yes,Female,23,18-30,2026,cached_demo
+IBUPROFEN-00905,ibuprofen,Other/unspecified,No,Unknown,22,18-30,2025,cached_demo
+IBUPROFEN-00906,ibuprofen,Other/unspecified,No,Male,79,76-90,2025,cached_demo
+IBUPROFEN-00907,ibuprofen,Other/unspecified,Yes,Male,81,76-90,2026,cached_demo
+IBUPROFEN-00908,ibuprofen,Other/unspecified,No,Unknown,19,18-30,2025,cached_demo
+IBUPROFEN-00909,ibuprofen,Other/unspecified,Yes,Female,45,31-45,2024,cached_demo
+IBUPROFEN-00910,ibuprofen,Other/unspecified,No,Male,48,46-60,2022,cached_demo
+IBUPROFEN-00911,ibuprofen,Other/unspecified,No,Female,79,76-90,2023,cached_demo
+IBUPROFEN-00912,ibuprofen,Other/unspecified,No,Unknown,76,76-90,2026,cached_demo
+IBUPROFEN-00913,ibuprofen,Other/unspecified,No,Female,21,18-30,2023,cached_demo
+IBUPROFEN-00914,ibuprofen,Other/unspecified,Yes,Female,69,61-75,2025,cached_demo
+IBUPROFEN-00915,ibuprofen,Other/unspecified,No,Male,18,18-30,2025,cached_demo
+IBUPROFEN-00916,ibuprofen,Other/unspecified,No,Male,60,46-60,2024,cached_demo
+IBUPROFEN-00917,ibuprofen,Other/unspecified,No,Unknown,72,61-75,2026,cached_demo
+IBUPROFEN-00918,ibuprofen,Other/unspecified,No,Male,87,76-90,2022,cached_demo
+IBUPROFEN-00919,ibuprofen,Other/unspecified,No,Male,60,46-60,2026,cached_demo
+IBUPROFEN-00920,ibuprofen,Other/unspecified,Yes,Male,64,61-75,2025,cached_demo
+IBUPROFEN-00921,ibuprofen,Other/unspecified,No,Unknown,64,61-75,2022,cached_demo
+IBUPROFEN-00922,ibuprofen,Other/unspecified,No,Male,64,61-75,2026,cached_demo
+IBUPROFEN-00923,ibuprofen,Other/unspecified,No,Unknown,26,18-30,2023,cached_demo
+IBUPROFEN-00924,ibuprofen,Other/unspecified,No,Male,35,31-45,2026,cached_demo
+IBUPROFEN-00925,ibuprofen,Other/unspecified,No,Female,32,31-45,2026,cached_demo
+IBUPROFEN-00926,ibuprofen,Other/unspecified,No,Male,44,31-45,2024,cached_demo
+IBUPROFEN-00927,ibuprofen,Other/unspecified,No,Unknown,63,61-75,2025,cached_demo
+IBUPROFEN-00928,ibuprofen,Other/unspecified,Yes,Male,53,46-60,2024,cached_demo
+IBUPROFEN-00929,ibuprofen,Other/unspecified,No,Female,62,61-75,2026,cached_demo
+IBUPROFEN-00930,ibuprofen,Other/unspecified,Yes,Female,85,76-90,2026,cached_demo
+IBUPROFEN-00931,ibuprofen,Other/unspecified,No,Female,86,76-90,2026,cached_demo
+IBUPROFEN-00932,ibuprofen,Other/unspecified,No,Unknown,65,61-75,2022,cached_demo
+IBUPROFEN-00933,ibuprofen,Other/unspecified,No,Male,42,31-45,2022,cached_demo
+IBUPROFEN-00934,ibuprofen,Other/unspecified,Yes,Female,68,61-75,2022,cached_demo
+IBUPROFEN-00935,ibuprofen,Other/unspecified,Yes,Female,31,31-45,2022,cached_demo
+IBUPROFEN-00936,ibuprofen,Other/unspecified,No,Male,36,31-45,2023,cached_demo
+IBUPROFEN-00937,ibuprofen,Other/unspecified,No,Male,84,76-90,2024,cached_demo
+IBUPROFEN-00938,ibuprofen,Other/unspecified,No,Unknown,71,61-75,2023,cached_demo
+IBUPROFEN-00939,ibuprofen,Other/unspecified,No,Female,78,76-90,2025,cached_demo
+IBUPROFEN-00940,ibuprofen,Other/unspecified,No,Male,20,18-30,2022,cached_demo
+IBUPROFEN-00941,ibuprofen,Other/unspecified,Yes,Unknown,20,18-30,2024,cached_demo
+IBUPROFEN-00942,ibuprofen,Other/unspecified,No,Female,70,61-75,2024,cached_demo
+IBUPROFEN-00943,ibuprofen,Other/unspecified,No,Unknown,80,76-90,2026,cached_demo
+IBUPROFEN-00944,ibuprofen,Other/unspecified,No,Female,88,76-90,2024,cached_demo
+IBUPROFEN-00945,ibuprofen,Other/unspecified,Yes,Female,90,76-90,2023,cached_demo
+IBUPROFEN-00946,ibuprofen,Other/unspecified,Yes,Female,51,46-60,2024,cached_demo
+IBUPROFEN-00947,ibuprofen,Other/unspecified,Yes,Male,54,46-60,2024,cached_demo
+IBUPROFEN-00948,ibuprofen,Other/unspecified,No,Male,54,46-60,2026,cached_demo
+IBUPROFEN-00949,ibuprofen,Other/unspecified,No,Unknown,38,31-45,2024,cached_demo
+IBUPROFEN-00950,ibuprofen,Other/unspecified,Yes,Unknown,41,31-45,2023,cached_demo
+IBUPROFEN-00951,ibuprofen,Other/unspecified,Yes,Male,38,31-45,2022,cached_demo
+IBUPROFEN-00952,ibuprofen,Other/unspecified,No,Male,58,46-60,2025,cached_demo
+IBUPROFEN-00953,ibuprofen,Other/unspecified,No,Male,51,46-60,2023,cached_demo
+IBUPROFEN-00954,ibuprofen,Other/unspecified,No,Male,89,76-90,2024,cached_demo
+IBUPROFEN-00955,ibuprofen,Other/unspecified,Yes,Female,62,61-75,2025,cached_demo
+IBUPROFEN-00956,ibuprofen,Other/unspecified,Yes,Unknown,87,76-90,2024,cached_demo
+IBUPROFEN-00957,ibuprofen,Other/unspecified,Yes,Female,33,31-45,2025,cached_demo
+IBUPROFEN-00958,ibuprofen,Other/unspecified,No,Female,36,31-45,2023,cached_demo
+IBUPROFEN-00959,ibuprofen,Other/unspecified,No,Unknown,18,18-30,2026,cached_demo
+IBUPROFEN-00960,ibuprofen,Other/unspecified,No,Unknown,60,46-60,2024,cached_demo
+IBUPROFEN-00961,ibuprofen,Other/unspecified,No,Unknown,78,76-90,2023,cached_demo
+IBUPROFEN-00962,ibuprofen,Other/unspecified,No,Female,90,76-90,2024,cached_demo
+IBUPROFEN-00963,ibuprofen,Other/unspecified,No,Female,32,31-45,2022,cached_demo
+IBUPROFEN-00964,ibuprofen,Other/unspecified,No,Unknown,35,31-45,2022,cached_demo
+IBUPROFEN-00965,ibuprofen,Other/unspecified,Yes,Female,57,46-60,2026,cached_demo
+IBUPROFEN-00966,ibuprofen,Other/unspecified,No,Female,46,46-60,2022,cached_demo
+IBUPROFEN-00967,ibuprofen,Other/unspecified,Yes,Unknown,59,46-60,2023,cached_demo
+IBUPROFEN-00968,ibuprofen,Other/unspecified,Yes,Female,85,76-90,2023,cached_demo
+IBUPROFEN-00969,ibuprofen,Other/unspecified,Yes,Unknown,20,18-30,2025,cached_demo
+IBUPROFEN-00970,ibuprofen,Other/unspecified,No,Female,29,18-30,2023,cached_demo
+IBUPROFEN-00971,ibuprofen,Other/unspecified,No,Unknown,80,76-90,2026,cached_demo
+IBUPROFEN-00972,ibuprofen,Other/unspecified,Yes,Unknown,83,76-90,2024,cached_demo
+IBUPROFEN-00973,ibuprofen,Other/unspecified,Yes,Unknown,68,61-75,2025,cached_demo
+IBUPROFEN-00974,ibuprofen,Other/unspecified,No,Female,65,61-75,2022,cached_demo
+IBUPROFEN-00975,ibuprofen,Other/unspecified,No,Female,54,46-60,2024,cached_demo
+IBUPROFEN-00976,ibuprofen,Other/unspecified,No,Male,75,61-75,2023,cached_demo
+IBUPROFEN-00977,ibuprofen,Other/unspecified,No,Female,74,61-75,2025,cached_demo
+IBUPROFEN-00978,ibuprofen,Other/unspecified,Yes,Unknown,54,46-60,2025,cached_demo
+IBUPROFEN-00979,ibuprofen,Other/unspecified,Yes,Unknown,71,61-75,2026,cached_demo
+IBUPROFEN-00980,ibuprofen,Other/unspecified,Yes,Male,29,18-30,2024,cached_demo
+IBUPROFEN-00981,ibuprofen,Other/unspecified,No,Female,78,76-90,2022,cached_demo
+IBUPROFEN-00982,ibuprofen,Other/unspecified,Yes,Male,66,61-75,2025,cached_demo
+IBUPROFEN-00983,ibuprofen,Other/unspecified,No,Male,52,46-60,2026,cached_demo
+IBUPROFEN-00984,ibuprofen,Other/unspecified,No,Unknown,77,76-90,2023,cached_demo
+IBUPROFEN-00985,ibuprofen,Other/unspecified,Yes,Female,43,31-45,2024,cached_demo
+IBUPROFEN-00986,ibuprofen,Other/unspecified,No,Male,88,76-90,2024,cached_demo
+IBUPROFEN-00987,ibuprofen,Other/unspecified,No,Unknown,56,46-60,2025,cached_demo
+IBUPROFEN-00988,ibuprofen,Other/unspecified,Yes,Male,46,46-60,2023,cached_demo
+IBUPROFEN-00989,ibuprofen,Other/unspecified,No,Unknown,51,46-60,2025,cached_demo
+IBUPROFEN-00990,ibuprofen,Other/unspecified,No,Unknown,33,31-45,2024,cached_demo
+IBUPROFEN-00991,ibuprofen,Other/unspecified,Yes,Female,71,61-75,2023,cached_demo
+IBUPROFEN-00992,ibuprofen,Other/unspecified,Yes,Female,21,18-30,2025,cached_demo
+IBUPROFEN-00993,ibuprofen,Other/unspecified,No,Unknown,26,18-30,2024,cached_demo
+IBUPROFEN-00994,ibuprofen,Other/unspecified,No,Female,79,76-90,2024,cached_demo
+IBUPROFEN-00995,ibuprofen,Other/unspecified,No,Male,78,76-90,2024,cached_demo
+IBUPROFEN-00996,ibuprofen,Other/unspecified,No,Unknown,83,76-90,2022,cached_demo
+IBUPROFEN-00997,ibuprofen,Other/unspecified,Yes,Unknown,51,46-60,2022,cached_demo
+IBUPROFEN-00998,ibuprofen,Other/unspecified,No,Female,36,31-45,2023,cached_demo
+IBUPROFEN-00999,ibuprofen,Other/unspecified,Yes,Male,63,61-75,2024,cached_demo
+IBUPROFEN-01000,ibuprofen,Other/unspecified,No,Unknown,64,61-75,2024,cached_demo

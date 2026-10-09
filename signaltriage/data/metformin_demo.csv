@@ -1,0 +1,1001 @@
+report_id,drug_name,reaction_term,serious,sex,age,age_group,report_year,source_mode
+METFORMIN-00001,metformin,Nausea,Yes,Unknown,32,31-45,2024,cached_demo
+METFORMIN-00002,metformin,Nausea,Yes,Male,49,46-60,2022,cached_demo
+METFORMIN-00003,metformin,Nausea,Yes,Unknown,87,76-90,2025,cached_demo
+METFORMIN-00004,metformin,Nausea,Yes,Male,22,18-30,2023,cached_demo
+METFORMIN-00005,metformin,Nausea,No,Unknown,47,46-60,2022,cached_demo
+METFORMIN-00006,metformin,Nausea,Yes,Unknown,89,76-90,2026,cached_demo
+METFORMIN-00007,metformin,Nausea,Yes,Female,71,61-75,2026,cached_demo
+METFORMIN-00008,metformin,Nausea,Yes,Male,53,46-60,2025,cached_demo
+METFORMIN-00009,metformin,Nausea,Yes,Male,61,61-75,2023,cached_demo
+METFORMIN-00010,metformin,Nausea,Yes,Male,61,61-75,2025,cached_demo
+METFORMIN-00011,metformin,Nausea,Yes,Female,30,18-30,2026,cached_demo
+METFORMIN-00012,metformin,Nausea,Yes,Unknown,51,46-60,2025,cached_demo
+METFORMIN-00013,metformin,Nausea,Yes,Female,86,76-90,2022,cached_demo
+METFORMIN-00014,metformin,Nausea,Yes,Unknown,88,76-90,2026,cached_demo
+METFORMIN-00015,metformin,Nausea,No,Male,64,61-75,2022,cached_demo
+METFORMIN-00016,metformin,Nausea,No,Male,23,18-30,2024,cached_demo
+METFORMIN-00017,metformin,Nausea,Yes,Male,28,18-30,2025,cached_demo
+METFORMIN-00018,metformin,Nausea,Yes,Unknown,53,46-60,2024,cached_demo
+METFORMIN-00019,metformin,Nausea,Yes,Female,38,31-45,2023,cached_demo
+METFORMIN-00020,metformin,Nausea,No,Unknown,52,46-60,2022,cached_demo
+METFORMIN-00021,metformin,Nausea,No,Unknown,39,31-45,2023,cached_demo
+METFORMIN-00022,metformin,Nausea,Yes,Female,38,31-45,2024,cached_demo
+METFORMIN-00023,metformin,Nausea,Yes,Unknown,89,76-90,2024,cached_demo
+METFORMIN-00024,metformin,Nausea,Yes,Male,25,18-30,2024,cached_demo
+METFORMIN-00025,metformin,Nausea,Yes,Male,69,61-75,2023,cached_demo
+METFORMIN-00026,metformin,Nausea,No,Female,90,76-90,2023,cached_demo
+METFORMIN-00027,metformin,Nausea,Yes,Unknown,81,76-90,2025,cached_demo
+METFORMIN-00028,metformin,Nausea,Yes,Male,36,31-45,2023,cached_demo
+METFORMIN-00029,metformin,Nausea,No,Female,89,76-90,2026,cached_demo
+METFORMIN-00030,metformin,Nausea,No,Female,72,61-75,2024,cached_demo
+METFORMIN-00031,metformin,Nausea,Yes,Unknown,46,46-60,2025,cached_demo
+METFORMIN-00032,metformin,Nausea,Yes,Male,29,18-30,2023,cached_demo
+METFORMIN-00033,metformin,Nausea,No,Female,38,31-45,2026,cached_demo
+METFORMIN-00034,metformin,Nausea,Yes,Female,26,18-30,2026,cached_demo
+METFORMIN-00035,metformin,Nausea,No,Female,77,76-90,2026,cached_demo
+METFORMIN-00036,metformin,Nausea,No,Unknown,19,18-30,2022,cached_demo
+METFORMIN-00037,metformin,Nausea,Yes,Unknown,86,76-90,2024,cached_demo
+METFORMIN-00038,metformin,Nausea,Yes,Female,32,31-45,2023,cached_demo
+METFORMIN-00039,metformin,Nausea,Yes,Unknown,76,76-90,2024,cached_demo
+METFORMIN-00040,metformin,Nausea,Yes,Unknown,82,76-90,2022,cached_demo
+METFORMIN-00041,metformin,Nausea,No,Unknown,56,46-60,2026,cached_demo
+METFORMIN-00042,metformin,Nausea,Yes,Female,43,31-45,2023,cached_demo
+METFORMIN-00043,metformin,Nausea,No,Male,87,76-90,2026,cached_demo
+METFORMIN-00044,metformin,Nausea,Yes,Male,59,46-60,2022,cached_demo
+METFORMIN-00045,metformin,Nausea,Yes,Male,64,61-75,2022,cached_demo
+METFORMIN-00046,metformin,Nausea,No,Male,48,46-60,2022,cached_demo
+METFORMIN-00047,metformin,Nausea,Yes,Unknown,80,76-90,2023,cached_demo
+METFORMIN-00048,metformin,Nausea,No,Female,34,31-45,2026,cached_demo
+METFORMIN-00049,metformin,Nausea,Yes,Unknown,39,31-45,2026,cached_demo
+METFORMIN-00050,metformin,Nausea,Yes,Unknown,72,61-75,2023,cached_demo
+METFORMIN-00051,metformin,Nausea,Yes,Unknown,57,46-60,2024,cached_demo
+METFORMIN-00052,metformin,Nausea,No,Female,74,61-75,2022,cached_demo
+METFORMIN-00053,metformin,Nausea,Yes,Male,49,46-60,2024,cached_demo
+METFORMIN-00054,metformin,Nausea,No,Unknown,20,18-30,2023,cached_demo
+METFORMIN-00055,metformin,Nausea,Yes,Male,46,46-60,2022,cached_demo
+METFORMIN-00056,metformin,Nausea,Yes,Male,47,46-60,2024,cached_demo
+METFORMIN-00057,metformin,Nausea,No,Male,27,18-30,2024,cached_demo
+METFORMIN-00058,metformin,Nausea,Yes,Unknown,80,76-90,2023,cached_demo
+METFORMIN-00059,metformin,Nausea,Yes,Female,78,76-90,2025,cached_demo
+METFORMIN-00060,metformin,Nausea,Yes,Male,42,31-45,2025,cached_demo
+METFORMIN-00061,metformin,Nausea,Yes,Female,63,61-75,2025,cached_demo
+METFORMIN-00062,metformin,Nausea,No,Unknown,24,18-30,2022,cached_demo
+METFORMIN-00063,metformin,Nausea,Yes,Unknown,25,18-30,2024,cached_demo
+METFORMIN-00064,metformin,Nausea,Yes,Male,31,31-45,2023,cached_demo
+METFORMIN-00065,metformin,Nausea,Yes,Male,86,76-90,2025,cached_demo
+METFORMIN-00066,metformin,Nausea,Yes,Female,41,31-45,2023,cached_demo
+METFORMIN-00067,metformin,Nausea,Yes,Unknown,27,18-30,2022,cached_demo
+METFORMIN-00068,metformin,Nausea,No,Unknown,24,18-30,2022,cached_demo
+METFORMIN-00069,metformin,Nausea,Yes,Male,29,18-30,2025,cached_demo
+METFORMIN-00070,metformin,Nausea,Yes,Male,80,76-90,2025,cached_demo
+METFORMIN-00071,metformin,Nausea,Yes,Female,25,18-30,2022,cached_demo
+METFORMIN-00072,metformin,Nausea,Yes,Female,67,61-75,2024,cached_demo
+METFORMIN-00073,metformin,Nausea,No,Unknown,72,61-75,2026,cached_demo
+METFORMIN-00074,metformin,Nausea,Yes,Male,80,76-90,2024,cached_demo
+METFORMIN-00075,metformin,Nausea,Yes,Unknown,45,31-45,2026,cached_demo
+METFORMIN-00076,metformin,Nausea,No,Female,25,18-30,2022,cached_demo
+METFORMIN-00077,metformin,Nausea,No,Female,24,18-30,2026,cached_demo
+METFORMIN-00078,metformin,Nausea,Yes,Male,85,76-90,2026,cached_demo
+METFORMIN-00079,metformin,Nausea,Yes,Male,28,18-30,2026,cached_demo
+METFORMIN-00080,metformin,Nausea,No,Male,26,18-30,2025,cached_demo
+METFORMIN-00081,metformin,Nausea,No,Male,33,31-45,2026,cached_demo
+METFORMIN-00082,metformin,Nausea,No,Male,23,18-30,2025,cached_demo
+METFORMIN-00083,metformin,Nausea,No,Female,90,76-90,2024,cached_demo
+METFORMIN-00084,metformin,Nausea,No,Unknown,44,31-45,2024,cached_demo
+METFORMIN-00085,metformin,Nausea,Yes,Female,48,46-60,2023,cached_demo
+METFORMIN-00086,metformin,Nausea,Yes,Female,56,46-60,2022,cached_demo
+METFORMIN-00087,metformin,Nausea,Yes,Unknown,19,18-30,2026,cached_demo
+METFORMIN-00088,metformin,Nausea,Yes,Unknown,30,18-30,2023,cached_demo
+METFORMIN-00089,metformin,Nausea,Yes,Male,82,76-90,2024,cached_demo
+METFORMIN-00090,metformin,Nausea,Yes,Female,26,18-30,2024,cached_demo
+METFORMIN-00091,metformin,Nausea,Yes,Unknown,38,31-45,2024,cached_demo
+METFORMIN-00092,metformin,Nausea,Yes,Unknown,85,76-90,2026,cached_demo
+METFORMIN-00093,metformin,Nausea,No,Male,56,46-60,2023,cached_demo
+METFORMIN-00094,metformin,Nausea,Yes,Male,51,46-60,2026,cached_demo
+METFORMIN-00095,metformin,Nausea,Yes,Female,37,31-45,2026,cached_demo
+METFORMIN-00096,metformin,Nausea,No,Female,44,31-45,2023,cached_demo
+METFORMIN-00097,metformin,Nausea,No,Female,51,46-60,2024,cached_demo
+METFORMIN-00098,metformin,Nausea,Yes,Unknown,24,18-30,2025,cached_demo
+METFORMIN-00099,metformin,Nausea,Yes,Male,53,46-60,2024,cached_demo
+METFORMIN-00100,metformin,Nausea,No,Female,34,31-45,2023,cached_demo
+METFORMIN-00101,metformin,Nausea,No,Unknown,74,61-75,2025,cached_demo
+METFORMIN-00102,metformin,Nausea,Yes,Male,89,76-90,2022,cached_demo
+METFORMIN-00103,metformin,Nausea,No,Male,37,31-45,2024,cached_demo
+METFORMIN-00104,metformin,Nausea,Yes,Female,88,76-90,2023,cached_demo
+METFORMIN-00105,metformin,Nausea,Yes,Female,23,18-30,2022,cached_demo
+METFORMIN-00106,metformin,Nausea,Yes,Unknown,63,61-75,2023,cached_demo
+METFORMIN-00107,metformin,Nausea,Yes,Unknown,31,31-45,2025,cached_demo
+METFORMIN-00108,metformin,Nausea,Yes,Male,37,31-45,2023,cached_demo
+METFORMIN-00109,metformin,Nausea,Yes,Male,70,61-75,2024,cached_demo
+METFORMIN-00110,metformin,Nausea,No,Unknown,70,61-75,2023,cached_demo
+METFORMIN-00111,metformin,Nausea,Yes,Unknown,52,46-60,2022,cached_demo
+METFORMIN-00112,metformin,Nausea,Yes,Female,66,61-75,2023,cached_demo
+METFORMIN-00113,metformin,Nausea,Yes,Female,43,31-45,2024,cached_demo
+METFORMIN-00114,metformin,Nausea,Yes,Male,47,46-60,2023,cached_demo
+METFORMIN-00115,metformin,Nausea,Yes,Female,69,61-75,2022,cached_demo
+METFORMIN-00116,metformin,Nausea,Yes,Unknown,53,46-60,2026,cached_demo
+METFORMIN-00117,metformin,Nausea,No,Unknown,69,61-75,2024,cached_demo
+METFORMIN-00118,metformin,Nausea,Yes,Female,21,18-30,2023,cached_demo
+METFORMIN-00119,metformin,Nausea,Yes,Male,51,46-60,2026,cached_demo
+METFORMIN-00120,metformin,Nausea,Yes,Unknown,73,61-75,2024,cached_demo
+METFORMIN-00121,metformin,Nausea,No,Unknown,73,61-75,2022,cached_demo
+METFORMIN-00122,metformin,Nausea,No,Male,67,61-75,2024,cached_demo
+METFORMIN-00123,metformin,Nausea,No,Female,23,18-30,2022,cached_demo
+METFORMIN-00124,metformin,Nausea,No,Unknown,84,76-90,2023,cached_demo
+METFORMIN-00125,metformin,Nausea,Yes,Male,64,61-75,2024,cached_demo
+METFORMIN-00126,metformin,Nausea,No,Male,58,46-60,2024,cached_demo
+METFORMIN-00127,metformin,Nausea,Yes,Unknown,82,76-90,2025,cached_demo
+METFORMIN-00128,metformin,Nausea,Yes,Unknown,59,46-60,2024,cached_demo
+METFORMIN-00129,metformin,Nausea,Yes,Male,88,76-90,2025,cached_demo
+METFORMIN-00130,metformin,Nausea,No,Unknown,66,61-75,2023,cached_demo
+METFORMIN-00131,metformin,Nausea,Yes,Female,90,76-90,2026,cached_demo
+METFORMIN-00132,metformin,Nausea,Yes,Female,18,18-30,2023,cached_demo
+METFORMIN-00133,metformin,Nausea,No,Unknown,73,61-75,2024,cached_demo
+METFORMIN-00134,metformin,Nausea,Yes,Female,77,76-90,2023,cached_demo
+METFORMIN-00135,metformin,Nausea,Yes,Unknown,83,76-90,2023,cached_demo
+METFORMIN-00136,metformin,Nausea,Yes,Unknown,28,18-30,2026,cached_demo
+METFORMIN-00137,metformin,Nausea,Yes,Male,60,46-60,2024,cached_demo
+METFORMIN-00138,metformin,Nausea,Yes,Male,46,46-60,2022,cached_demo
+METFORMIN-00139,metformin,Nausea,Yes,Female,23,18-30,2026,cached_demo
+METFORMIN-00140,metformin,Nausea,Yes,Female,27,18-30,2026,cached_demo
+METFORMIN-00141,metformin,Nausea,No,Unknown,42,31-45,2025,cached_demo
+METFORMIN-00142,metformin,Nausea,Yes,Male,81,76-90,2023,cached_demo
+METFORMIN-00143,metformin,Nausea,Yes,Female,18,18-30,2023,cached_demo
+METFORMIN-00144,metformin,Nausea,No,Unknown,40,31-45,2025,cached_demo
+METFORMIN-00145,metformin,Nausea,No,Male,24,18-30,2022,cached_demo
+METFORMIN-00146,metformin,Nausea,Yes,Female,76,76-90,2026,cached_demo
+METFORMIN-00147,metformin,Nausea,No,Female,89,76-90,2025,cached_demo
+METFORMIN-00148,metformin,Nausea,Yes,Unknown,82,76-90,2025,cached_demo
+METFORMIN-00149,metformin,Nausea,No,Female,38,31-45,2025,cached_demo
+METFORMIN-00150,metformin,Nausea,Yes,Unknown,51,46-60,2024,cached_demo
+METFORMIN-00151,metformin,Nausea,Yes,Unknown,84,76-90,2023,cached_demo
+METFORMIN-00152,metformin,Nausea,Yes,Male,53,46-60,2024,cached_demo
+METFORMIN-00153,metformin,Nausea,Yes,Female,48,46-60,2024,cached_demo
+METFORMIN-00154,metformin,Nausea,Yes,Male,87,76-90,2023,cached_demo
+METFORMIN-00155,metformin,Nausea,Yes,Unknown,47,46-60,2023,cached_demo
+METFORMIN-00156,metformin,Nausea,Yes,Female,45,31-45,2025,cached_demo
+METFORMIN-00157,metformin,Nausea,No,Female,60,46-60,2025,cached_demo
+METFORMIN-00158,metformin,Nausea,Yes,Female,25,18-30,2025,cached_demo
+METFORMIN-00159,metformin,Nausea,No,Female,20,18-30,2025,cached_demo
+METFORMIN-00160,metformin,Nausea,Yes,Female,18,18-30,2025,cached_demo
+METFORMIN-00161,metformin,Nausea,No,Unknown,71,61-75,2026,cached_demo
+METFORMIN-00162,metformin,Nausea,Yes,Male,46,46-60,2024,cached_demo
+METFORMIN-00163,metformin,Nausea,Yes,Male,73,61-75,2025,cached_demo
+METFORMIN-00164,metformin,Nausea,No,Unknown,61,61-75,2025,cached_demo
+METFORMIN-00165,metformin,Nausea,Yes,Male,39,31-45,2026,cached_demo
+METFORMIN-00166,metformin,Nausea,Yes,Female,86,76-90,2026,cached_demo
+METFORMIN-00167,metformin,Nausea,No,Male,90,76-90,2022,cached_demo
+METFORMIN-00168,metformin,Nausea,Yes,Female,72,61-75,2023,cached_demo
+METFORMIN-00169,metformin,Nausea,Yes,Female,24,18-30,2024,cached_demo
+METFORMIN-00170,metformin,Nausea,Yes,Female,45,31-45,2024,cached_demo
+METFORMIN-00171,metformin,Nausea,Yes,Female,66,61-75,2024,cached_demo
+METFORMIN-00172,metformin,Nausea,Yes,Male,28,18-30,2026,cached_demo
+METFORMIN-00173,metformin,Nausea,Yes,Male,24,18-30,2022,cached_demo
+METFORMIN-00174,metformin,Nausea,Yes,Male,23,18-30,2023,cached_demo
+METFORMIN-00175,metformin,Nausea,No,Male,20,18-30,2023,cached_demo
+METFORMIN-00176,metformin,Nausea,Yes,Unknown,34,31-45,2022,cached_demo
+METFORMIN-00177,metformin,Nausea,Yes,Female,90,76-90,2024,cached_demo
+METFORMIN-00178,metformin,Nausea,Yes,Unknown,65,61-75,2026,cached_demo
+METFORMIN-00179,metformin,Nausea,Yes,Female,32,31-45,2022,cached_demo
+METFORMIN-00180,metformin,Nausea,Yes,Unknown,21,18-30,2025,cached_demo
+METFORMIN-00181,metformin,Diarrhoea,No,Male,68,61-75,2022,cached_demo
+METFORMIN-00182,metformin,Diarrhoea,Yes,Unknown,49,46-60,2024,cached_demo
+METFORMIN-00183,metformin,Diarrhoea,No,Male,33,31-45,2024,cached_demo
+METFORMIN-00184,metformin,Diarrhoea,Yes,Unknown,86,76-90,2024,cached_demo
+METFORMIN-00185,metformin,Diarrhoea,No,Unknown,26,18-30,2024,cached_demo
+METFORMIN-00186,metformin,Diarrhoea,Yes,Female,19,18-30,2022,cached_demo
+METFORMIN-00187,metformin,Diarrhoea,Yes,Unknown,73,61-75,2025,cached_demo
+METFORMIN-00188,metformin,Diarrhoea,Yes,Male,37,31-45,2026,cached_demo
+METFORMIN-00189,metformin,Diarrhoea,No,Unknown,52,46-60,2025,cached_demo
+METFORMIN-00190,metformin,Diarrhoea,Yes,Unknown,77,76-90,2026,cached_demo
+METFORMIN-00191,metformin,Diarrhoea,Yes,Male,52,46-60,2022,cached_demo
+METFORMIN-00192,metformin,Diarrhoea,Yes,Male,53,46-60,2025,cached_demo
+METFORMIN-00193,metformin,Diarrhoea,No,Unknown,90,76-90,2025,cached_demo
+METFORMIN-00194,metformin,Diarrhoea,Yes,Female,61,61-75,2024,cached_demo
+METFORMIN-00195,metformin,Diarrhoea,Yes,Male,41,31-45,2024,cached_demo
+METFORMIN-00196,metformin,Diarrhoea,Yes,Female,51,46-60,2026,cached_demo
+METFORMIN-00197,metformin,Diarrhoea,No,Male,53,46-60,2026,cached_demo
+METFORMIN-00198,metformin,Diarrhoea,Yes,Male,42,31-45,2025,cached_demo
+METFORMIN-00199,metformin,Diarrhoea,No,Male,80,76-90,2025,cached_demo
+METFORMIN-00200,metformin,Diarrhoea,Yes,Male,80,76-90,2022,cached_demo
+METFORMIN-00201,metformin,Diarrhoea,Yes,Female,55,46-60,2023,cached_demo
+METFORMIN-00202,metformin,Diarrhoea,No,Unknown,57,46-60,2024,cached_demo
+METFORMIN-00203,metformin,Diarrhoea,No,Unknown,78,76-90,2024,cached_demo
+METFORMIN-00204,metformin,Diarrhoea,No,Unknown,72,61-75,2024,cached_demo
+METFORMIN-00205,metformin,Diarrhoea,No,Female,63,61-75,2024,cached_demo
+METFORMIN-00206,metformin,Diarrhoea,Yes,Male,57,46-60,2022,cached_demo
+METFORMIN-00207,metformin,Diarrhoea,Yes,Male,42,31-45,2026,cached_demo
+METFORMIN-00208,metformin,Diarrhoea,Yes,Male,41,31-45,2025,cached_demo
+METFORMIN-00209,metformin,Diarrhoea,No,Unknown,53,46-60,2026,cached_demo
+METFORMIN-00210,metformin,Diarrhoea,Yes,Male,54,46-60,2024,cached_demo
+METFORMIN-00211,metformin,Diarrhoea,Yes,Male,47,46-60,2024,cached_demo
+METFORMIN-00212,metformin,Diarrhoea,No,Unknown,19,18-30,2023,cached_demo
+METFORMIN-00213,metformin,Diarrhoea,Yes,Male,53,46-60,2026,cached_demo
+METFORMIN-00214,metformin,Diarrhoea,No,Male,55,46-60,2025,cached_demo
+METFORMIN-00215,metformin,Diarrhoea,Yes,Unknown,31,31-45,2024,cached_demo
+METFORMIN-00216,metformin,Diarrhoea,Yes,Female,78,76-90,2024,cached_demo
+METFORMIN-00217,metformin,Diarrhoea,Yes,Female,41,31-45,2025,cached_demo
+METFORMIN-00218,metformin,Diarrhoea,Yes,Female,32,31-45,2025,cached_demo
+METFORMIN-00219,metformin,Diarrhoea,No,Unknown,27,18-30,2022,cached_demo
+METFORMIN-00220,metformin,Diarrhoea,Yes,Unknown,37,31-45,2024,cached_demo
+METFORMIN-00221,metformin,Diarrhoea,Yes,Male,28,18-30,2026,cached_demo
+METFORMIN-00222,metformin,Diarrhoea,No,Unknown,71,61-75,2026,cached_demo
+METFORMIN-00223,metformin,Diarrhoea,No,Female,46,46-60,2025,cached_demo
+METFORMIN-00224,metformin,Diarrhoea,Yes,Unknown,74,61-75,2025,cached_demo
+METFORMIN-00225,metformin,Diarrhoea,No,Unknown,57,46-60,2022,cached_demo
+METFORMIN-00226,metformin,Diarrhoea,Yes,Unknown,30,18-30,2023,cached_demo
+METFORMIN-00227,metformin,Diarrhoea,No,Male,51,46-60,2023,cached_demo
+METFORMIN-00228,metformin,Diarrhoea,Yes,Unknown,48,46-60,2022,cached_demo
+METFORMIN-00229,metformin,Diarrhoea,Yes,Female,38,31-45,2025,cached_demo
+METFORMIN-00230,metformin,Diarrhoea,Yes,Male,78,76-90,2023,cached_demo
+METFORMIN-00231,metformin,Diarrhoea,No,Female,54,46-60,2025,cached_demo
+METFORMIN-00232,metformin,Diarrhoea,No,Male,27,18-30,2024,cached_demo
+METFORMIN-00233,metformin,Diarrhoea,Yes,Male,43,31-45,2026,cached_demo
+METFORMIN-00234,metformin,Diarrhoea,No,Male,46,46-60,2024,cached_demo
+METFORMIN-00235,metformin,Diarrhoea,Yes,Male,36,31-45,2023,cached_demo
+METFORMIN-00236,metformin,Diarrhoea,No,Unknown,57,46-60,2026,cached_demo
+METFORMIN-00237,metformin,Diarrhoea,Yes,Male,54,46-60,2025,cached_demo
+METFORMIN-00238,metformin,Diarrhoea,No,Female,56,46-60,2024,cached_demo
+METFORMIN-00239,metformin,Diarrhoea,No,Female,82,76-90,2025,cached_demo
+METFORMIN-00240,metformin,Diarrhoea,No,Male,28,18-30,2025,cached_demo
+METFORMIN-00241,metformin,Diarrhoea,No,Female,59,46-60,2022,cached_demo
+METFORMIN-00242,metformin,Diarrhoea,Yes,Unknown,29,18-30,2026,cached_demo
+METFORMIN-00243,metformin,Diarrhoea,No,Female,20,18-30,2026,cached_demo
+METFORMIN-00244,metformin,Diarrhoea,Yes,Female,23,18-30,2026,cached_demo
+METFORMIN-00245,metformin,Diarrhoea,Yes,Male,74,61-75,2026,cached_demo
+METFORMIN-00246,metformin,Diarrhoea,No,Female,73,61-75,2022,cached_demo
+METFORMIN-00247,metformin,Diarrhoea,Yes,Female,78,76-90,2024,cached_demo
+METFORMIN-00248,metformin,Diarrhoea,No,Male,59,46-60,2023,cached_demo
+METFORMIN-00249,metformin,Diarrhoea,Yes,Unknown,60,46-60,2025,cached_demo
+METFORMIN-00250,metformin,Diarrhoea,No,Female,54,46-60,2026,cached_demo
+METFORMIN-00251,metformin,Diarrhoea,Yes,Male,22,18-30,2024,cached_demo
+METFORMIN-00252,metformin,Diarrhoea,Yes,Male,50,46-60,2025,cached_demo
+METFORMIN-00253,metformin,Diarrhoea,Yes,Unknown,83,76-90,2026,cached_demo
+METFORMIN-00254,metformin,Diarrhoea,Yes,Male,77,76-90,2023,cached_demo
+METFORMIN-00255,metformin,Diarrhoea,Yes,Unknown,84,76-90,2025,cached_demo
+METFORMIN-00256,metformin,Diarrhoea,Yes,Male,74,61-75,2024,cached_demo
+METFORMIN-00257,metformin,Diarrhoea,Yes,Female,88,76-90,2025,cached_demo
+METFORMIN-00258,metformin,Diarrhoea,Yes,Male,80,76-90,2026,cached_demo
+METFORMIN-00259,metformin,Diarrhoea,No,Male,48,46-60,2024,cached_demo
+METFORMIN-00260,metformin,Diarrhoea,Yes,Unknown,88,76-90,2025,cached_demo
+METFORMIN-00261,metformin,Diarrhoea,Yes,Male,29,18-30,2025,cached_demo
+METFORMIN-00262,metformin,Diarrhoea,No,Male,33,31-45,2025,cached_demo
+METFORMIN-00263,metformin,Diarrhoea,No,Unknown,55,46-60,2024,cached_demo
+METFORMIN-00264,metformin,Diarrhoea,Yes,Female,71,61-75,2023,cached_demo
+METFORMIN-00265,metformin,Diarrhoea,No,Male,76,76-90,2025,cached_demo
+METFORMIN-00266,metformin,Diarrhoea,No,Unknown,42,31-45,2023,cached_demo
+METFORMIN-00267,metformin,Diarrhoea,Yes,Female,26,18-30,2024,cached_demo
+METFORMIN-00268,metformin,Diarrhoea,Yes,Male,82,76-90,2024,cached_demo
+METFORMIN-00269,metformin,Diarrhoea,No,Unknown,56,46-60,2025,cached_demo
+METFORMIN-00270,metformin,Diarrhoea,Yes,Unknown,37,31-45,2025,cached_demo
+METFORMIN-00271,metformin,Diarrhoea,Yes,Unknown,62,61-75,2026,cached_demo
+METFORMIN-00272,metformin,Diarrhoea,Yes,Female,66,61-75,2023,cached_demo
+METFORMIN-00273,metformin,Diarrhoea,No,Female,48,46-60,2023,cached_demo
+METFORMIN-00274,metformin,Diarrhoea,Yes,Female,70,61-75,2025,cached_demo
+METFORMIN-00275,metformin,Diarrhoea,Yes,Unknown,66,61-75,2023,cached_demo
+METFORMIN-00276,metformin,Diarrhoea,Yes,Male,81,76-90,2026,cached_demo
+METFORMIN-00277,metformin,Diarrhoea,Yes,Female,60,46-60,2022,cached_demo
+METFORMIN-00278,metformin,Diarrhoea,Yes,Male,85,76-90,2023,cached_demo
+METFORMIN-00279,metformin,Diarrhoea,No,Male,70,61-75,2022,cached_demo
+METFORMIN-00280,metformin,Diarrhoea,Yes,Female,78,76-90,2026,cached_demo
+METFORMIN-00281,metformin,Diarrhoea,No,Male,68,61-75,2024,cached_demo
+METFORMIN-00282,metformin,Diarrhoea,Yes,Female,86,76-90,2025,cached_demo
+METFORMIN-00283,metformin,Diarrhoea,Yes,Unknown,87,76-90,2022,cached_demo
+METFORMIN-00284,metformin,Diarrhoea,No,Unknown,48,46-60,2024,cached_demo
+METFORMIN-00285,metformin,Diarrhoea,No,Male,47,46-60,2025,cached_demo
+METFORMIN-00286,metformin,Diarrhoea,No,Unknown,30,18-30,2022,cached_demo
+METFORMIN-00287,metformin,Diarrhoea,Yes,Unknown,74,61-75,2024,cached_demo
+METFORMIN-00288,metformin,Diarrhoea,Yes,Female,21,18-30,2022,cached_demo
+METFORMIN-00289,metformin,Diarrhoea,Yes,Female,55,46-60,2025,cached_demo
+METFORMIN-00290,metformin,Diarrhoea,Yes,Unknown,36,31-45,2025,cached_demo
+METFORMIN-00291,metformin,Diarrhoea,No,Male,90,76-90,2023,cached_demo
+METFORMIN-00292,metformin,Diarrhoea,Yes,Unknown,40,31-45,2025,cached_demo
+METFORMIN-00293,metformin,Diarrhoea,Yes,Unknown,48,46-60,2023,cached_demo
+METFORMIN-00294,metformin,Diarrhoea,Yes,Unknown,47,46-60,2024,cached_demo
+METFORMIN-00295,metformin,Diarrhoea,Yes,Unknown,76,76-90,2022,cached_demo
+METFORMIN-00296,metformin,Diarrhoea,Yes,Unknown,77,76-90,2026,cached_demo
+METFORMIN-00297,metformin,Diarrhoea,Yes,Female,38,31-45,2024,cached_demo
+METFORMIN-00298,metformin,Diarrhoea,No,Female,56,46-60,2024,cached_demo
+METFORMIN-00299,metformin,Diarrhoea,Yes,Male,76,76-90,2025,cached_demo
+METFORMIN-00300,metformin,Diarrhoea,Yes,Male,79,76-90,2025,cached_demo
+METFORMIN-00301,metformin,Diarrhoea,No,Female,63,61-75,2024,cached_demo
+METFORMIN-00302,metformin,Diarrhoea,No,Female,20,18-30,2024,cached_demo
+METFORMIN-00303,metformin,Diarrhoea,No,Unknown,19,18-30,2022,cached_demo
+METFORMIN-00304,metformin,Diarrhoea,Yes,Male,81,76-90,2026,cached_demo
+METFORMIN-00305,metformin,Diarrhoea,Yes,Unknown,63,61-75,2023,cached_demo
+METFORMIN-00306,metformin,Diarrhoea,No,Unknown,50,46-60,2023,cached_demo
+METFORMIN-00307,metformin,Diarrhoea,No,Unknown,30,18-30,2022,cached_demo
+METFORMIN-00308,metformin,Diarrhoea,Yes,Male,57,46-60,2026,cached_demo
+METFORMIN-00309,metformin,Diarrhoea,No,Male,64,61-75,2022,cached_demo
+METFORMIN-00310,metformin,Diarrhoea,Yes,Unknown,55,46-60,2025,cached_demo
+METFORMIN-00311,metformin,Diarrhoea,Yes,Male,40,31-45,2026,cached_demo
+METFORMIN-00312,metformin,Diarrhoea,No,Unknown,64,61-75,2024,cached_demo
+METFORMIN-00313,metformin,Diarrhoea,Yes,Female,39,31-45,2024,cached_demo
+METFORMIN-00314,metformin,Diarrhoea,Yes,Female,61,61-75,2022,cached_demo
+METFORMIN-00315,metformin,Diarrhoea,Yes,Unknown,36,31-45,2025,cached_demo
+METFORMIN-00316,metformin,Diarrhoea,Yes,Male,89,76-90,2025,cached_demo
+METFORMIN-00317,metformin,Diarrhoea,Yes,Unknown,19,18-30,2022,cached_demo
+METFORMIN-00318,metformin,Diarrhoea,Yes,Unknown,76,76-90,2024,cached_demo
+METFORMIN-00319,metformin,Diarrhoea,No,Female,66,61-75,2022,cached_demo
+METFORMIN-00320,metformin,Diarrhoea,Yes,Male,47,46-60,2026,cached_demo
+METFORMIN-00321,metformin,Diarrhoea,Yes,Unknown,89,76-90,2023,cached_demo
+METFORMIN-00322,metformin,Diarrhoea,No,Female,26,18-30,2024,cached_demo
+METFORMIN-00323,metformin,Diarrhoea,Yes,Male,70,61-75,2022,cached_demo
+METFORMIN-00324,metformin,Diarrhoea,Yes,Female,22,18-30,2022,cached_demo
+METFORMIN-00325,metformin,Diarrhoea,Yes,Unknown,30,18-30,2023,cached_demo
+METFORMIN-00326,metformin,Diarrhoea,Yes,Female,67,61-75,2026,cached_demo
+METFORMIN-00327,metformin,Diarrhoea,No,Unknown,71,61-75,2023,cached_demo
+METFORMIN-00328,metformin,Diarrhoea,No,Male,71,61-75,2025,cached_demo
+METFORMIN-00329,metformin,Diarrhoea,Yes,Male,70,61-75,2024,cached_demo
+METFORMIN-00330,metformin,Diarrhoea,Yes,Female,45,31-45,2023,cached_demo
+METFORMIN-00331,metformin,Abdominal discomfort,Yes,Unknown,64,61-75,2024,cached_demo
+METFORMIN-00332,metformin,Abdominal discomfort,No,Female,87,76-90,2022,cached_demo
+METFORMIN-00333,metformin,Abdominal discomfort,Yes,Male,68,61-75,2022,cached_demo
+METFORMIN-00334,metformin,Abdominal discomfort,Yes,Unknown,76,76-90,2023,cached_demo
+METFORMIN-00335,metformin,Abdominal discomfort,Yes,Female,20,18-30,2023,cached_demo
+METFORMIN-00336,metformin,Abdominal discomfort,No,Male,34,31-45,2022,cached_demo
+METFORMIN-00337,metformin,Abdominal discomfort,Yes,Unknown,88,76-90,2023,cached_demo
+METFORMIN-00338,metformin,Abdominal discomfort,Yes,Male,47,46-60,2026,cached_demo
+METFORMIN-00339,metformin,Abdominal discomfort,Yes,Male,18,18-30,2023,cached_demo
+METFORMIN-00340,metformin,Abdominal discomfort,Yes,Male,87,76-90,2022,cached_demo
+METFORMIN-00341,metformin,Abdominal discomfort,Yes,Male,21,18-30,2024,cached_demo
+METFORMIN-00342,metformin,Abdominal discomfort,No,Female,48,46-60,2022,cached_demo
+METFORMIN-00343,metformin,Abdominal discomfort,Yes,Male,40,31-45,2023,cached_demo
+METFORMIN-00344,metformin,Abdominal discomfort,No,Male,71,61-75,2022,cached_demo
+METFORMIN-00345,metformin,Abdominal discomfort,Yes,Female,78,76-90,2026,cached_demo
+METFORMIN-00346,metformin,Abdominal discomfort,Yes,Unknown,31,31-45,2023,cached_demo
+METFORMIN-00347,metformin,Abdominal discomfort,No,Unknown,23,18-30,2026,cached_demo
+METFORMIN-00348,metformin,Abdominal discomfort,Yes,Unknown,56,46-60,2022,cached_demo
+METFORMIN-00349,metformin,Abdominal discomfort,Yes,Female,25,18-30,2025,cached_demo
+METFORMIN-00350,metformin,Abdominal discomfort,Yes,Unknown,31,31-45,2025,cached_demo
+METFORMIN-00351,metformin,Abdominal discomfort,Yes,Female,27,18-30,2026,cached_demo
+METFORMIN-00352,metformin,Abdominal discomfort,Yes,Male,36,31-45,2024,cached_demo
+METFORMIN-00353,metformin,Abdominal discomfort,No,Female,88,76-90,2025,cached_demo
+METFORMIN-00354,metformin,Abdominal discomfort,Yes,Female,85,76-90,2026,cached_demo
+METFORMIN-00355,metformin,Abdominal discomfort,Yes,Unknown,73,61-75,2022,cached_demo
+METFORMIN-00356,metformin,Abdominal discomfort,No,Male,88,76-90,2025,cached_demo
+METFORMIN-00357,metformin,Abdominal discomfort,Yes,Female,75,61-75,2024,cached_demo
+METFORMIN-00358,metformin,Abdominal discomfort,Yes,Female,76,76-90,2022,cached_demo
+METFORMIN-00359,metformin,Abdominal discomfort,Yes,Female,58,46-60,2024,cached_demo
+METFORMIN-00360,metformin,Abdominal discomfort,Yes,Unknown,65,61-75,2025,cached_demo
+METFORMIN-00361,metformin,Abdominal discomfort,Yes,Male,26,18-30,2022,cached_demo
+METFORMIN-00362,metformin,Abdominal discomfort,Yes,Unknown,73,61-75,2024,cached_demo
+METFORMIN-00363,metformin,Abdominal discomfort,No,Male,34,31-45,2026,cached_demo
+METFORMIN-00364,metformin,Abdominal discomfort,No,Female,89,76-90,2022,cached_demo
+METFORMIN-00365,metformin,Abdominal discomfort,Yes,Unknown,70,61-75,2025,cached_demo
+METFORMIN-00366,metformin,Abdominal discomfort,Yes,Unknown,24,18-30,2024,cached_demo
+METFORMIN-00367,metformin,Abdominal discomfort,Yes,Unknown,63,61-75,2026,cached_demo
+METFORMIN-00368,metformin,Abdominal discomfort,Yes,Unknown,45,31-45,2025,cached_demo
+METFORMIN-00369,metformin,Abdominal discomfort,Yes,Female,46,46-60,2026,cached_demo
+METFORMIN-00370,metformin,Abdominal discomfort,Yes,Female,65,61-75,2026,cached_demo
+METFORMIN-00371,metformin,Abdominal discomfort,Yes,Unknown,46,46-60,2026,cached_demo
+METFORMIN-00372,metformin,Abdominal discomfort,Yes,Unknown,89,76-90,2024,cached_demo
+METFORMIN-00373,metformin,Abdominal discomfort,Yes,Female,21,18-30,2024,cached_demo
+METFORMIN-00374,metformin,Abdominal discomfort,Yes,Male,61,61-75,2023,cached_demo
+METFORMIN-00375,metformin,Abdominal discomfort,No,Unknown,36,31-45,2025,cached_demo
+METFORMIN-00376,metformin,Abdominal discomfort,Yes,Unknown,26,18-30,2022,cached_demo
+METFORMIN-00377,metformin,Abdominal discomfort,No,Unknown,29,18-30,2023,cached_demo
+METFORMIN-00378,metformin,Abdominal discomfort,Yes,Female,66,61-75,2024,cached_demo
+METFORMIN-00379,metformin,Abdominal discomfort,Yes,Female,38,31-45,2024,cached_demo
+METFORMIN-00380,metformin,Abdominal discomfort,No,Male,90,76-90,2022,cached_demo
+METFORMIN-00381,metformin,Abdominal discomfort,Yes,Unknown,37,31-45,2022,cached_demo
+METFORMIN-00382,metformin,Abdominal discomfort,Yes,Female,28,18-30,2025,cached_demo
+METFORMIN-00383,metformin,Abdominal discomfort,No,Female,80,76-90,2025,cached_demo
+METFORMIN-00384,metformin,Abdominal discomfort,Yes,Unknown,52,46-60,2022,cached_demo
+METFORMIN-00385,metformin,Abdominal discomfort,Yes,Male,62,61-75,2024,cached_demo
+METFORMIN-00386,metformin,Abdominal discomfort,No,Unknown,80,76-90,2024,cached_demo
+METFORMIN-00387,metformin,Abdominal discomfort,Yes,Female,23,18-30,2026,cached_demo
+METFORMIN-00388,metformin,Abdominal discomfort,Yes,Male,25,18-30,2024,cached_demo
+METFORMIN-00389,metformin,Abdominal discomfort,Yes,Female,45,31-45,2024,cached_demo
+METFORMIN-00390,metformin,Abdominal discomfort,Yes,Male,59,46-60,2025,cached_demo
+METFORMIN-00391,metformin,Abdominal discomfort,Yes,Male,73,61-75,2025,cached_demo
+METFORMIN-00392,metformin,Abdominal discomfort,No,Male,86,76-90,2026,cached_demo
+METFORMIN-00393,metformin,Abdominal discomfort,No,Female,89,76-90,2022,cached_demo
+METFORMIN-00394,metformin,Abdominal discomfort,No,Male,68,61-75,2025,cached_demo
+METFORMIN-00395,metformin,Abdominal discomfort,Yes,Male,20,18-30,2024,cached_demo
+METFORMIN-00396,metformin,Abdominal discomfort,No,Female,72,61-75,2025,cached_demo
+METFORMIN-00397,metformin,Abdominal discomfort,Yes,Female,55,46-60,2022,cached_demo
+METFORMIN-00398,metformin,Abdominal discomfort,Yes,Unknown,59,46-60,2025,cached_demo
+METFORMIN-00399,metformin,Abdominal discomfort,Yes,Female,64,61-75,2022,cached_demo
+METFORMIN-00400,metformin,Abdominal discomfort,Yes,Unknown,49,46-60,2025,cached_demo
+METFORMIN-00401,metformin,Abdominal discomfort,Yes,Female,85,76-90,2024,cached_demo
+METFORMIN-00402,metformin,Abdominal discomfort,Yes,Female,61,61-75,2023,cached_demo
+METFORMIN-00403,metformin,Abdominal discomfort,No,Unknown,27,18-30,2022,cached_demo
+METFORMIN-00404,metformin,Abdominal discomfort,No,Male,85,76-90,2024,cached_demo
+METFORMIN-00405,metformin,Abdominal discomfort,No,Unknown,62,61-75,2023,cached_demo
+METFORMIN-00406,metformin,Abdominal discomfort,Yes,Male,48,46-60,2024,cached_demo
+METFORMIN-00407,metformin,Abdominal discomfort,Yes,Unknown,43,31-45,2023,cached_demo
+METFORMIN-00408,metformin,Abdominal discomfort,Yes,Unknown,27,18-30,2025,cached_demo
+METFORMIN-00409,metformin,Abdominal discomfort,No,Unknown,77,76-90,2025,cached_demo
+METFORMIN-00410,metformin,Abdominal discomfort,No,Unknown,90,76-90,2026,cached_demo
+METFORMIN-00411,metformin,Abdominal discomfort,No,Female,59,46-60,2023,cached_demo
+METFORMIN-00412,metformin,Abdominal discomfort,Yes,Female,74,61-75,2025,cached_demo
+METFORMIN-00413,metformin,Abdominal discomfort,Yes,Unknown,56,46-60,2022,cached_demo
+METFORMIN-00414,metformin,Abdominal discomfort,No,Male,63,61-75,2024,cached_demo
+METFORMIN-00415,metformin,Abdominal discomfort,Yes,Male,77,76-90,2022,cached_demo
+METFORMIN-00416,metformin,Abdominal discomfort,Yes,Male,65,61-75,2022,cached_demo
+METFORMIN-00417,metformin,Abdominal discomfort,Yes,Female,82,76-90,2026,cached_demo
+METFORMIN-00418,metformin,Abdominal discomfort,No,Male,88,76-90,2025,cached_demo
+METFORMIN-00419,metformin,Abdominal discomfort,Yes,Unknown,42,31-45,2025,cached_demo
+METFORMIN-00420,metformin,Abdominal discomfort,Yes,Male,82,76-90,2025,cached_demo
+METFORMIN-00421,metformin,Headache,Yes,Unknown,31,31-45,2022,cached_demo
+METFORMIN-00422,metformin,Headache,No,Male,82,76-90,2022,cached_demo
+METFORMIN-00423,metformin,Headache,No,Female,49,46-60,2025,cached_demo
+METFORMIN-00424,metformin,Headache,No,Unknown,85,76-90,2023,cached_demo
+METFORMIN-00425,metformin,Headache,Yes,Female,64,61-75,2025,cached_demo
+METFORMIN-00426,metformin,Headache,Yes,Unknown,70,61-75,2026,cached_demo
+METFORMIN-00427,metformin,Headache,No,Unknown,24,18-30,2024,cached_demo
+METFORMIN-00428,metformin,Headache,Yes,Male,26,18-30,2026,cached_demo
+METFORMIN-00429,metformin,Headache,Yes,Female,67,61-75,2026,cached_demo
+METFORMIN-00430,metformin,Headache,Yes,Male,37,31-45,2026,cached_demo
+METFORMIN-00431,metformin,Headache,Yes,Female,36,31-45,2025,cached_demo
+METFORMIN-00432,metformin,Headache,No,Unknown,34,31-45,2022,cached_demo
+METFORMIN-00433,metformin,Headache,No,Female,57,46-60,2024,cached_demo
+METFORMIN-00434,metformin,Headache,No,Unknown,34,31-45,2026,cached_demo
+METFORMIN-00435,metformin,Headache,No,Unknown,29,18-30,2025,cached_demo
+METFORMIN-00436,metformin,Headache,Yes,Male,83,76-90,2024,cached_demo
+METFORMIN-00437,metformin,Headache,Yes,Male,57,46-60,2024,cached_demo
+METFORMIN-00438,metformin,Headache,Yes,Male,80,76-90,2023,cached_demo
+METFORMIN-00439,metformin,Headache,Yes,Female,37,31-45,2022,cached_demo
+METFORMIN-00440,metformin,Headache,No,Unknown,82,76-90,2026,cached_demo
+METFORMIN-00441,metformin,Headache,No,Female,22,18-30,2026,cached_demo
+METFORMIN-00442,metformin,Headache,No,Female,34,31-45,2023,cached_demo
+METFORMIN-00443,metformin,Headache,Yes,Unknown,38,31-45,2026,cached_demo
+METFORMIN-00444,metformin,Headache,No,Female,39,31-45,2022,cached_demo
+METFORMIN-00445,metformin,Headache,Yes,Unknown,70,61-75,2023,cached_demo
+METFORMIN-00446,metformin,Headache,No,Female,74,61-75,2025,cached_demo
+METFORMIN-00447,metformin,Headache,No,Male,47,46-60,2024,cached_demo
+METFORMIN-00448,metformin,Headache,Yes,Female,78,76-90,2026,cached_demo
+METFORMIN-00449,metformin,Headache,Yes,Female,74,61-75,2025,cached_demo
+METFORMIN-00450,metformin,Headache,No,Female,82,76-90,2023,cached_demo
+METFORMIN-00451,metformin,Headache,No,Male,43,31-45,2024,cached_demo
+METFORMIN-00452,metformin,Headache,No,Female,24,18-30,2024,cached_demo
+METFORMIN-00453,metformin,Headache,Yes,Unknown,88,76-90,2026,cached_demo
+METFORMIN-00454,metformin,Headache,Yes,Male,33,31-45,2023,cached_demo
+METFORMIN-00455,metformin,Headache,Yes,Unknown,52,46-60,2023,cached_demo
+METFORMIN-00456,metformin,Headache,Yes,Male,73,61-75,2025,cached_demo
+METFORMIN-00457,metformin,Headache,Yes,Female,62,61-75,2022,cached_demo
+METFORMIN-00458,metformin,Headache,No,Female,68,61-75,2023,cached_demo
+METFORMIN-00459,metformin,Headache,Yes,Female,67,61-75,2023,cached_demo
+METFORMIN-00460,metformin,Headache,Yes,Male,21,18-30,2024,cached_demo
+METFORMIN-00461,metformin,Headache,Yes,Male,36,31-45,2024,cached_demo
+METFORMIN-00462,metformin,Headache,No,Male,78,76-90,2025,cached_demo
+METFORMIN-00463,metformin,Headache,No,Male,75,61-75,2022,cached_demo
+METFORMIN-00464,metformin,Headache,Yes,Male,20,18-30,2023,cached_demo
+METFORMIN-00465,metformin,Headache,No,Unknown,88,76-90,2026,cached_demo
+METFORMIN-00466,metformin,Headache,Yes,Female,72,61-75,2023,cached_demo
+METFORMIN-00467,metformin,Headache,Yes,Male,56,46-60,2023,cached_demo
+METFORMIN-00468,metformin,Headache,No,Unknown,71,61-75,2025,cached_demo
+METFORMIN-00469,metformin,Headache,Yes,Female,26,18-30,2026,cached_demo
+METFORMIN-00470,metformin,Headache,Yes,Unknown,86,76-90,2026,cached_demo
+METFORMIN-00471,metformin,Headache,No,Male,48,46-60,2024,cached_demo
+METFORMIN-00472,metformin,Headache,Yes,Unknown,72,61-75,2024,cached_demo
+METFORMIN-00473,metformin,Headache,No,Female,48,46-60,2023,cached_demo
+METFORMIN-00474,metformin,Headache,No,Female,28,18-30,2022,cached_demo
+METFORMIN-00475,metformin,Headache,No,Unknown,85,76-90,2026,cached_demo
+METFORMIN-00476,metformin,Headache,Yes,Female,88,76-90,2025,cached_demo
+METFORMIN-00477,metformin,Headache,No,Female,23,18-30,2024,cached_demo
+METFORMIN-00478,metformin,Headache,No,Male,50,46-60,2024,cached_demo
+METFORMIN-00479,metformin,Headache,Yes,Male,26,18-30,2022,cached_demo
+METFORMIN-00480,metformin,Headache,Yes,Male,60,46-60,2024,cached_demo
+METFORMIN-00481,metformin,Dizziness,Yes,Unknown,87,76-90,2023,cached_demo
+METFORMIN-00482,metformin,Dizziness,No,Female,77,76-90,2023,cached_demo
+METFORMIN-00483,metformin,Dizziness,Yes,Unknown,35,31-45,2025,cached_demo
+METFORMIN-00484,metformin,Dizziness,Yes,Male,22,18-30,2022,cached_demo
+METFORMIN-00485,metformin,Dizziness,Yes,Female,43,31-45,2024,cached_demo
+METFORMIN-00486,metformin,Dizziness,Yes,Unknown,83,76-90,2025,cached_demo
+METFORMIN-00487,metformin,Dizziness,Yes,Unknown,50,46-60,2023,cached_demo
+METFORMIN-00488,metformin,Dizziness,Yes,Male,54,46-60,2024,cached_demo
+METFORMIN-00489,metformin,Dizziness,Yes,Female,52,46-60,2025,cached_demo
+METFORMIN-00490,metformin,Dizziness,No,Female,69,61-75,2025,cached_demo
+METFORMIN-00491,metformin,Dizziness,Yes,Female,61,61-75,2025,cached_demo
+METFORMIN-00492,metformin,Dizziness,No,Female,65,61-75,2022,cached_demo
+METFORMIN-00493,metformin,Dizziness,Yes,Female,72,61-75,2026,cached_demo
+METFORMIN-00494,metformin,Dizziness,No,Female,41,31-45,2024,cached_demo
+METFORMIN-00495,metformin,Dizziness,Yes,Female,31,31-45,2024,cached_demo
+METFORMIN-00496,metformin,Dizziness,Yes,Unknown,57,46-60,2025,cached_demo
+METFORMIN-00497,metformin,Dizziness,No,Female,39,31-45,2024,cached_demo
+METFORMIN-00498,metformin,Dizziness,Yes,Unknown,75,61-75,2024,cached_demo
+METFORMIN-00499,metformin,Dizziness,Yes,Unknown,73,61-75,2022,cached_demo
+METFORMIN-00500,metformin,Dizziness,No,Unknown,27,18-30,2025,cached_demo
+METFORMIN-00501,metformin,Dizziness,No,Unknown,64,61-75,2023,cached_demo
+METFORMIN-00502,metformin,Dizziness,Yes,Unknown,21,18-30,2025,cached_demo
+METFORMIN-00503,metformin,Dizziness,Yes,Male,22,18-30,2023,cached_demo
+METFORMIN-00504,metformin,Dizziness,Yes,Female,64,61-75,2026,cached_demo
+METFORMIN-00505,metformin,Dizziness,No,Male,22,18-30,2025,cached_demo
+METFORMIN-00506,metformin,Dizziness,Yes,Female,65,61-75,2022,cached_demo
+METFORMIN-00507,metformin,Dizziness,No,Female,35,31-45,2025,cached_demo
+METFORMIN-00508,metformin,Dizziness,No,Female,58,46-60,2023,cached_demo
+METFORMIN-00509,metformin,Dizziness,Yes,Unknown,32,31-45,2023,cached_demo
+METFORMIN-00510,metformin,Dizziness,No,Female,81,76-90,2026,cached_demo
+METFORMIN-00511,metformin,Dizziness,Yes,Female,33,31-45,2025,cached_demo
+METFORMIN-00512,metformin,Dizziness,No,Female,45,31-45,2025,cached_demo
+METFORMIN-00513,metformin,Dizziness,Yes,Male,43,31-45,2022,cached_demo
+METFORMIN-00514,metformin,Dizziness,Yes,Unknown,75,61-75,2025,cached_demo
+METFORMIN-00515,metformin,Dizziness,No,Female,29,18-30,2024,cached_demo
+METFORMIN-00516,metformin,Dizziness,No,Unknown,26,18-30,2024,cached_demo
+METFORMIN-00517,metformin,Dizziness,Yes,Unknown,56,46-60,2023,cached_demo
+METFORMIN-00518,metformin,Dizziness,No,Male,64,61-75,2022,cached_demo
+METFORMIN-00519,metformin,Dizziness,Yes,Male,43,31-45,2025,cached_demo
+METFORMIN-00520,metformin,Dizziness,Yes,Unknown,21,18-30,2026,cached_demo
+METFORMIN-00521,metformin,Fatigue,Yes,Unknown,65,61-75,2023,cached_demo
+METFORMIN-00522,metformin,Fatigue,Yes,Female,29,18-30,2025,cached_demo
+METFORMIN-00523,metformin,Fatigue,No,Female,79,76-90,2025,cached_demo
+METFORMIN-00524,metformin,Fatigue,Yes,Female,27,18-30,2022,cached_demo
+METFORMIN-00525,metformin,Fatigue,Yes,Unknown,75,61-75,2026,cached_demo
+METFORMIN-00526,metformin,Fatigue,Yes,Unknown,62,61-75,2026,cached_demo
+METFORMIN-00527,metformin,Fatigue,Yes,Female,41,31-45,2026,cached_demo
+METFORMIN-00528,metformin,Fatigue,Yes,Unknown,25,18-30,2023,cached_demo
+METFORMIN-00529,metformin,Fatigue,Yes,Male,56,46-60,2024,cached_demo
+METFORMIN-00530,metformin,Fatigue,Yes,Unknown,46,46-60,2024,cached_demo
+METFORMIN-00531,metformin,Fatigue,Yes,Male,28,18-30,2026,cached_demo
+METFORMIN-00532,metformin,Fatigue,Yes,Unknown,53,46-60,2024,cached_demo
+METFORMIN-00533,metformin,Fatigue,Yes,Unknown,86,76-90,2023,cached_demo
+METFORMIN-00534,metformin,Fatigue,Yes,Unknown,37,31-45,2026,cached_demo
+METFORMIN-00535,metformin,Fatigue,No,Male,61,61-75,2022,cached_demo
+METFORMIN-00536,metformin,Fatigue,Yes,Unknown,28,18-30,2026,cached_demo
+METFORMIN-00537,metformin,Fatigue,No,Male,51,46-60,2026,cached_demo
+METFORMIN-00538,metformin,Fatigue,No,Unknown,71,61-75,2022,cached_demo
+METFORMIN-00539,metformin,Fatigue,No,Unknown,81,76-90,2024,cached_demo
+METFORMIN-00540,metformin,Fatigue,Yes,Male,56,46-60,2025,cached_demo
+METFORMIN-00541,metformin,Fatigue,Yes,Male,56,46-60,2022,cached_demo
+METFORMIN-00542,metformin,Fatigue,Yes,Female,38,31-45,2025,cached_demo
+METFORMIN-00543,metformin,Fatigue,Yes,Female,77,76-90,2026,cached_demo
+METFORMIN-00544,metformin,Fatigue,Yes,Unknown,36,31-45,2024,cached_demo
+METFORMIN-00545,metformin,Fatigue,Yes,Male,62,61-75,2024,cached_demo
+METFORMIN-00546,metformin,Fatigue,No,Male,83,76-90,2024,cached_demo
+METFORMIN-00547,metformin,Fatigue,Yes,Male,48,46-60,2024,cached_demo
+METFORMIN-00548,metformin,Fatigue,Yes,Male,75,61-75,2022,cached_demo
+METFORMIN-00549,metformin,Fatigue,Yes,Female,24,18-30,2026,cached_demo
+METFORMIN-00550,metformin,Fatigue,Yes,Male,71,61-75,2024,cached_demo
+METFORMIN-00551,metformin,Fatigue,Yes,Male,58,46-60,2025,cached_demo
+METFORMIN-00552,metformin,Fatigue,Yes,Female,83,76-90,2024,cached_demo
+METFORMIN-00553,metformin,Fatigue,Yes,Male,81,76-90,2025,cached_demo
+METFORMIN-00554,metformin,Fatigue,Yes,Male,82,76-90,2023,cached_demo
+METFORMIN-00555,metformin,Fatigue,Yes,Male,63,61-75,2024,cached_demo
+METFORMIN-00556,metformin,Fatigue,No,Unknown,81,76-90,2025,cached_demo
+METFORMIN-00557,metformin,Fatigue,No,Male,54,46-60,2022,cached_demo
+METFORMIN-00558,metformin,Fatigue,Yes,Female,73,61-75,2024,cached_demo
+METFORMIN-00559,metformin,Fatigue,Yes,Male,69,61-75,2025,cached_demo
+METFORMIN-00560,metformin,Fatigue,No,Unknown,24,18-30,2023,cached_demo
+METFORMIN-00561,metformin,Fatigue,No,Female,64,61-75,2022,cached_demo
+METFORMIN-00562,metformin,Fatigue,No,Female,67,61-75,2026,cached_demo
+METFORMIN-00563,metformin,Fatigue,No,Unknown,53,46-60,2026,cached_demo
+METFORMIN-00564,metformin,Fatigue,Yes,Male,33,31-45,2025,cached_demo
+METFORMIN-00565,metformin,Fatigue,Yes,Unknown,65,61-75,2024,cached_demo
+METFORMIN-00566,metformin,Fatigue,Yes,Unknown,36,31-45,2026,cached_demo
+METFORMIN-00567,metformin,Fatigue,No,Male,69,61-75,2022,cached_demo
+METFORMIN-00568,metformin,Fatigue,Yes,Unknown,22,18-30,2024,cached_demo
+METFORMIN-00569,metformin,Fatigue,No,Female,78,76-90,2023,cached_demo
+METFORMIN-00570,metformin,Fatigue,Yes,Female,83,76-90,2026,cached_demo
+METFORMIN-00571,metformin,Fatigue,Yes,Female,58,46-60,2026,cached_demo
+METFORMIN-00572,metformin,Fatigue,No,Female,56,46-60,2026,cached_demo
+METFORMIN-00573,metformin,Fatigue,No,Female,83,76-90,2026,cached_demo
+METFORMIN-00574,metformin,Fatigue,Yes,Male,56,46-60,2024,cached_demo
+METFORMIN-00575,metformin,Fatigue,No,Male,60,46-60,2025,cached_demo
+METFORMIN-00576,metformin,Fatigue,No,Unknown,57,46-60,2022,cached_demo
+METFORMIN-00577,metformin,Fatigue,Yes,Unknown,78,76-90,2026,cached_demo
+METFORMIN-00578,metformin,Fatigue,No,Male,47,46-60,2026,cached_demo
+METFORMIN-00579,metformin,Fatigue,Yes,Unknown,79,76-90,2026,cached_demo
+METFORMIN-00580,metformin,Fatigue,Yes,Unknown,66,61-75,2023,cached_demo
+METFORMIN-00581,metformin,Fatigue,No,Unknown,22,18-30,2022,cached_demo
+METFORMIN-00582,metformin,Fatigue,Yes,Female,42,31-45,2024,cached_demo
+METFORMIN-00583,metformin,Fatigue,Yes,Female,71,61-75,2023,cached_demo
+METFORMIN-00584,metformin,Fatigue,No,Unknown,70,61-75,2025,cached_demo
+METFORMIN-00585,metformin,Fatigue,No,Male,25,18-30,2026,cached_demo
+METFORMIN-00586,metformin,Fatigue,No,Female,44,31-45,2025,cached_demo
+METFORMIN-00587,metformin,Fatigue,Yes,Female,85,76-90,2023,cached_demo
+METFORMIN-00588,metformin,Fatigue,No,Female,76,76-90,2026,cached_demo
+METFORMIN-00589,metformin,Fatigue,No,Unknown,63,61-75,2024,cached_demo
+METFORMIN-00590,metformin,Fatigue,Yes,Male,79,76-90,2024,cached_demo
+METFORMIN-00591,metformin,Vitamin B12 deficiency,Yes,Male,89,76-90,2024,cached_demo
+METFORMIN-00592,metformin,Vitamin B12 deficiency,No,Male,54,46-60,2025,cached_demo
+METFORMIN-00593,metformin,Vitamin B12 deficiency,Yes,Female,58,46-60,2026,cached_demo
+METFORMIN-00594,metformin,Vitamin B12 deficiency,Yes,Male,53,46-60,2026,cached_demo
+METFORMIN-00595,metformin,Vitamin B12 deficiency,Yes,Female,87,76-90,2024,cached_demo
+METFORMIN-00596,metformin,Vitamin B12 deficiency,Yes,Male,36,31-45,2024,cached_demo
+METFORMIN-00597,metformin,Vitamin B12 deficiency,Yes,Female,28,18-30,2024,cached_demo
+METFORMIN-00598,metformin,Vitamin B12 deficiency,Yes,Male,79,76-90,2026,cached_demo
+METFORMIN-00599,metformin,Vitamin B12 deficiency,No,Unknown,52,46-60,2024,cached_demo
+METFORMIN-00600,metformin,Vitamin B12 deficiency,Yes,Unknown,35,31-45,2026,cached_demo
+METFORMIN-00601,metformin,Vitamin B12 deficiency,Yes,Male,48,46-60,2026,cached_demo
+METFORMIN-00602,metformin,Vitamin B12 deficiency,No,Male,46,46-60,2022,cached_demo
+METFORMIN-00603,metformin,Lactic acidosis,Yes,Female,30,18-30,2025,cached_demo
+METFORMIN-00604,metformin,Lactic acidosis,No,Male,30,18-30,2022,cached_demo
+METFORMIN-00605,metformin,Lactic acidosis,Yes,Female,88,76-90,2025,cached_demo
+METFORMIN-00606,metformin,Lactic acidosis,No,Male,79,76-90,2024,cached_demo
+METFORMIN-00607,metformin,Lactic acidosis,Yes,Unknown,59,46-60,2022,cached_demo
+METFORMIN-00608,metformin,Lactic acidosis,No,Unknown,29,18-30,2023,cached_demo
+METFORMIN-00609,metformin,Lactic acidosis,No,Unknown,86,76-90,2022,cached_demo
+METFORMIN-00610,metformin,Lactic acidosis,Yes,Male,40,31-45,2022,cached_demo
+METFORMIN-00611,metformin,Metallic taste,Yes,Male,68,61-75,2024,cached_demo
+METFORMIN-00612,metformin,Metallic taste,Yes,Female,22,18-30,2026,cached_demo
+METFORMIN-00613,metformin,Metallic taste,Yes,Female,31,31-45,2025,cached_demo
+METFORMIN-00614,metformin,Angioedema,No,Female,87,76-90,2023,cached_demo
+METFORMIN-00615,metformin,Angioedema,Yes,Female,82,76-90,2023,cached_demo
+METFORMIN-00616,metformin,Other/unspecified,No,Male,32,31-45,2025,cached_demo
+METFORMIN-00617,metformin,Other/unspecified,No,Male,50,46-60,2022,cached_demo
+METFORMIN-00618,metformin,Other/unspecified,No,Unknown,61,61-75,2023,cached_demo
+METFORMIN-00619,metformin,Other/unspecified,No,Unknown,40,31-45,2025,cached_demo
+METFORMIN-00620,metformin,Other/unspecified,No,Female,72,61-75,2022,cached_demo
+METFORMIN-00621,metformin,Other/unspecified,No,Male,69,61-75,2023,cached_demo
+METFORMIN-00622,metformin,Other/unspecified,No,Female,35,31-45,2023,cached_demo
+METFORMIN-00623,metformin,Other/unspecified,No,Female,18,18-30,2023,cached_demo
+METFORMIN-00624,metformin,Other/unspecified,No,Female,75,61-75,2024,cached_demo
+METFORMIN-00625,metformin,Other/unspecified,No,Unknown,19,18-30,2024,cached_demo
+METFORMIN-00626,metformin,Other/unspecified,Yes,Unknown,48,46-60,2022,cached_demo
+METFORMIN-00627,metformin,Other/unspecified,No,Male,77,76-90,2025,cached_demo
+METFORMIN-00628,metformin,Other/unspecified,No,Female,82,76-90,2022,cached_demo
+METFORMIN-00629,metformin,Other/unspecified,No,Unknown,55,46-60,2023,cached_demo
+METFORMIN-00630,metformin,Other/unspecified,Yes,Female,46,46-60,2023,cached_demo
+METFORMIN-00631,metformin,Other/unspecified,No,Unknown,76,76-90,2024,cached_demo
+METFORMIN-00632,metformin,Other/unspecified,No,Unknown,71,61-75,2025,cached_demo
+METFORMIN-00633,metformin,Other/unspecified,No,Male,86,76-90,2023,cached_demo
+METFORMIN-00634,metformin,Other/unspecified,No,Female,28,18-30,2026,cached_demo
+METFORMIN-00635,metformin,Other/unspecified,Yes,Unknown,64,61-75,2022,cached_demo
+METFORMIN-00636,metformin,Other/unspecified,No,Unknown,25,18-30,2023,cached_demo
+METFORMIN-00637,metformin,Other/unspecified,Yes,Male,86,76-90,2024,cached_demo
+METFORMIN-00638,metformin,Other/unspecified,No,Male,84,76-90,2023,cached_demo
+METFORMIN-00639,metformin,Other/unspecified,Yes,Unknown,80,76-90,2025,cached_demo
+METFORMIN-00640,metformin,Other/unspecified,No,Male,25,18-30,2026,cached_demo
+METFORMIN-00641,metformin,Other/unspecified,No,Unknown,71,61-75,2022,cached_demo
+METFORMIN-00642,metformin,Other/unspecified,No,Unknown,89,76-90,2024,cached_demo
+METFORMIN-00643,metformin,Other/unspecified,No,Female,20,18-30,2022,cached_demo
+METFORMIN-00644,metformin,Other/unspecified,No,Male,45,31-45,2022,cached_demo
+METFORMIN-00645,metformin,Other/unspecified,No,Unknown,72,61-75,2022,cached_demo
+METFORMIN-00646,metformin,Other/unspecified,Yes,Male,87,76-90,2025,cached_demo
+METFORMIN-00647,metformin,Other/unspecified,No,Female,22,18-30,2023,cached_demo
+METFORMIN-00648,metformin,Other/unspecified,No,Unknown,35,31-45,2025,cached_demo
+METFORMIN-00649,metformin,Other/unspecified,No,Female,65,61-75,2025,cached_demo
+METFORMIN-00650,metformin,Other/unspecified,Yes,Unknown,66,61-75,2026,cached_demo
+METFORMIN-00651,metformin,Other/unspecified,No,Female,35,31-45,2022,cached_demo
+METFORMIN-00652,metformin,Other/unspecified,No,Female,40,31-45,2026,cached_demo
+METFORMIN-00653,metformin,Other/unspecified,No,Male,34,31-45,2022,cached_demo
+METFORMIN-00654,metformin,Other/unspecified,No,Female,20,18-30,2026,cached_demo
+METFORMIN-00655,metformin,Other/unspecified,No,Female,72,61-75,2023,cached_demo
+METFORMIN-00656,metformin,Other/unspecified,No,Female,49,46-60,2023,cached_demo
+METFORMIN-00657,metformin,Other/unspecified,Yes,Unknown,53,46-60,2022,cached_demo
+METFORMIN-00658,metformin,Other/unspecified,No,Female,22,18-30,2026,cached_demo
+METFORMIN-00659,metformin,Other/unspecified,Yes,Male,20,18-30,2022,cached_demo
+METFORMIN-00660,metformin,Other/unspecified,No,Male,30,18-30,2025,cached_demo
+METFORMIN-00661,metformin,Other/unspecified,Yes,Unknown,24,18-30,2022,cached_demo
+METFORMIN-00662,metformin,Other/unspecified,No,Male,69,61-75,2026,cached_demo
+METFORMIN-00663,metformin,Other/unspecified,Yes,Male,45,31-45,2026,cached_demo
+METFORMIN-00664,metformin,Other/unspecified,Yes,Unknown,55,46-60,2026,cached_demo
+METFORMIN-00665,metformin,Other/unspecified,No,Unknown,58,46-60,2024,cached_demo
+METFORMIN-00666,metformin,Other/unspecified,No,Male,48,46-60,2026,cached_demo
+METFORMIN-00667,metformin,Other/unspecified,No,Female,46,46-60,2024,cached_demo
+METFORMIN-00668,metformin,Other/unspecified,No,Unknown,25,18-30,2023,cached_demo
+METFORMIN-00669,metformin,Other/unspecified,No,Female,72,61-75,2022,cached_demo
+METFORMIN-00670,metformin,Other/unspecified,No,Unknown,62,61-75,2025,cached_demo
+METFORMIN-00671,metformin,Other/unspecified,No,Unknown,85,76-90,2025,cached_demo
+METFORMIN-00672,metformin,Other/unspecified,Yes,Female,70,61-75,2025,cached_demo
+METFORMIN-00673,metformin,Other/unspecified,No,Female,41,31-45,2023,cached_demo
+METFORMIN-00674,metformin,Other/unspecified,No,Unknown,46,46-60,2023,cached_demo
+METFORMIN-00675,metformin,Other/unspecified,Yes,Unknown,77,76-90,2025,cached_demo
+METFORMIN-00676,metformin,Other/unspecified,No,Unknown,71,61-75,2023,cached_demo
+METFORMIN-00677,metformin,Other/unspecified,Yes,Female,67,61-75,2023,cached_demo
+METFORMIN-00678,metformin,Other/unspecified,No,Male,60,46-60,2025,cached_demo
+METFORMIN-00679,metformin,Other/unspecified,Yes,Unknown,65,61-75,2023,cached_demo
+METFORMIN-00680,metformin,Other/unspecified,No,Female,24,18-30,2026,cached_demo
+METFORMIN-00681,metformin,Other/unspecified,Yes,Male,23,18-30,2026,cached_demo
+METFORMIN-00682,metformin,Other/unspecified,Yes,Female,89,76-90,2023,cached_demo
+METFORMIN-00683,metformin,Other/unspecified,No,Male,60,46-60,2023,cached_demo
+METFORMIN-00684,metformin,Other/unspecified,No,Male,42,31-45,2025,cached_demo
+METFORMIN-00685,metformin,Other/unspecified,No,Unknown,49,46-60,2023,cached_demo
+METFORMIN-00686,metformin,Other/unspecified,Yes,Unknown,68,61-75,2024,cached_demo
+METFORMIN-00687,metformin,Other/unspecified,No,Female,54,46-60,2026,cached_demo
+METFORMIN-00688,metformin,Other/unspecified,No,Female,63,61-75,2024,cached_demo
+METFORMIN-00689,metformin,Other/unspecified,No,Female,83,76-90,2022,cached_demo
+METFORMIN-00690,metformin,Other/unspecified,No,Male,78,76-90,2024,cached_demo
+METFORMIN-00691,metformin,Other/unspecified,No,Male,58,46-60,2026,cached_demo
+METFORMIN-00692,metformin,Other/unspecified,No,Male,46,46-60,2022,cached_demo
+METFORMIN-00693,metformin,Other/unspecified,No,Unknown,51,46-60,2026,cached_demo
+METFORMIN-00694,metformin,Other/unspecified,No,Male,71,61-75,2023,cached_demo
+METFORMIN-00695,metformin,Other/unspecified,Yes,Female,60,46-60,2026,cached_demo
+METFORMIN-00696,metformin,Other/unspecified,No,Unknown,49,46-60,2024,cached_demo
+METFORMIN-00697,metformin,Other/unspecified,No,Unknown,50,46-60,2025,cached_demo
+METFORMIN-00698,metformin,Other/unspecified,Yes,Unknown,76,76-90,2024,cached_demo
+METFORMIN-00699,metformin,Other/unspecified,Yes,Unknown,39,31-45,2026,cached_demo
+METFORMIN-00700,metformin,Other/unspecified,Yes,Unknown,80,76-90,2022,cached_demo
+METFORMIN-00701,metformin,Other/unspecified,Yes,Male,85,76-90,2022,cached_demo
+METFORMIN-00702,metformin,Other/unspecified,No,Male,18,18-30,2023,cached_demo
+METFORMIN-00703,metformin,Other/unspecified,No,Male,26,18-30,2022,cached_demo
+METFORMIN-00704,metformin,Other/unspecified,No,Female,45,31-45,2024,cached_demo
+METFORMIN-00705,metformin,Other/unspecified,No,Unknown,25,18-30,2026,cached_demo
+METFORMIN-00706,metformin,Other/unspecified,No,Female,79,76-90,2022,cached_demo
+METFORMIN-00707,metformin,Other/unspecified,No,Unknown,18,18-30,2025,cached_demo
+METFORMIN-00708,metformin,Other/unspecified,Yes,Unknown,19,18-30,2024,cached_demo
+METFORMIN-00709,metformin,Other/unspecified,No,Male,86,76-90,2026,cached_demo
+METFORMIN-00710,metformin,Other/unspecified,Yes,Male,73,61-75,2022,cached_demo
+METFORMIN-00711,metformin,Other/unspecified,Yes,Male,85,76-90,2023,cached_demo
+METFORMIN-00712,metformin,Other/unspecified,No,Female,85,76-90,2024,cached_demo
+METFORMIN-00713,metformin,Other/unspecified,Yes,Female,68,61-75,2025,cached_demo
+METFORMIN-00714,metformin,Other/unspecified,No,Male,76,76-90,2023,cached_demo
+METFORMIN-00715,metformin,Other/unspecified,No,Male,56,46-60,2022,cached_demo
+METFORMIN-00716,metformin,Other/unspecified,No,Female,29,18-30,2025,cached_demo
+METFORMIN-00717,metformin,Other/unspecified,No,Male,88,76-90,2022,cached_demo
+METFORMIN-00718,metformin,Other/unspecified,Yes,Female,39,31-45,2025,cached_demo
+METFORMIN-00719,metformin,Other/unspecified,No,Male,60,46-60,2026,cached_demo
+METFORMIN-00720,metformin,Other/unspecified,Yes,Male,23,18-30,2026,cached_demo
+METFORMIN-00721,metformin,Other/unspecified,No,Male,78,76-90,2022,cached_demo
+METFORMIN-00722,metformin,Other/unspecified,No,Unknown,53,46-60,2022,cached_demo
+METFORMIN-00723,metformin,Other/unspecified,No,Male,40,31-45,2023,cached_demo
+METFORMIN-00724,metformin,Other/unspecified,No,Female,36,31-45,2022,cached_demo
+METFORMIN-00725,metformin,Other/unspecified,Yes,Unknown,56,46-60,2023,cached_demo
+METFORMIN-00726,metformin,Other/unspecified,No,Unknown,90,76-90,2026,cached_demo
+METFORMIN-00727,metformin,Other/unspecified,No,Unknown,60,46-60,2023,cached_demo
+METFORMIN-00728,metformin,Other/unspecified,No,Unknown,28,18-30,2024,cached_demo
+METFORMIN-00729,metformin,Other/unspecified,Yes,Female,24,18-30,2023,cached_demo
+METFORMIN-00730,metformin,Other/unspecified,No,Unknown,27,18-30,2026,cached_demo
+METFORMIN-00731,metformin,Other/unspecified,No,Male,68,61-75,2024,cached_demo
+METFORMIN-00732,metformin,Other/unspecified,No,Male,75,61-75,2024,cached_demo
+METFORMIN-00733,metformin,Other/unspecified,No,Female,88,76-90,2023,cached_demo
+METFORMIN-00734,metformin,Other/unspecified,Yes,Unknown,66,61-75,2024,cached_demo
+METFORMIN-00735,metformin,Other/unspecified,No,Male,49,46-60,2022,cached_demo
+METFORMIN-00736,metformin,Other/unspecified,Yes,Female,52,46-60,2023,cached_demo
+METFORMIN-00737,metformin,Other/unspecified,No,Female,67,61-75,2022,cached_demo
+METFORMIN-00738,metformin,Other/unspecified,Yes,Female,29,18-30,2025,cached_demo
+METFORMIN-00739,metformin,Other/unspecified,No,Male,64,61-75,2023,cached_demo
+METFORMIN-00740,metformin,Other/unspecified,Yes,Female,29,18-30,2025,cached_demo
+METFORMIN-00741,metformin,Other/unspecified,No,Unknown,89,76-90,2025,cached_demo
+METFORMIN-00742,metformin,Other/unspecified,Yes,Male,31,31-45,2024,cached_demo
+METFORMIN-00743,metformin,Other/unspecified,Yes,Unknown,88,76-90,2026,cached_demo
+METFORMIN-00744,metformin,Other/unspecified,No,Male,59,46-60,2024,cached_demo
+METFORMIN-00745,metformin,Other/unspecified,No,Male,70,61-75,2026,cached_demo
+METFORMIN-00746,metformin,Other/unspecified,No,Unknown,49,46-60,2023,cached_demo
+METFORMIN-00747,metformin,Other/unspecified,Yes,Male,66,61-75,2024,cached_demo
+METFORMIN-00748,metformin,Other/unspecified,No,Female,56,46-60,2023,cached_demo
+METFORMIN-00749,metformin,Other/unspecified,Yes,Female,26,18-30,2024,cached_demo
+METFORMIN-00750,metformin,Other/unspecified,No,Female,71,61-75,2022,cached_demo
+METFORMIN-00751,metformin,Other/unspecified,No,Male,64,61-75,2025,cached_demo
+METFORMIN-00752,metformin,Other/unspecified,No,Male,43,31-45,2023,cached_demo
+METFORMIN-00753,metformin,Other/unspecified,Yes,Female,56,46-60,2024,cached_demo
+METFORMIN-00754,metformin,Other/unspecified,No,Female,66,61-75,2024,cached_demo
+METFORMIN-00755,metformin,Other/unspecified,No,Unknown,73,61-75,2023,cached_demo
+METFORMIN-00756,metformin,Other/unspecified,No,Unknown,56,46-60,2023,cached_demo
+METFORMIN-00757,metformin,Other/unspecified,No,Male,79,76-90,2025,cached_demo
+METFORMIN-00758,metformin,Other/unspecified,No,Unknown,58,46-60,2025,cached_demo
+METFORMIN-00759,metformin,Other/unspecified,No,Female,49,46-60,2024,cached_demo
+METFORMIN-00760,metformin,Other/unspecified,No,Male,68,61-75,2026,cached_demo
+METFORMIN-00761,metformin,Other/unspecified,No,Unknown,43,31-45,2023,cached_demo
+METFORMIN-00762,metformin,Other/unspecified,Yes,Unknown,88,76-90,2025,cached_demo
+METFORMIN-00763,metformin,Other/unspecified,No,Female,44,31-45,2022,cached_demo
+METFORMIN-00764,metformin,Other/unspecified,No,Female,70,61-75,2023,cached_demo
+METFORMIN-00765,metformin,Other/unspecified,Yes,Female,56,46-60,2023,cached_demo
+METFORMIN-00766,metformin,Other/unspecified,No,Male,72,61-75,2025,cached_demo
+METFORMIN-00767,metformin,Other/unspecified,No,Female,79,76-90,2026,cached_demo
+METFORMIN-00768,metformin,Other/unspecified,No,Female,82,76-90,2026,cached_demo
+METFORMIN-00769,metformin,Other/unspecified,No,Unknown,22,18-30,2026,cached_demo
+METFORMIN-00770,metformin,Other/unspecified,Yes,Male,28,18-30,2024,cached_demo
+METFORMIN-00771,metformin,Other/unspecified,No,Unknown,39,31-45,2022,cached_demo
+METFORMIN-00772,metformin,Other/unspecified,No,Unknown,90,76-90,2025,cached_demo
+METFORMIN-00773,metformin,Other/unspecified,No,Male,60,46-60,2022,cached_demo
+METFORMIN-00774,metformin,Other/unspecified,No,Male,30,18-30,2026,cached_demo
+METFORMIN-00775,metformin,Other/unspecified,No,Unknown,84,76-90,2026,cached_demo
+METFORMIN-00776,metformin,Other/unspecified,No,Female,46,46-60,2025,cached_demo
+METFORMIN-00777,metformin,Other/unspecified,No,Unknown,77,76-90,2026,cached_demo
+METFORMIN-00778,metformin,Other/unspecified,No,Male,37,31-45,2025,cached_demo
+METFORMIN-00779,metformin,Other/unspecified,No,Female,31,31-45,2022,cached_demo
+METFORMIN-00780,metformin,Other/unspecified,No,Male,32,31-45,2024,cached_demo
+METFORMIN-00781,metformin,Other/unspecified,No,Female,57,46-60,2023,cached_demo
+METFORMIN-00782,metformin,Other/unspecified,No,Female,84,76-90,2025,cached_demo
+METFORMIN-00783,metformin,Other/unspecified,No,Unknown,30,18-30,2025,cached_demo
+METFORMIN-00784,metformin,Other/unspecified,Yes,Female,58,46-60,2022,cached_demo
+METFORMIN-00785,metformin,Other/unspecified,Yes,Female,32,31-45,2022,cached_demo
+METFORMIN-00786,metformin,Other/unspecified,No,Male,39,31-45,2026,cached_demo
+METFORMIN-00787,metformin,Other/unspecified,No,Male,40,31-45,2024,cached_demo
+METFORMIN-00788,metformin,Other/unspecified,No,Female,89,76-90,2023,cached_demo
+METFORMIN-00789,metformin,Other/unspecified,No,Male,69,61-75,2023,cached_demo
+METFORMIN-00790,metformin,Other/unspecified,No,Male,73,61-75,2026,cached_demo
+METFORMIN-00791,metformin,Other/unspecified,No,Unknown,43,31-45,2025,cached_demo
+METFORMIN-00792,metformin,Other/unspecified,Yes,Unknown,67,61-75,2023,cached_demo
+METFORMIN-00793,metformin,Other/unspecified,No,Unknown,44,31-45,2022,cached_demo
+METFORMIN-00794,metformin,Other/unspecified,No,Male,31,31-45,2024,cached_demo
+METFORMIN-00795,metformin,Other/unspecified,Yes,Female,59,46-60,2022,cached_demo
+METFORMIN-00796,metformin,Other/unspecified,No,Female,51,46-60,2026,cached_demo
+METFORMIN-00797,metformin,Other/unspecified,No,Female,58,46-60,2026,cached_demo
+METFORMIN-00798,metformin,Other/unspecified,No,Male,68,61-75,2024,cached_demo
+METFORMIN-00799,metformin,Other/unspecified,No,Unknown,63,61-75,2023,cached_demo
+METFORMIN-00800,metformin,Other/unspecified,No,Unknown,56,46-60,2022,cached_demo
+METFORMIN-00801,metformin,Other/unspecified,No,Male,35,31-45,2023,cached_demo
+METFORMIN-00802,metformin,Other/unspecified,Yes,Male,57,46-60,2024,cached_demo
+METFORMIN-00803,metformin,Other/unspecified,No,Female,36,31-45,2025,cached_demo
+METFORMIN-00804,metformin,Other/unspecified,No,Female,35,31-45,2025,cached_demo
+METFORMIN-00805,metformin,Other/unspecified,No,Unknown,41,31-45,2026,cached_demo
+METFORMIN-00806,metformin,Other/unspecified,No,Male,40,31-45,2025,cached_demo
+METFORMIN-00807,metformin,Other/unspecified,Yes,Male,54,46-60,2024,cached_demo
+METFORMIN-00808,metformin,Other/unspecified,No,Male,75,61-75,2024,cached_demo
+METFORMIN-00809,metformin,Other/unspecified,No,Male,19,18-30,2023,cached_demo
+METFORMIN-00810,metformin,Other/unspecified,No,Unknown,67,61-75,2025,cached_demo
+METFORMIN-00811,metformin,Other/unspecified,No,Female,70,61-75,2025,cached_demo
+METFORMIN-00812,metformin,Other/unspecified,No,Male,74,61-75,2022,cached_demo
+METFORMIN-00813,metformin,Other/unspecified,Yes,Male,90,76-90,2024,cached_demo
+METFORMIN-00814,metformin,Other/unspecified,No,Male,22,18-30,2026,cached_demo
+METFORMIN-00815,metformin,Other/unspecified,Yes,Female,54,46-60,2026,cached_demo
+METFORMIN-00816,metformin,Other/unspecified,No,Unknown,81,76-90,2022,cached_demo
+METFORMIN-00817,metformin,Other/unspecified,No,Unknown,32,31-45,2024,cached_demo
+METFORMIN-00818,metformin,Other/unspecified,Yes,Unknown,87,76-90,2025,cached_demo
+METFORMIN-00819,metformin,Other/unspecified,Yes,Female,87,76-90,2022,cached_demo
+METFORMIN-00820,metformin,Other/unspecified,No,Male,49,46-60,2025,cached_demo
+METFORMIN-00821,metformin,Other/unspecified,No,Male,51,46-60,2025,cached_demo
+METFORMIN-00822,metformin,Other/unspecified,Yes,Male,33,31-45,2026,cached_demo
+METFORMIN-00823,metformin,Other/unspecified,No,Unknown,62,61-75,2025,cached_demo
+METFORMIN-00824,metformin,Other/unspecified,No,Male,39,31-45,2023,cached_demo
+METFORMIN-00825,metformin,Other/unspecified,Yes,Unknown,44,31-45,2024,cached_demo
+METFORMIN-00826,metformin,Other/unspecified,No,Unknown,86,76-90,2026,cached_demo
+METFORMIN-00827,metformin,Other/unspecified,No,Unknown,39,31-45,2024,cached_demo
+METFORMIN-00828,metformin,Other/unspecified,No,Female,55,46-60,2026,cached_demo
+METFORMIN-00829,metformin,Other/unspecified,Yes,Female,30,18-30,2022,cached_demo
+METFORMIN-00830,metformin,Other/unspecified,No,Male,53,46-60,2023,cached_demo
+METFORMIN-00831,metformin,Other/unspecified,Yes,Unknown,49,46-60,2024,cached_demo
+METFORMIN-00832,metformin,Other/unspecified,No,Female,49,46-60,2025,cached_demo
+METFORMIN-00833,metformin,Other/unspecified,No,Unknown,36,31-45,2024,cached_demo
+METFORMIN-00834,metformin,Other/unspecified,No,Female,71,61-75,2022,cached_demo
+METFORMIN-00835,metformin,Other/unspecified,No,Unknown,29,18-30,2024,cached_demo
+METFORMIN-00836,metformin,Other/unspecified,No,Female,65,61-75,2024,cached_demo
+METFORMIN-00837,metformin,Other/unspecified,No,Male,18,18-30,2025,cached_demo
+METFORMIN-00838,metformin,Other/unspecified,Yes,Unknown,63,61-75,2025,cached_demo
+METFORMIN-00839,metformin,Other/unspecified,No,Male,45,31-45,2025,cached_demo
+METFORMIN-00840,metformin,Other/unspecified,No,Female,52,46-60,2024,cached_demo
+METFORMIN-00841,metformin,Other/unspecified,No,Male,88,76-90,2026,cached_demo
+METFORMIN-00842,metformin,Other/unspecified,No,Unknown,80,76-90,2022,cached_demo
+METFORMIN-00843,metformin,Other/unspecified,Yes,Unknown,23,18-30,2025,cached_demo
+METFORMIN-00844,metformin,Other/unspecified,Yes,Male,20,18-30,2025,cached_demo
+METFORMIN-00845,metformin,Other/unspecified,Yes,Female,76,76-90,2023,cached_demo
+METFORMIN-00846,metformin,Other/unspecified,No,Female,34,31-45,2023,cached_demo
+METFORMIN-00847,metformin,Other/unspecified,Yes,Unknown,53,46-60,2024,cached_demo
+METFORMIN-00848,metformin,Other/unspecified,Yes,Female,50,46-60,2023,cached_demo
+METFORMIN-00849,metformin,Other/unspecified,No,Unknown,24,18-30,2024,cached_demo
+METFORMIN-00850,metformin,Other/unspecified,No,Unknown,47,46-60,2022,cached_demo
+METFORMIN-00851,metformin,Other/unspecified,Yes,Male,30,18-30,2025,cached_demo
+METFORMIN-00852,metformin,Other/unspecified,Yes,Unknown,27,18-30,2023,cached_demo
+METFORMIN-00853,metformin,Other/unspecified,No,Female,84,76-90,2022,cached_demo
+METFORMIN-00854,metformin,Other/unspecified,No,Female,19,18-30,2022,cached_demo
+METFORMIN-00855,metformin,Other/unspecified,No,Male,72,61-75,2025,cached_demo
+METFORMIN-00856,metformin,Other/unspecified,Yes,Female,27,18-30,2022,cached_demo
+METFORMIN-00857,metformin,Other/unspecified,Yes,Female,31,31-45,2024,cached_demo
+METFORMIN-00858,metformin,Other/unspecified,Yes,Female,56,46-60,2023,cached_demo
+METFORMIN-00859,metformin,Other/unspecified,Yes,Unknown,36,31-45,2026,cached_demo
+METFORMIN-00860,metformin,Other/unspecified,No,Unknown,19,18-30,2023,cached_demo
+METFORMIN-00861,metformin,Other/unspecified,No,Unknown,74,61-75,2023,cached_demo
+METFORMIN-00862,metformin,Other/unspecified,No,Unknown,37,31-45,2025,cached_demo
+METFORMIN-00863,metformin,Other/unspecified,Yes,Male,45,31-45,2023,cached_demo
+METFORMIN-00864,metformin,Other/unspecified,No,Unknown,33,31-45,2025,cached_demo
+METFORMIN-00865,metformin,Other/unspecified,No,Female,62,61-75,2023,cached_demo
+METFORMIN-00866,metformin,Other/unspecified,No,Unknown,49,46-60,2022,cached_demo
+METFORMIN-00867,metformin,Other/unspecified,No,Unknown,49,46-60,2026,cached_demo
+METFORMIN-00868,metformin,Other/unspecified,No,Male,54,46-60,2024,cached_demo
+METFORMIN-00869,metformin,Other/unspecified,No,Unknown,44,31-45,2026,cached_demo
+METFORMIN-00870,metformin,Other/unspecified,No,Female,42,31-45,2024,cached_demo
+METFORMIN-00871,metformin,Other/unspecified,Yes,Female,24,18-30,2025,cached_demo
+METFORMIN-00872,metformin,Other/unspecified,Yes,Female,32,31-45,2026,cached_demo
+METFORMIN-00873,metformin,Other/unspecified,No,Male,27,18-30,2024,cached_demo
+METFORMIN-00874,metformin,Other/unspecified,Yes,Female,58,46-60,2026,cached_demo
+METFORMIN-00875,metformin,Other/unspecified,No,Unknown,71,61-75,2023,cached_demo
+METFORMIN-00876,metformin,Other/unspecified,Yes,Male,78,76-90,2026,cached_demo
+METFORMIN-00877,metformin,Other/unspecified,Yes,Female,26,18-30,2023,cached_demo
+METFORMIN-00878,metformin,Other/unspecified,Yes,Female,23,18-30,2026,cached_demo
+METFORMIN-00879,metformin,Other/unspecified,No,Unknown,54,46-60,2026,cached_demo
+METFORMIN-00880,metformin,Other/unspecified,No,Unknown,71,61-75,2025,cached_demo
+METFORMIN-00881,metformin,Other/unspecified,No,Unknown,28,18-30,2026,cached_demo
+METFORMIN-00882,metformin,Other/unspecified,No,Male,37,31-45,2024,cached_demo
+METFORMIN-00883,metformin,Other/unspecified,No,Male,28,18-30,2023,cached_demo
+METFORMIN-00884,metformin,Other/unspecified,No,Female,86,76-90,2026,cached_demo
+METFORMIN-00885,metformin,Other/unspecified,No,Unknown,26,18-30,2025,cached_demo
+METFORMIN-00886,metformin,Other/unspecified,Yes,Male,48,46-60,2022,cached_demo
+METFORMIN-00887,metformin,Other/unspecified,Yes,Female,73,61-75,2026,cached_demo
+METFORMIN-00888,metformin,Other/unspecified,No,Unknown,25,18-30,2023,cached_demo
+METFORMIN-00889,metformin,Other/unspecified,Yes,Unknown,33,31-45,2023,cached_demo
+METFORMIN-00890,metformin,Other/unspecified,Yes,Female,19,18-30,2024,cached_demo
+METFORMIN-00891,metformin,Other/unspecified,No,Unknown,84,76-90,2024,cached_demo
+METFORMIN-00892,metformin,Other/unspecified,No,Male,39,31-45,2024,cached_demo
+METFORMIN-00893,metformin,Other/unspecified,Yes,Female,33,31-45,2025,cached_demo
+METFORMIN-00894,metformin,Other/unspecified,No,Male,52,46-60,2024,cached_demo
+METFORMIN-00895,metformin,Other/unspecified,No,Female,27,18-30,2026,cached_demo
+METFORMIN-00896,metformin,Other/unspecified,Yes,Female,64,61-75,2026,cached_demo
+METFORMIN-00897,metformin,Other/unspecified,No,Male,39,31-45,2024,cached_demo
+METFORMIN-00898,metformin,Other/unspecified,No,Unknown,31,31-45,2022,cached_demo
+METFORMIN-00899,metformin,Other/unspecified,No,Unknown,47,46-60,2022,cached_demo
+METFORMIN-00900,metformin,Other/unspecified,Yes,Male,23,18-30,2022,cached_demo
+METFORMIN-00901,metformin,Other/unspecified,No,Female,78,76-90,2023,cached_demo
+METFORMIN-00902,metformin,Other/unspecified,Yes,Unknown,40,31-45,2025,cached_demo
+METFORMIN-00903,metformin,Other/unspecified,No,Male,46,46-60,2025,cached_demo
+METFORMIN-00904,metformin,Other/unspecified,No,Male,58,46-60,2026,cached_demo
+METFORMIN-00905,metformin,Other/unspecified,Yes,Unknown,65,61-75,2022,cached_demo
+METFORMIN-00906,metformin,Other/unspecified,Yes,Unknown,40,31-45,2022,cached_demo
+METFORMIN-00907,metformin,Other/unspecified,Yes,Female,69,61-75,2024,cached_demo
+METFORMIN-00908,metformin,Other/unspecified,No,Male,57,46-60,2026,cached_demo
+METFORMIN-00909,metformin,Other/unspecified,Yes,Female,76,76-90,2023,cached_demo
+METFORMIN-00910,metformin,Other/unspecified,No,Female,55,46-60,2026,cached_demo
+METFORMIN-00911,metformin,Other/unspecified,No,Female,49,46-60,2026,cached_demo
+METFORMIN-00912,metformin,Other/unspecified,Yes,Unknown,81,76-90,2026,cached_demo
+METFORMIN-00913,metformin,Other/unspecified,Yes,Male,49,46-60,2025,cached_demo
+METFORMIN-00914,metformin,Other/unspecified,Yes,Unknown,21,18-30,2024,cached_demo
+METFORMIN-00915,metformin,Other/unspecified,No,Male,19,18-30,2025,cached_demo
+METFORMIN-00916,metformin,Other/unspecified,Yes,Male,57,46-60,2026,cached_demo
+METFORMIN-00917,metformin,Other/unspecified,No,Female,48,46-60,2022,cached_demo
+METFORMIN-00918,metformin,Other/unspecified,No,Female,36,31-45,2022,cached_demo
+METFORMIN-00919,metformin,Other/unspecified,Yes,Unknown,23,18-30,2025,cached_demo
+METFORMIN-00920,metformin,Other/unspecified,No,Unknown,65,61-75,2022,cached_demo
+METFORMIN-00921,metformin,Other/unspecified,No,Male,30,18-30,2025,cached_demo
+METFORMIN-00922,metformin,Other/unspecified,No,Unknown,27,18-30,2022,cached_demo
+METFORMIN-00923,metformin,Other/unspecified,No,Male,73,61-75,2023,cached_demo
+METFORMIN-00924,metformin,Other/unspecified,No,Female,55,46-60,2025,cached_demo
+METFORMIN-00925,metformin,Other/unspecified,No,Female,59,46-60,2024,cached_demo
+METFORMIN-00926,metformin,Other/unspecified,Yes,Male,47,46-60,2023,cached_demo
+METFORMIN-00927,metformin,Other/unspecified,Yes,Male,31,31-45,2023,cached_demo
+METFORMIN-00928,metformin,Other/unspecified,No,Female,75,61-75,2025,cached_demo
+METFORMIN-00929,metformin,Other/unspecified,No,Female,33,31-45,2023,cached_demo
+METFORMIN-00930,metformin,Other/unspecified,No,Female,75,61-75,2024,cached_demo
+METFORMIN-00931,metformin,Other/unspecified,Yes,Male,33,31-45,2024,cached_demo
+METFORMIN-00932,metformin,Other/unspecified,Yes,Female,23,18-30,2023,cached_demo
+METFORMIN-00933,metformin,Other/unspecified,No,Male,29,18-30,2024,cached_demo
+METFORMIN-00934,metformin,Other/unspecified,No,Male,68,61-75,2024,cached_demo
+METFORMIN-00935,metformin,Other/unspecified,Yes,Male,51,46-60,2025,cached_demo
+METFORMIN-00936,metformin,Other/unspecified,No,Unknown,75,61-75,2026,cached_demo
+METFORMIN-00937,metformin,Other/unspecified,Yes,Female,49,46-60,2022,cached_demo
+METFORMIN-00938,metformin,Other/unspecified,Yes,Male,35,31-45,2022,cached_demo
+METFORMIN-00939,metformin,Other/unspecified,Yes,Male,46,46-60,2025,cached_demo
+METFORMIN-00940,metformin,Other/unspecified,No,Unknown,65,61-75,2022,cached_demo
+METFORMIN-00941,metformin,Other/unspecified,Yes,Male,51,46-60,2022,cached_demo
+METFORMIN-00942,metformin,Other/unspecified,No,Female,43,31-45,2023,cached_demo
+METFORMIN-00943,metformin,Other/unspecified,No,Male,29,18-30,2022,cached_demo
+METFORMIN-00944,metformin,Other/unspecified,Yes,Male,77,76-90,2026,cached_demo
+METFORMIN-00945,metformin,Other/unspecified,No,Female,73,61-75,2025,cached_demo
+METFORMIN-00946,metformin,Other/unspecified,No,Unknown,21,18-30,2025,cached_demo
+METFORMIN-00947,metformin,Other/unspecified,No,Male,40,31-45,2023,cached_demo
+METFORMIN-00948,metformin,Other/unspecified,No,Female,53,46-60,2023,cached_demo
+METFORMIN-00949,metformin,Other/unspecified,No,Unknown,22,18-30,2026,cached_demo
+METFORMIN-00950,metformin,Other/unspecified,No,Female,49,46-60,2025,cached_demo
+METFORMIN-00951,metformin,Other/unspecified,No,Female,70,61-75,2022,cached_demo
+METFORMIN-00952,metformin,Other/unspecified,No,Female,29,18-30,2023,cached_demo
+METFORMIN-00953,metformin,Other/unspecified,Yes,Unknown,71,61-75,2026,cached_demo
+METFORMIN-00954,metformin,Other/unspecified,No,Unknown,49,46-60,2022,cached_demo
+METFORMIN-00955,metformin,Other/unspecified,No,Female,66,61-75,2025,cached_demo
+METFORMIN-00956,metformin,Other/unspecified,No,Female,87,76-90,2026,cached_demo
+METFORMIN-00957,metformin,Other/unspecified,No,Female,82,76-90,2024,cached_demo
+METFORMIN-00958,metformin,Other/unspecified,Yes,Female,41,31-45,2026,cached_demo
+METFORMIN-00959,metformin,Other/unspecified,Yes,Female,46,46-60,2022,cached_demo
+METFORMIN-00960,metformin,Other/unspecified,No,Female,78,76-90,2026,cached_demo
+METFORMIN-00961,metformin,Other/unspecified,Yes,Male,47,46-60,2023,cached_demo
+METFORMIN-00962,metformin,Other/unspecified,No,Unknown,48,46-60,2022,cached_demo
+METFORMIN-00963,metformin,Other/unspecified,No,Female,46,46-60,2024,cached_demo
+METFORMIN-00964,metformin,Other/unspecified,Yes,Male,40,31-45,2026,cached_demo
+METFORMIN-00965,metformin,Other/unspecified,No,Unknown,58,46-60,2024,cached_demo
+METFORMIN-00966,metformin,Other/unspecified,No,Unknown,21,18-30,2024,cached_demo
+METFORMIN-00967,metformin,Other/unspecified,No,Male,90,76-90,2026,cached_demo
+METFORMIN-00968,metformin,Other/unspecified,No,Unknown,42,31-45,2024,cached_demo
+METFORMIN-00969,metformin,Other/unspecified,No,Male,40,31-45,2022,cached_demo
+METFORMIN-00970,metformin,Other/unspecified,Yes,Unknown,25,18-30,2023,cached_demo
+METFORMIN-00971,metformin,Other/unspecified,No,Female,20,18-30,2022,cached_demo
+METFORMIN-00972,metformin,Other/unspecified,No,Male,60,46-60,2023,cached_demo
+METFORMIN-00973,metformin,Other/unspecified,No,Male,61,61-75,2024,cached_demo
+METFORMIN-00974,metformin,Other/unspecified,Yes,Male,25,18-30,2026,cached_demo
+METFORMIN-00975,metformin,Other/unspecified,Yes,Unknown,36,31-45,2024,cached_demo
+METFORMIN-00976,metformin,Other/unspecified,No,Unknown,27,18-30,2025,cached_demo
+METFORMIN-00977,metformin,Other/unspecified,No,Female,30,18-30,2024,cached_demo
+METFORMIN-00978,metformin,Other/unspecified,Yes,Unknown,35,31-45,2025,cached_demo
+METFORMIN-00979,metformin,Other/unspecified,No,Female,80,76-90,2023,cached_demo
+METFORMIN-00980,metformin,Other/unspecified,No,Unknown,89,76-90,2024,cached_demo
+METFORMIN-00981,metformin,Other/unspecified,No,Unknown,46,46-60,2023,cached_demo
+METFORMIN-00982,metformin,Other/unspecified,No,Unknown,66,61-75,2024,cached_demo
+METFORMIN-00983,metformin,Other/unspecified,Yes,Unknown,34,31-45,2022,cached_demo
+METFORMIN-00984,metformin,Other/unspecified,No,Male,68,61-75,2023,cached_demo
+METFORMIN-00985,metformin,Other/unspecified,No,Male,58,46-60,2026,cached_demo
+METFORMIN-00986,metformin,Other/unspecified,No,Male,31,31-45,2024,cached_demo
+METFORMIN-00987,metformin,Other/unspecified,Yes,Female,27,18-30,2024,cached_demo
+METFORMIN-00988,metformin,Other/unspecified,No,Male,39,31-45,2024,cached_demo
+METFORMIN-00989,metformin,Other/unspecified,Yes,Female,75,61-75,2023,cached_demo
+METFORMIN-00990,metformin,Other/unspecified,No,Male,49,46-60,2024,cached_demo
+METFORMIN-00991,metformin,Other/unspecified,Yes,Unknown,50,46-60,2022,cached_demo
+METFORMIN-00992,metformin,Other/unspecified,No,Female,24,18-30,2025,cached_demo
+METFORMIN-00993,metformin,Other/unspecified,No,Female,39,31-45,2025,cached_demo
+METFORMIN-00994,metformin,Other/unspecified,No,Female,62,61-75,2022,cached_demo
+METFORMIN-00995,metformin,Other/unspecified,No,Unknown,79,76-90,2023,cached_demo
+METFORMIN-00996,metformin,Other/unspecified,No,Male,38,31-45,2022,cached_demo
+METFORMIN-00997,metformin,Other/unspecified,Yes,Female,55,46-60,2024,cached_demo
+METFORMIN-00998,metformin,Other/unspecified,Yes,Female,31,31-45,2023,cached_demo
+METFORMIN-00999,metformin,Other/unspecified,Yes,Unknown,66,61-75,2022,cached_demo
+METFORMIN-01000,metformin,Other/unspecified,Yes,Female,88,76-90,2026,cached_demo

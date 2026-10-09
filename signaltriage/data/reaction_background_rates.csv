@@ -1,0 +1,22 @@
+reaction_term,comparator_event_count,comparator_total_reports,background_rate,dataset_definition,last_refreshed
+Nausea,8000,100000,0.08,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Diarrhoea,6000,100000,0.06,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Abdominal discomfort,3000,100000,0.03,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Headache,9000,100000,0.09,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Dizziness,5000,100000,0.05,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Fatigue,5000,100000,0.05,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Vitamin B12 deficiency,100,100000,0.001,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Lactic acidosis,40,100000,0.0004,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Metallic taste,100,100000,0.001,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Angioedema,50,100000,0.0005,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Abdominal pain,3000,100000,0.03,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Dyspepsia,4000,100000,0.04,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Rash,2000,100000,0.02,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Gastrointestinal haemorrhage,300,100000,0.003,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Renal impairment,200,100000,0.002,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Stevens-Johnson syndrome,20,100000,0.0002,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Myalgia,2500,100000,0.025,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Arthralgia,2000,100000,0.02,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Hepatic enzyme increased,150,100000,0.0015,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Diabetes mellitus,800,100000,0.008,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
+Rhabdomyolysis,30,100000,0.0003,"Fixed cached comparator sample of 100,000 reports across other drugs, for offline/demo mode only.",2026-08-29
